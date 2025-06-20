@@ -84,7 +84,7 @@
 
 ### Создавать Дело в таймлайне
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Если чек-бокс «Создавать Дело в таймлайне» активирован, то в таймлайне карточки после отправки сообщения создастся дело с информацией и содержанием сообщения:
 
