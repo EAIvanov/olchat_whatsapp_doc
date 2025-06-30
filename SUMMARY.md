@@ -74,6 +74,7 @@
   * [Отправка ссылки](roboty-i-aktiviti/roboty/otpravka-ssylki.md)
   * [Отправка геометки](roboty-i-aktiviti/roboty/otpravka-geometki.md)
   * [Отправка голосового сообщения](roboty-i-aktiviti/roboty/otpravka-golosovogo-soobsheniya.md)
+  * [Отправка сообщения с кнопками](roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-knopkami.md)
   * [Информация о диалоге](roboty-i-aktiviti/roboty/informaciya-o-dialoge.md)
   * [Управление открытой линией](roboty-i-aktiviti/roboty/upravlenie-otkrytoi-liniei.md)
   * [Перевести диалог на другого оператора/линию](roboty-i-aktiviti/roboty/perevesti-dialog-na-drugogo-operatora-liniyu.md)
