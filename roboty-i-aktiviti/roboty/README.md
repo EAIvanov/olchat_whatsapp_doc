@@ -50,6 +50,8 @@
 
 [otpravka-golosovogo-soobsheniya.md](otpravka-golosovogo-soobsheniya.md "mention") — отправляет аудиосообщение
 
+[otpravka-soobsheniya-s-knopkami.md](otpravka-soobsheniya-s-knopkami.md "mention") — отправляет сообщения с кнопками
+
 [#robot-upravlenie-gruppoi](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md#robot-upravlenie-gruppoi "mention") — робот и активити для управления составом и правами участников группы
 
 #### Роботы и активити групп
