@@ -43,7 +43,9 @@
 {% step %}
 ### Установите параметр ответа на номер телефона лида.
 
+Укажите тип телефона для отправки сообщений в WhatsApp.&#x20;
 
+Воспользуйтесь [данной иснтрукцией](../osobennosti-ispolzovaniya-nomerov-v-robotakh-i-aktiviti-biznes-processov.md).
 {% endstep %}
 
 {% step %}
@@ -65,3 +67,6 @@
 {% endstep %}
 {% endstepper %}
 
+Тогда, в конечном варианте, ваше сообщение пользователю будет выглядеть следующим образом:
+
+<figure><img src="../../.gitbook/assets/Скриншот 03.07.25_17.48.04.png" alt=""><figcaption></figcaption></figure>
