@@ -9,11 +9,11 @@
 \
 Итак, встречайте:\
 \
-1\. [Интерфейс основных настроек](https://docs.olchat.io/gruppovye-chaty/gruppy) приложения и групп сделали более современным и адаптивным, а еще расширили возможности настроек для больших сценариев работы.\
+1\. Интерфейс основных настроек [приложения ](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya)и [групп ](https://docs.olchat.io/gruppovye-chaty/gruppy)сделали более современным и адаптивным, а еще расширили возможности настроек для больших сценариев работы.\
 \
 2\. Сделали [сортировку шаблонов](https://docs.olchat.io/capabilities/shablony-soobshenii#opisanie-nastroek-shablonov-soobshenii) более удобной: в настройках добавления шаблонов они идут по алфавиту, а в Открытых линиях, при использовании шаблонов, вы видите 5 последних использованных шаблонов. Остальные никуда не пропали, а находятся ниже. Теперь по умолчанию выбрана последняя использованная категория шаблонов для вашего удобства.\
 \
-3\. Карточка не будет большой, если у вас в прикреплённых контактах и компаниях много номеров. В виджете «OLChat — статусы и чаты» будут видны только 5 номеров, остальные скрываются под кнопкой.\
+3\. [Карточка ](https://docs.olchat.io/ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty#vybor-linii-i-nomera-telefona-klienta)не будет большой, если у вас в прикреплённых контактах и компаниях много номеров. В виджете «OLChat — статусы и чаты» будут видны только 5 номеров, остальные скрываются под кнопкой.\
 \
 4\. Иногда ваша линия может не работать, так как она отключена или удалена. Теперь эта [информация ](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora#chto-oznachayut-preduprezhdayushie-simvoly-v-paneli-upravleniya-otkrytymi-liniyami)выводится в виде значков в основном приложении OLChat WhatsApp около линий.\
 \
