@@ -27,9 +27,9 @@
 
 ### Уведомления
 
-<figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.07.25_14.23.40.png" alt=""><figcaption></figcaption></figure>
 
-В разделе «УВЕДОМЛЕНИЯ» содержится ссылка на переход в чат уведомлений и возможность добавить в этот чат сотрудников. Подробнее в статье [tipy-uvedomlenii-prilozheniya.md](tipy-uvedomlenii-prilozheniya.md "mention")
+В данном разделе содержится ссылка на переход в чат уведомлений и возможность добавить в этот чат сотрудников. Подробнее в статье [tipy-uvedomlenii-prilozheniya.md](tipy-uvedomlenii-prilozheniya.md "mention")
 
 ### Роботы
 
