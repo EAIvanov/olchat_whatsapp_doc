@@ -8,13 +8,13 @@
 
 <figure><img src="../../.gitbook/assets/image (1264).png" alt=""><figcaption></figcaption></figure>
 
-Страница «Настройки приложения» содержит несколько вкладок с вложенными настройками:
+Страница «Настройки приложения» содержит несколько вкладок с настройками:
 
-<figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.07.25_14.19.55.png" alt=""><figcaption></figcaption></figure>
 
-### Основные
+### Общие
 
-<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.07.25_14.21.45.png" alt=""><figcaption></figcaption></figure>
 
 В разделе «ОСНОВНЫЕ» содержатся следующие настройки:
 
