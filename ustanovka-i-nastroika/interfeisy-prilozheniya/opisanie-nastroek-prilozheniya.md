@@ -52,9 +52,9 @@
 1. Подробнее о встройке «Шаблоны в чате» в статье [#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii](../../capabilities/shablony-soobshenii.md#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii "mention")
 2. Подробнее о виджете «Статусы и чаты» в статье [vidzhet-statusy-i-chaty.md](../../ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention")
 3. Подробнее о виджете «Встройка в карточку звонка» в статье [vstroika-v-kartochku-zvonka.md](../../ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md "mention")
-4. Принудительно отображать виджет в карточке CRM. По умолчанию виджет «Статусы и чаты» при заходе в карточку сущности отображаются в скрытом виде с кнопкой «ОТОБРАЗИТЬ ВИДЖЕТ»:
+4. Принудительно отображать виджет в карточке CRM. По умолчанию виджет «Статусы и чаты» при заходе в карточку сущности отображаются в скрытом виде с кнопкой «Написать в WhatsApp»:
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1378).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Сделано это для снижения рисков блокировки номера, т.к. при каждом заходе в карточку, виджетом производится проверка номеров указанных в карточке на наличие аккаунта WhatsApp. При этом, если вы не производите отправку сообщений посредством приложения, возрастает соотношение количества проверок номеров к количеству отправок, что может повлечь за собой блокировку вашего аккаунта WhatsApp.
 
