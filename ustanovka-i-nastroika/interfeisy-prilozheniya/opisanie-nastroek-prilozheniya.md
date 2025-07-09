@@ -10,7 +10,7 @@
 
 Страница «Настройки приложения» содержит несколько вкладок с настройками:
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.07.25_14.19.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bfcf786d-ce34-4e7e-9f6f-8d4aa42a4574.png" alt=""><figcaption></figcaption></figure>
 
 ### Общие
 
@@ -39,7 +39,7 @@
 
 ### Возможности
 
-<figure><img src="../../.gitbook/assets/image (1252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6f13c457-3021-4df8-842a-d567332bdb9b.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В Настройках приложения вкладка "Возможности" доступна только пользователям, имеющим роль "Администратор". В случае отсутствия у пользователя соответствующих прав доступа вкладка будет недоступна.
