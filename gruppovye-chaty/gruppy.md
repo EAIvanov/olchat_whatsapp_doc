@@ -103,3 +103,27 @@
 {% hint style="info" %}
 Перед добавлением в группу пользователей по номеру телефона, рекомендуем ознакомиться со статьёй [osobennosti-dobavleniya-polzovatelei-v-gruppy.md](osobennosti-dobavleniya-polzovatelei-v-gruppy.md "mention")
 {% endhint %}
+
+### Отключение нескольких групп
+
+Для отключения сразу нескольких групповых чатов WhatsApp от Битрикс24:
+
+перейдите в Настройки групп
+
+{% stepper %}
+{% step %}
+### Перейдите в "Настройки групп" из основного меню приложения OLChat.
+
+<figure><img src="../.gitbook/assets/Скриншот 11.07.25_07.31.02.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Отметьте желаемые для отключения группы, либо нажмите "Выбрать все".
+
+<figure><img src="../.gitbook/assets/Скриншот 11.07.25_07.27.17.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Нажмите кнопку "Отключить выбранные".
+{% endstep %}
+{% endstepper %}
