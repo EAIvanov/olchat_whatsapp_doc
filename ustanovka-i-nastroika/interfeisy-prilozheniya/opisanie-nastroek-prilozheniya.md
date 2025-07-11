@@ -33,9 +33,7 @@
 
 ### Роботы
 
-<figure><img src="../../.gitbook/assets/111.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/3333.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2231).png" alt=""><figcaption></figcaption></figure>
 
 Раздел «РОБОТЫ» содержит список всех роботов и активити бизнес-процессов приложения OLChat и кнопку для их обновления. Подробнее в статье [roboty](../../roboty-i-aktiviti/roboty/ "mention")
 
