@@ -109,7 +109,7 @@
 ## Кейсы
 
 * [Клиенты](keisy/klienty/README.md)
-  * [Отправка шаблона сообщения с кнопками и обработка ответов роботом Ожидание сообщения](keisy/klienty/otpravka-shablona-soobsheniya-s-knopkami-i-obrabotka-otvetov-robotom-ozhidanie-soobsheniya.md)
+  * [Отправка сообщения с кнопками и обработка ответов роботом Ожидание сообщения](keisy/klienty/otpravka-soobsheniya-s-knopkami-i-obrabotka-otvetov-robotom-ozhidanie-soobsheniya.md)
   * [Отправка сообщений после создания лида с помощью роботов](keisy/klienty/otpravka-soobshenii-posle-sozdaniya-lida-s-pomoshyu-robotov.md)
   * [Автоматизация воронки по мероприятиям с помощью уведомлений в WhatsApp](keisy/klienty/avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md)
   * [Отправка сообщений в WhatsApp с помощью CRM-Маркетинга и автоматизация воронки в сделках](keisy/klienty/otpravka-soobshenii-v-whatsapp-s-pomoshyu-crm-marketinga-i-avtomatizaciya-voronki-v-sdelkakh.md)
