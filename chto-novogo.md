@@ -9,7 +9,7 @@
 \
 Итак, встречайте:\
 \
-1\. Интерфейс основных настроек [приложения ](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya)и [групп ](https://docs.olchat.io/gruppovye-chaty/gruppy)сделали более современным и адаптивным, а еще расширили возможности настроек для больших сценариев работы.\
+1\. Интерфейс основных настроек [приложения ](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya)и [групп ](https://docs.olchat.io/gruppovye-chaty/gruppy)сделали более современным и адаптивным, а еще расширили возможности настроек для больших сценариев работы. В настройках групповых чатов появилась возможность [отключения сразу нескольких групп](https://docs.olchat.io/gruppovye-chaty/gruppy#otklyuchenie-neskolkikh-grupp) от Битрикс24. \
 \
 2\. Сделали [сортировку шаблонов](https://docs.olchat.io/capabilities/shablony-soobshenii#opisanie-nastroek-shablonov-soobshenii) более удобной: в настройках добавления шаблонов они идут по алфавиту, а в Открытых линиях, при использовании шаблонов, вы видите 5 последних использованных шаблонов. Остальные никуда не пропали, а находятся ниже. Теперь по умолчанию выбрана последняя использованная категория шаблонов для вашего удобства.\
 \
