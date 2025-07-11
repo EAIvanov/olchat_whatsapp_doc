@@ -63,7 +63,7 @@
 {% step %}
 ### Укажите желаемые настройки и нажмите "Сохранить".
 
-<figure><img src="../../.gitbook/assets/Скриншот 03.07.25_17.12.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 11.07.25_10.47.04.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
