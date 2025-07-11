@@ -45,7 +45,7 @@
 
 Укажите тип телефона для отправки сообщений в WhatsApp.&#x20;
 
-Воспользуйтесь [данной иснтрукцией](../osobennosti-ispolzovaniya-nomerov-v-robotakh-i-aktiviti-biznes-processov.md).
+Воспользуйтесь [данной инструкцией](../osobennosti-ispolzovaniya-nomerov-v-robotakh-i-aktiviti-biznes-processov.md).
 {% endstep %}
 
 {% step %}
