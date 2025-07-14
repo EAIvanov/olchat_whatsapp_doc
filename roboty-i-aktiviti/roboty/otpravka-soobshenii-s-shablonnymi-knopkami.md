@@ -87,4 +87,10 @@
 
 Ниже в таблице указаны все поддерживаемые платформы для актуальных версий WhatsApp.
 
-<table data-header-hidden><thead><tr><th align="center" valign="top">Операционная система / платформа</th><th align="center" valign="top">Поддержка кнопок в сообщении</th></tr></thead><tbody><tr><td align="center" valign="top">Android</td><td align="center" valign="top">✔️</td></tr><tr><td align="center" valign="top">iOS</td><td align="center" valign="top">✔️</td></tr><tr><td align="center" valign="top">iPadOS</td><td align="center" valign="top">✔️</td></tr><tr><td align="center" valign="top">Whatsapp WEB</td><td align="center" valign="top">✔️</td></tr><tr><td align="center" valign="top">Windows Desktop</td><td align="center" valign="top">❌</td></tr></tbody></table>
+| Операционная система / платформа | Поддержка кнопок в сообщении |
+| :------------------------------: | :--------------------------: |
+|              Android             |              ✔️              |
+|                iOS               |              ✔️              |
+|              iPadOS              |              ✔️              |
+|           WhatsApp WEB           |              ✔️              |
+|          Windows Desktop         |               ❌              |
