@@ -51,9 +51,9 @@
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «Сохранить».
 
-Сообщение, полученное клиентом в WhatsApp, имеет такой вид:
+Сообщение, полученное клиентом в WhatsApp, имеет следующий вид:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 14.07.25_07.38.46.png" alt=""><figcaption></figcaption></figure>
 
 ### Поддерживаемые операционные системы и платформы
 
