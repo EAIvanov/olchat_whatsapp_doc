@@ -65,7 +65,7 @@
 
 После подключения коннектора, в левом меню настроек коннектора а так же на главной странице со списком всех аккаунтов, в столбце «Статус» вы увидите статус подключения и подключенный номер:
 
-<figure><img src="../.gitbook/assets/Скриншот 08.06.25_19.02.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 14.07.25_09.13.33.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Скриншот 08.06.25_15.30.16.png" alt=""><figcaption></figcaption></figure>
 
