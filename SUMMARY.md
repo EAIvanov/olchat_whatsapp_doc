@@ -30,6 +30,7 @@
   * [Как подключить виртуальный номер?](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/kak-podklyuchit-virtualnyi-nomer.md)
 * [Дополнительные настройки для коробочной версии Битрикс24](ustanovka-i-nastroika/dopolnitelnye-nastroiki-dlya-korobochnoi-versii-bitriks24.md)
 * [Переустановка приложения](ustanovka-i-nastroika/pereustanovka-prilozheniya.md)
+* [Отложенные публикации](ustanovka-i-nastroika/otlozhennye-publikacii.md)
 
 ## Использование
 
