@@ -51,6 +51,40 @@
 {% endhint %}
 
 {% hint style="info" %}
-Открытые линии: общие настройки\
-[https://helpdesk.bitrix24.ru/open/2448369/](https://helpdesk.bitrix24.ru/open/2448369/)
+[Открытые линии: общие настройки](https://helpdesk.bitrix24.ru/open/2448369/)\
+
 {% endhint %}
+
+### Удаление Открытой линии
+
+{% hint style="danger" %}
+**При удалении Открытой линии** (Настройки Открытой линии - Прочее - Удалить) **удаляются все чаты,** связанные с этой Открытой линией **без возможности восстановления**.
+
+Крайне не рекомендуем использовать данную функцию!
+{% endhint %}
+
+Чтобы удалить Открытую линию, выполните следующее:
+
+{% stepper %}
+{% step %}
+### Нажмите  "<img src="../.gitbook/assets/image.png" alt="" data-size="line">" на строке выбранной Открытой линии.
+
+<figure><img src="../.gitbook/assets/Скриншот 14.07.25_11.54.10.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Выберите "Настройки линии".
+{% endstep %}
+
+{% step %}
+### Из меню слева выберите "Прочее".
+
+<figure><img src="../.gitbook/assets/Скриншот 14.07.25_11.56.10.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Нажмите "Удалить".
+
+
+{% endstep %}
+{% endstepper %}
