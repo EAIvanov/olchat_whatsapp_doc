@@ -10,4 +10,6 @@
 Крайне не рекомендуем использовать данную функцию!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Скриншот 14.07.25_11.48.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 14.07.25_11.54.10.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Скриншот 14.07.25_11.56.10.png" alt=""><figcaption></figcaption></figure>
