@@ -51,8 +51,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-[Открытые линии: общие настройки](https://helpdesk.bitrix24.ru/open/2448369/)\
-
+[Открытые линии: общие настройки](https://helpdesk.bitrix24.ru/open/2448369/)
 {% endhint %}
 
 ### Удаление Открытой линии
@@ -67,24 +66,22 @@
 
 {% stepper %}
 {% step %}
-### Нажмите  "<img src="../.gitbook/assets/image.png" alt="" data-size="line">" на строке выбранной Открытой линии.
+#### Нажмите  "<img src="../.gitbook/assets/image.png" alt="" data-size="line">" на строке выбранной Открытой линии.
 
 <figure><img src="../.gitbook/assets/Скриншот 14.07.25_11.54.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Выберите "Настройки линии".
+#### Выберите "Настройки линии".
 {% endstep %}
 
 {% step %}
-### Из меню слева выберите "Прочее".
+#### Из меню слева выберите "Прочее".
 
 <figure><img src="../.gitbook/assets/Скриншот 14.07.25_11.56.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Нажмите "Удалить".
-
-
+#### Нажмите "Удалить".
 {% endstep %}
 {% endstepper %}
