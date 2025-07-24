@@ -20,43 +20,57 @@
 
 ### Установка роботов и активити
 
-Включить роботов и активити можно в настройках приложения: **OLChat — Настройки — Роботы.**
+Включить роботов и активити можно в настройках приложения:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+{% stepper %}
+{% step %}
+#### В приложении OLChat нажмите "Настройки приложения".
 
-Для установки роботов и активити нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1402).png" alt="" data-size="line">.
+<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.44.39.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+{% step %}
+#### Из меню слева выберите "Роботы".
+
+<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.46.32.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_14.11.34.png" alt=""><figcaption></figcaption></figure>
+
+Для установки роботов и активити нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку, появится уведомление об успешной установке роботов, а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image.png" alt="" data-size="line">.
+
+<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.55.02.png" alt=""><figcaption></figcaption></figure>
 
 ### Описание роботов и активити
 
 #### **WhatsApp**
 
-[proverka-telefona.md](proverka-telefona.md "mention") — проверяет телефон на наличие WhatsApp
+[Проверить WhatsApp](proverka-telefona.md) — проверяет телефон на наличие WhatsApp.
 
-[sozdanie-chata-ol.md](sozdanie-chata-ol.md "mention") — позволяет создавать чат открытой линии для указанного номера телефона
+[Создать чат ОЛ](sozdanie-chata-ol.md) — позволяет создавать чат открытой линии для указанного номера телефона.
 
-[ozhidanie-soobsheniya.md](ozhidanie-soobsheniya.md "mention") — позволяет дождаться ответа пользователя на ваше сообщение&#x20;
+[Ожидать сообщение](ozhidanie-soobsheniya.md) — позволяет дождаться ответа пользователя на ваше сообщение.
 
-[otpravka-soobsheniya.md](otpravka-soobsheniya.md "mention") — робот для отправки сообщений
+[Отправить сообщение](otpravka-soobsheniya.md) — робот для отправки сообщений.
 
-[otpravka-faila.md](otpravka-faila.md "mention") — робот для отправки изображений и других файлов
+[Отправить файл](otpravka-faila.md) — робот для отправки изображений и других файлов.
 
-[otpravka-kontakta.md](otpravka-kontakta.md "mention") — отправляет карточку контакта
+[Отправить контакт](otpravka-kontakta.md) — отправляет карточку контакта.
 
-[otpravka-ssylki.md](otpravka-ssylki.md "mention") — отправляет ссылку с превью
+[Отправить ссылку](otpravka-ssylki.md) — отправляет ссылку с превью.
 
-[otpravka-geometki.md](otpravka-geometki.md "mention") — отправляет местоположение заданное координатами широты и долготы
+[Отправить геометку](otpravka-geometki.md) — отправляет местоположение заданное координатами широты и долготы.
 
-[otpravka-golosovogo-soobsheniya.md](otpravka-golosovogo-soobsheniya.md "mention") — отправляет аудиосообщение
+[Отправить голосовое сообщение](otpravka-golosovogo-soobsheniya.md) — отправляет аудиосообщение.
 
-[otpravka-soobsheniya-s-knopkami.md](otpravka-soobsheniya-s-knopkami.md "mention") — отправляет сообщения с кнопками
+[Отправить сообщение с кнопками](otpravka-soobsheniya-s-knopkami.md) — отправляет сообщения с кнопками.
 
-[#robot-upravlenie-gruppoi](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md#robot-upravlenie-gruppoi "mention") — робот и активити для управления составом и правами участников группы
+[Отправить сообщение с шаблонными кнопками](otpravka-soobshenii-s-shablonnymi-knopkami.md) — отправляет сообщения с функциональными кнопками.
 
 #### Роботы и активити групп
 
-Существует отдельный набор роботов с пометкой «\[Группы]» для отправки различного типа сообщений в подключенные группы. Подробнее в статье [robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/ "mention")
+Существует отдельный набор роботов с пометкой «\[Группы]» для отправки различного типа сообщений в подключенные группы. Подробнее в статье [robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/ "mention").
 
 #### **OLChat Tools**
 
