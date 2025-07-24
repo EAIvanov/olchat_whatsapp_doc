@@ -12,7 +12,7 @@
 
 Для отправки сообщения с кнопками добавьте робота «\[OLChat] WhatsApp - Отправка сообщения с кнопками». Для этого перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[OLChat] Отправить сообщение с кнопками ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота:
 
