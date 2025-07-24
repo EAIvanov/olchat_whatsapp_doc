@@ -74,12 +74,12 @@
 
 #### **OLChat Tools**
 
-[informaciya-o-dialoge.md](informaciya-o-dialoge.md "mention") — позволяет получить подробную информацию о диалоге по одному из типов идентификаторов
+[informaciya-o-dialoge.md](informaciya-o-dialoge.md "mention") — позволяет получить подробную информацию о диалоге по одному из типов идентификаторов.
 
-[upravlenie-otkrytoi-liniei.md](upravlenie-otkrytoi-liniei.md "mention") — позволяет выполнять действия над открытой линией
+[upravlenie-otkrytoi-liniei.md](upravlenie-otkrytoi-liniei.md "mention") — позволяет выполнять действия над открытой линией.
 
-[perevesti-dialog-na-drugogo-operatora-liniyu.md](perevesti-dialog-na-drugogo-operatora-liniyu.md "mention") — позволяет перевести диалог на другого оператора или линию
+[perevesti-dialog-na-drugogo-operatora-liniyu.md](perevesti-dialog-na-drugogo-operatora-liniyu.md "mention") — позволяет перевести диалог на другого оператора или линию.
 
-[poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention") — позволяет получить подробную информацию о диалоге по номеру телефона
+[poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention") — позволяет получить подробную информацию о диалоге по номеру телефона.
 
-[izmenit-zagolovok-chata.md](izmenit-zagolovok-chata.md "mention") — позволяет изменить заголовок чата произвольным образом
+[izmenit-zagolovok-chata.md](izmenit-zagolovok-chata.md "mention") — позволяет изменить заголовок чата произвольным образом.
