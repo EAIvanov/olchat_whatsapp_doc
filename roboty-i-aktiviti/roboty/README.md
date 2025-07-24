@@ -24,7 +24,7 @@
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-Для установки роботов и активити нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">.
+Для установки роботов и активити нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1402).png" alt="" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
