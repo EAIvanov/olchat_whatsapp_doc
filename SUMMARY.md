@@ -62,7 +62,6 @@
   * [Calltouch](capabilities/peredacha-parametrov-analitiki/calltouch.md)
   * [Передача параметров аналитики без использования виджета](capabilities/peredacha-parametrov-analitiki/peredacha-parametrov-analitiki-bez-ispolzovaniya-vidzheta.md)
 * [Шорткоды](capabilities/shortkody.md)
-* [Copy of Шорткоды](capabilities/shortkody-1.md)
 
 ## Роботы и активити
 

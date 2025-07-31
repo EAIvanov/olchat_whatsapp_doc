@@ -8,21 +8,29 @@
 
 Ниже представлен список поддерживаемых шорткодов:
 
-| Описание                                   |                          Шорткод                         |                                         Условные обозначения                                         |
-| ------------------------------------------ | :------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-| Файл с диска                               |                     \[=disk:file\_id]                    |           file\_id – id файла на Битрикс.Диск. Желательно использовать файлы из Общей папки          |
-| Файл по ссылке                             |                       \[=file:url]                       |                                      url – прямая ссылка на файл                                     |
-| Файл из поля crm                           |       \[=crm\_file:\<crm\_type>\|\<crm\_id>\|field]      |      <p>crm_type – тип сущности</p><p>crm_id – ИД сущности</p><p>field – ИД поля в сущности</p>      |
-| Файл из прикрепленного файла поля crm      |                  \[=crm\_file:file\_id]                  |                              file\_id – id прикрепленного файла поля CRM                             |
-| Голосовое по ссылке                        |                       \[=voice:url]                      |                                      url – прямая ссылка на файл                                     |
-| Голосовое из поля crm                      |      \[=crm\_voice:\<crm\_type>\|\<crm\_id>\|field]      |      <p>crm_type – тип сущности</p><p>crm_id – ИД сущности</p><p>field – ИД поля в сущности</p>      |
-| Голосовое из прикреплённого файла поля crm |                  \[=crm\_voice:file\_id]                 |                              file\_id – id прикрепленного файла поля CRM                             |
-| Визитка                                    |                    \[=vcard:\<phone>]                    |                                    phone – номер телефона визитки                                    |
-| Ссылка с автосбором информации             |                       \[=link:url]                       |                                       url – ссылка для отправки                                      |
-| Месторасположение                          | \[=location:\<lat>\|\<lng>\|\<address>\|<\<address\_2>>] | <p>lat – Широта</p><p>lng – Долгота</p><p>address – Адрес</p><p>address_2 – вторая строка адреса</p> |
-| Ссылка на youtube видео                    |                  \[=youtube:\<v\_code>]                  |                                          v\_code – код видео                                         |
+| Описание                                   |                                                                                      Шорткод                                                                                     |                                                                                                            Условные обозначения                                                                                                            |
+| ------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Файл с диска                               |                                                                 \[=disk:<mark style="color:red;">file\_id</mark>]                                                                |                                                              <mark style="color:red;">file\_id</mark> – ID файла на Битрикс.Диск. Желательно использовать файлы из Общей папки                                                             |
+| Файл по ссылке                             |                                                                   \[=file:<mark style="color:red;">url</mark>]                                                                   |                                                                                         <mark style="color:red;">url</mark> – прямая ссылка на файл                                                                                        |
+| Файл из поля crm                           |                   \[=crm\_file:<mark style="color:red;">crm\_type</mark>\|<mark style="color:green;">crm\_id</mark>\|<mark style="color:purple;">field</mark>]                   |                     <p><mark style="color:red;">crm_type</mark> – тип сущности</p><p><mark style="color:green;">crm_id</mark> – ID сущности</p><p><mark style="color:purple;">field</mark> – ID поля в сущности**  </p>                    |
+| Файл из прикрепленного файла поля crm      |                                                              \[=crm\_file:<mark style="color:red;">file\_id</mark>]                                                              |                                                                                 <mark style="color:red;">file\_id</mark> – ID прикрепленного файла поля CRM                                                                                |
+| Голосовое по ссылке                        |                                                                   \[=voice:<mark style="color:red;">url</mark>]                                                                  |                                                                                         <mark style="color:red;">url</mark> – прямая ссылка на файл                                                                                        |
+| Голосовое из поля crm                      |                   \[=crm\_voice:<mark style="color:red;">crm\_type</mark>\|<mark style="color:green;">crm\_id</mark>\|<mark style="color:purple;">field</mark>]                  |                      <p><mark style="color:red;">crm_type</mark> – тип сущности</p><p><mark style="color:green;">crm_id</mark> – ID сущности</p><p><mark style="color:purple;">field</mark> – ID поля в сущности**</p>                     |
+| Голосовое из прикреплённого файла поля crm |                                                              \[=crm\_voice:<mark style="color:red;">file\_id</mark>]                                                             |                                                                                 <mark style="color:red;">file\_id</mark> – ID прикрепленного файла поля CRM                                                                                |
+| Визитка                                    |                                                                  \[=vcard:<mark style="color:red;">phone</mark>]                                                                 |                                                                                       <mark style="color:red;">phone</mark> – номер телефона визитки                                                                                       |
+| Ссылка с автосбором информации             |                                                                   \[=link:<mark style="color:red;">url</mark>]                                                                   |                                                                                          <mark style="color:red;">url</mark> – ссылка для отправки                                                                                         |
+| Месторасположение                          | \[=location:<mark style="color:red;">lat</mark>\|<mark style="color:green;">lng</mark>\|<mark style="color:purple;">address</mark>\|<mark style="color:blue;">address\_2</mark>] | <p><mark style="color:red;">lat</mark> – Широта</p><p><mark style="color:green;">lng</mark> – Долгота</p><p><mark style="color:purple;">address</mark> – Адрес</p><p><mark style="color:blue;">address_2</mark> – вторая строка адреса</p> |
+| Ссылка на youtube видео                    |                                                                \[=youtube:<mark style="color:red;">v\_code</mark>]                                                               |                                                                                             <mark style="color:red;">v\_code</mark> – код видео                                                                                            |
 
-Подробнее про настройку отправки файла в зависимости от источника и как получить ID файла [читайте здесь.](https://docs.olchat.io/roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail)
+\*\* - ID поля в сущности <mark style="color:purple;">field</mark> подставляется в следующем виде: UF\_CRM\_000000. О том, как узнать ID поля в сущности, написано [здесь](https://docs.olchat.io/roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail#ukazanie-id-polya-v-kotorom-nakhoditsya-otpravlyaemyi-fail).
+
+{% hint style="warning" %}
+Значения, выделенные в таблице <mark style="color:red;">таким</mark>, <mark style="color:green;">таким</mark> и <mark style="color:purple;">таким</mark> цветами **обязательны** к заполнению для корректной работы шорткода.
+
+Значения, выделенные в таблице <mark style="color:blue;">данным</mark> цветом, **не обязательны** к заполнению. Их отсутствие не повлияет на корректную работу шорткода.
+{% endhint %}
+
+Подробнее про настройку отправки файла в зависимости от источника [читайте здесь.](https://docs.olchat.io/roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail)
 
 Варианты использования шорткодов:
 
@@ -32,17 +40,7 @@
 * В карточке сущности в виджете
 
 {% hint style="info" %}
-Шорткоды следует использовать без угловых скобок **< >** и **<< >>.** Скобки указывают на обязательность и необязательность значений, содержащихся внутри скобок.
-{% endhint %}
-
-{% hint style="info" %}
-Шорткоды просто дают возможность в одном сообщении указывать последовательность отправки, но это не означает, что всё будет отправлено в одном шаблоне.
-{% endhint %}
-
-{% hint style="info" %}
-Значения, указанные в одинарных угловых скобках, вида: **<\_\_\_>** – являются **обязательными** к заполнению. Без указания данных значений, шорткод корректно не отработает!
-
-Значения, указанные в двойных угловых скобках, вида: **<\<preview\_link>>, <\<description>>** и т. д. **не обязательны** к заполнению. Их отсутствие не повлияет на корректную работу шорткода.
+Шорткоды дают возможность в одном сообщении указывать последовательность отправки, но это не означает, что всё будет отправлено в одном шаблоне.
 {% endhint %}
 
 #### Пример использования шорткодов

@@ -169,7 +169,7 @@
 * Удаление сообщений в чатах WhatsApp при удалении чатов из открытой линии. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/)
 * Страница отправки сообщений из мобильного приложения Битрикс24. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
 * Страница просмотра статусов рассылок CRM-маркетинга. [Подробнее](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
-* Шорткоды. [Подробнее](capabilities/shortkody.md)
+* Шорткоды. [Подробнее](broken-reference)
 * Бот-помощник. [Подробнее](capabilities/bot-pomoshnik.md)
 * Добавление приложения в карточку CRM «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
 * Автоответчик. Сообщение клиенту при пропущенном звонке. [Подробнее](capabilities/avtootvetchik.md)
