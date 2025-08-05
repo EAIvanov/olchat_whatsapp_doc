@@ -1,4 +1,4 @@
-# Roistat
+# Calltouch
 
 ### Настройка бота-помощника <a href="#nastroika-bota-pomoshnika" id="nastroika-bota-pomoshnika"></a>
 
@@ -6,7 +6,7 @@
 
 Для начала необходимо установить бот-помощник на линию.
 
-<figure><img src="../../.gitbook/assets/image (1347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1348).png" alt=""><figcaption></figcaption></figure>
 
 Затем необходимо выбрать поле для настройки "Привязать параметр аналитики к полю CRM".
 
@@ -21,14 +21,14 @@
 ### Настройка виджета
 
 1. Зайдите в настройки коннектора
-2. В разделе «Настройка виджета на сайт» в текст приветственного сообщения добавьте идентификатор Roistat **{visit id}**
+2. В разделе «Настройка виджета на сайт» добавьте параметр **{visit\_id}** в текст приветственного сообщения
 
-<figure><img src="../../.gitbook/assets/image (1353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1354).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Обратите внимание, что если клиент удалит параметр **{visit id}** из первого отправляемого сообщения, данные аналитики вы получить не сможете!
+Обратите внимание, что если клиент удалит параметр **{visit\_id}** из первого отправляемого сообщения, данные аналитики вы получить не сможете!
 
-Для того, чтобы клиент был заинтересован в отправке сообщения с параметром **{visit id}**, вы можете проявить креативность и как-то модифицировать текст сообщения. Например, таким образом: «Здравствуйте! Мой код для получения подарка: **{visit id}**»
+Для того, чтобы клиент был заинтересован в отправке сообщения с параметром **{visit\_id}**, вы можете проявить креативность и как-то модифицировать текст сообщения. Например, таким образом: «Здравствуйте! Мой код для получения подарка: **{visit\_id}**»
 {% endhint %}
 
 {% hint style="info" %}
@@ -39,24 +39,29 @@
 
 ### Настройка сайта
 
+{% hint style="warning" %}
+Неправильное размещение кодов аналитики может привести к некорректной передаче данных. Для корректного размещения нестандартных кодов аналитики необходимы специфические технические навыки. Рекомендуем привлекать специалистов, обладающих необходимыми знаниями и опытом, для обеспечения правильной интеграции.
+{% endhint %}
+
 Модифицируйте на сайте код следующим образом:
 
 ```javascript
 <script>
 
-window.roistatVisitCallback = function (visitId) {
-    const b24w = setInterval(() => {
+	const b24w = setInterval(() => {
         const l = document.querySelector('[data-b24-crm-button-widget=openline_olchat_wa_connector_2]');
         if (l !== null) {
-            clearInterval(b24w);
-            l.href = l.href.replace(/\{visit id\}/, visitId);
+            const sessionId = window.ct('calltracking_params', 'mod_id')[0].sessionId;
+            if (sessionId) {
+                clearInterval(b24w);
+                l.href = l.href.replace(/\{visit_id\}/, sessionId);
+            }
         }
     }, 250);
-}
 
 /* КОД ВИДЖЕТА БИТРИКС24 */
 
-/* КОД АНАЛИТИКИ ROISTAT */
+/* КОД АНАЛИТИКИ CALLTOUCH */
 
 </script>
 ```
