@@ -61,12 +61,6 @@
   * [Roistat](capabilities/peredacha-parametrov-analitiki/roistat.md)
   * [Calltouch](capabilities/peredacha-parametrov-analitiki/calltouch.md)
   * [Передача параметров аналитики без использования виджета](capabilities/peredacha-parametrov-analitiki/peredacha-parametrov-analitiki-bez-ispolzovaniya-vidzheta.md)
-* [Copy of Передача параметров аналитики](capabilities/peredacha-parametrov-analitiki-1/README.md)
-  * [OLChat Link Modifier — автоматическая подстановка ID посетителя в ссылки мессенджеров](capabilities/peredacha-parametrov-analitiki-1/olchat-link-modifier-avtomaticheskaya-podstanovka-id-posetitelya-v-ssylki-messendzherov.md)
-  * [Яндекс.Метрика ClientID](capabilities/peredacha-parametrov-analitiki-1/yandeks.metrika-clientid.md)
-  * [Roistat](capabilities/peredacha-parametrov-analitiki-1/roistat.md)
-  * [Calltouch](capabilities/peredacha-parametrov-analitiki-1/calltouch.md)
-  * [Передача параметров аналитики без использования виджета](capabilities/peredacha-parametrov-analitiki-1/peredacha-parametrov-analitiki-bez-ispolzovaniya-vidzheta.md)
 * [Шорткоды](capabilities/shortkody.md)
 
 ## Роботы и активити
