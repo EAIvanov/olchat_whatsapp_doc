@@ -70,6 +70,7 @@
   * [Отправка сообщения](roboty-i-aktiviti/roboty/otpravka-soobsheniya.md)
   * [Отправка сообщения с помощью роботов (SMS)](roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-pomoshyu-robotov-sms.md)
   * [Отправка файла](roboty-i-aktiviti/roboty/otpravka-faila.md)
+  * [Отправка нескольких файлов из поля CRM](roboty-i-aktiviti/roboty/otpravka-neskolkikh-failov-iz-polya-crm.md)
   * [Отправка контакта](roboty-i-aktiviti/roboty/otpravka-kontakta.md)
   * [Отправка ссылки](roboty-i-aktiviti/roboty/otpravka-ssylki.md)
   * [Отправка геометки](roboty-i-aktiviti/roboty/otpravka-geometki.md)
