@@ -24,6 +24,7 @@
   * [Типы уведомлений приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/tipy-uvedomlenii-prilozheniya.md)
 * [Аккаунты и авторизация](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/README.md)
   * [Авторизация устройства](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/avtorizaciya-ustroistva.md)
+  * [Переавторизация аккаунта](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/pereavtorizaciya-akkaunta.md)
   * [Добавление дополнительных аккаунтов WhatsApp](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md)
   * [Подключение WhatsApp на другой номер телефона](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/podklyuchenie-whatsapp-na-drugoi-nomer-telefona.md)
   * [Как подключить виртуальный номер?](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/kak-podklyuchit-virtualnyi-nomer.md)
