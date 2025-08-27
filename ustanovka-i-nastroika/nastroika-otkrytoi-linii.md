@@ -66,7 +66,7 @@
 
 {% stepper %}
 {% step %}
-#### Нажмите  "<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">" на строке выбранной Открытой линии.
+#### Нажмите  "<img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="line">" на строке выбранной Открытой линии.
 
 <figure><img src="../.gitbook/assets/Скриншот 14.07.25_11.54.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
