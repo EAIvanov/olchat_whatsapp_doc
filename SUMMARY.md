@@ -101,6 +101,7 @@
   * [Отправка сообщения в группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/otpravka-soobsheniya-v-gruppu.md)
   * [Отправка файла в группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/otpravka-faila-v-gruppu.md)
   * [Отправка контакта в группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/otpravka-kontakta-v-gruppu.md)
+  * [Отправить геометку в группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/otpravit-geometku-v-gruppu.md)
   * [Управление группой](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md)
   * [Создание группы](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/sozdanie-gruppy.md)
   * [Получение ссылки на группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/poluchenie-ssylki-na-gruppu.md)

@@ -8,37 +8,37 @@
 
 Создавать новый раздел не обязательно. Добавить поле "Файл" можно в разделе "О лиде" сразу после основной информации.
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_10.14.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_10.14.54.png" alt=""><figcaption></figcaption></figure>
 
 Если всё же необходимо создать отдельный раздел для поля с файлами, кнопка "Создать раздел" находится ниже всех разделов в карточке лида на вкладке "Общие".
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_10.18.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_10.18.11.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Задайте настройки поля "Файл": поставьте <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> напротив "Множественное", что позволит прикреплять в данное поле более, чем один файл, а также выставите остальные настройки по необходимости, затем нажмите "Сохранить".
+#### Задайте настройки поля "Файл": поставьте <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> напротив "Множественное", что позволит прикреплять в данное поле более, чем один файл, а также выставите остальные настройки по необходимости, затем нажмите "Сохранить".
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_10.20.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_10.20.47.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### Загрузите файлы в соответствующее поле.
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_10.51.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_10.51.33.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_11.42.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_11.42.58.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### Перейдем к настройке робота. Для этого в карточке лида выберите "Роботы".
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_11.59.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_11.59.15.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### Нажмите кнопку "+ Создать", укажите стадию, на которой должен срабатывать робот, далее из списка меню выберите "Другие роботы", затем "\[OLChat] Отправить файл".
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_12.02.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_12.02.22.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -51,7 +51,7 @@
 5. Введите текст сообщения (при необходимости) в поле "Подпись";
 6. Нажмите "Сохранить".
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_12.09.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 21.08.25_12.09.12.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -59,7 +59,7 @@
 
 При отправке роботом сообщения с файлами из поля CRM, клиент получит сообщения следующего вида:
 
-<figure><img src="../../.gitbook/assets/bdbdc08f-8ad1-4019-bfaa-a621981311fc.jpg" alt="" width="364"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bdbdc08f-8ad1-4019-bfaa-a621981311fc.jpg" alt="" width="364"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обращаем ваше внимание на то, что каждый файл будет отправлен отдельным сообщением, а текстовое сообщение будет крепиться к первому файлу в виде подписи.&#x20;
