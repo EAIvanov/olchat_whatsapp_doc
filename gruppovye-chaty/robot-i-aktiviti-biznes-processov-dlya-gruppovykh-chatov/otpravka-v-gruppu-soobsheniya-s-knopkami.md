@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Отправка в группу сообщения с кнопками
 
 Робот «**\[OLChat] \[Группы] Отправить сообщение с кнопками**» позволяет создавать автоматизированные сценарии для отправки сообщения с кнопками ответов, возвращаемых в чат, в подключенные группы при переходе лида или сделки в определённый статус.
@@ -12,9 +8,9 @@ hidden: true
 {% step %}
 #### Перейти в раздел "Роботы" из списка лидов, либо карточки лида в CRM.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -50,7 +46,7 @@ hidden: true
 
 В чате WhatsApp сообщение будет иметь следующий вид:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 При ответе клиента на сообщение путём нажатия на кнопку, в открытой линии такое сообщение будет иметь следующий вид:
 
