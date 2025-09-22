@@ -11,10 +11,14 @@ hidden: true
 #### Перейдите в приложение OLChat и выберите пункт "Новый платёж" из раздела "Оплаты и счета".
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на "<img src="../.gitbook/assets/image.png" alt="" data-size="line">" в конце строки напротив выбранной линии, затем выбрать "Оплатить".
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
+#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
 
 <figure><img src="../.gitbook/assets/Скриншот 13.08.25_11.53.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +52,7 @@ hidden: true
 {% step %}
 #### Выберите тип оплаты: Линии WhatsApp.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 На данный момент нельзя провести оплату линий и групп в одном платеже. Наша команда уже работает над такой возможностью.

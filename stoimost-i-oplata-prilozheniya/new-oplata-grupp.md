@@ -14,7 +14,7 @@ hidden: true
 {% endstep %}
 
 {% step %}
-#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
+#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
 
 <figure><img src="../.gitbook/assets/Скриншот 13.08.25_11.53.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ hidden: true
 {% step %}
 #### Выберите тип оплаты: Группы WhatsApp.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 На данный момент нельзя провести оплату линий и групп в одном платеже. Наша команда уже работает над такой возможностью.
@@ -66,7 +66,7 @@ hidden: true
 
 Доступна оплата на 30, 90, 180 и 360 дней.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -86,7 +86,7 @@ hidden: true
 Для активации подписки в платежном поручении в назначении платежа должен быть обязательно указан номер счёта.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
