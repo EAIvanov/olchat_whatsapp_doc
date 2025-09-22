@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # New Оплата групп
 
 Для оплаты коннектора или групп приложения OLChat выполните следующие действия:
@@ -10,11 +6,11 @@ hidden: true
 {% step %}
 #### Перейдите в приложение OLChat и выберите пункт "Новый платёж" из раздела "Оплаты и счета".
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
+#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
 
 <figure><img src="../.gitbook/assets/Скриншот 13.08.25_11.53.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,9 +42,9 @@ hidden: true
 {% endstep %}
 
 {% step %}
-#### Выберите тип оплаты: Линии WhatsApp.
+#### Выберите тип оплаты: Группы WhatsApp.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 На данный момент нельзя провести оплату линий и групп в одном платеже. Наша команда уже работает над такой возможностью.
@@ -56,33 +52,23 @@ hidden: true
 {% endstep %}
 
 {% step %}
-#### Выбор Линий WhatsApp.
+#### Выберите желаемый тариф и период оплаты.
 
-Проставьте выбор в чекбоксе напротив тех открытых линий, оплату которых планируете продлить.
+Доступны тарифы на 50 групп, 150 групп и безлимитное количество групп.
 
-При необходимости выбора всех открытых линий, проставьте только один чекбокс в начале списка.
-
-Список открытых линий можно отсортировать по названию, а также оставшемуся сроку оплаты. Для этого нажмите <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> рядом с наименованием столбца.&#x20;
-
-Для удобства срок оплаты окрашен в разные цвета. Активные линии с действующей подпиской отражены <mark style="color:green;">зеленым</mark> цветом, неактивные - <mark style="color:$info;">серым</mark>, требующие оплаты - <mark style="color:red;">красным</mark>.&#x20;
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-#### В поле "Период оплаты" выберите желаемый период оплаты.
+{% hint style="info" %}
+Тариф на 50 групп является бесплатным и необходим к оплате за 0 рублей в случае, если решите отказаться от использования тарифов на 150 и неограниченное количество групп.
+{% endhint %}
 
 Доступна оплата на 30, 90, 180 и 360 дней.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### Проверьте выбранный заказ в Корзине и нажмите "Перейти к оплате".
 
-Для раскрытия подробного списка оплачиваемых линий нажмите "Линии" при необходимости.
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 22.09.25_05.13.09.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -92,10 +78,14 @@ hidden: true
 
 В случае оплаты по счёту, выберите соответствующий пункт, а затем скачайте счёт и завершите оплату.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Оплата коннектора OLChat завершена.
+#### Оплата групп WhatsApp в приложении OLChat завершена.
+
+Чтобы просмотреть историю платежей, а также узнать статус заказов (оплат), на главной странице приложения OLChat выберите "Все оплаты и счета" раздела "Оплаты и счета".
+
+<figure><img src="../.gitbook/assets/Скриншот 22.09.25_05.00.47.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
