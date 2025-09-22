@@ -61,6 +61,6 @@ ID файла указан в соответствующем столбце ст
 
 В чате WhatsApp голосовое сообщение будет иметь следующий вид:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

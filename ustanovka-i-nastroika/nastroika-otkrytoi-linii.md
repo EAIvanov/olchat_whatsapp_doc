@@ -2,7 +2,7 @@
 
 Настроим основные параметры открытой линии к которой подключен коннектор. Для этого прейдите в приложение «OLChat в левом меню портала и напротив нужного коннектора нажмите на значок меню «•••». Выберите пункт «Настройки линии»:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Раздел Очередь
 
@@ -66,7 +66,7 @@
 
 {% stepper %}
 {% step %}
-#### Нажмите  "<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">" на строке выбранной Открытой линии.
+#### Нажмите  "<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">" на строке выбранной Открытой линии.
 
 <figure><img src="../.gitbook/assets/Скриншот 14.07.25_11.54.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

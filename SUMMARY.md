@@ -5,6 +5,7 @@
 * [Блокировка номера](blokirovka-nomera/README.md)
   * [Подозрение на спам](blokirovka-nomera/podozrenie-na-spam.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
+  * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
   * [Оплата групп WhatsApp](stoimost-i-oplata-prilozheniya/oplata-grupp-whatsapp.md)
   * [Вопросы по оплате](stoimost-i-oplata-prilozheniya/voprosy-po-oplate.md)
