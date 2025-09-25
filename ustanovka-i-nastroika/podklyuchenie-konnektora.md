@@ -8,7 +8,7 @@
 
 Для начала, необходимо создать или подключить открытую линию. Для этого в открывшемся окне в разделе меню «Подключить интеграцию» выберите пункт «WhatsApp»:
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если у вас несколько открытых линий, из выпадающего списка выберите Открытую линию к которой собираетесь подключить коннектор, нажав на кнопку «ПОДКЛЮЧИТЬ». Если линий для подключения нет, вы можете создать новую, нажав на ссылку «СОЗДАТЬ НОВУЮ ЛИНИЮ»
@@ -43,10 +43,10 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Перейти в настройки коннектора до сканирования QR-кода можно, нажав на <img src="../.gitbook/assets/image.png" alt="" data-size="line"> «Настройка коннектора».
+Перейти в настройки коннектора до сканирования QR-кода можно, нажав на <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> «Настройка коннектора».
 {% endhint %}
 
 Затем необходимо Привязать устройство с помощью приложения WhatsApp в телефоне.

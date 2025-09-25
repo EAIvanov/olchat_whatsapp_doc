@@ -8,11 +8,11 @@
 
 В открывшемся списке провайдеров выберите ваш коннектор WhatsApp, через который планируете осуществить отправку:
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Сформируется публичная ссылка на документ, которую можно отправить в сообщении. При необходимости, вы можете отредактировать текст сообщения:
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Факт отправки сообщения со статусами доставки зафиксируется в таймлайне карточки:
 

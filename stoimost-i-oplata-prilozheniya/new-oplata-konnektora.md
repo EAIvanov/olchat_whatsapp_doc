@@ -10,15 +10,15 @@ hidden: true
 {% step %}
 #### Перейдите в приложение OLChat и выберите пункт "Новый платёж" из раздела "Оплаты и счета".
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на "<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">" в конце строки напротив выбранной линии, затем выбрать "Оплатить".
+В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на "<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">" в конце строки напротив выбранной линии, затем выбрать "Оплатить".
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
+#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
 
 <figure><img src="../.gitbook/assets/Скриншот 13.08.25_11.53.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ hidden: true
 {% step %}
 #### Выберите тип оплаты: Линии WhatsApp.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 На данный момент нельзя провести оплату линий и групп в одном платеже. Наша команда уже работает над такой возможностью.
@@ -66,11 +66,11 @@ hidden: true
 
 При необходимости выбора всех открытых линий, проставьте только один чекбокс в начале списка.
 
-Список открытых линий можно отсортировать по названию, а также оставшемуся сроку оплаты. Для этого нажмите <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> рядом с наименованием столбца.&#x20;
+Список открытых линий можно отсортировать по названию, а также оставшемуся сроку оплаты. Для этого нажмите <img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> рядом с наименованием столбца.&#x20;
 
 Для удобства срок оплаты окрашен в разные цвета. Активные линии с действующей подпиской отражены <mark style="color:green;">зеленым</mark> цветом, неактивные - <mark style="color:$info;">серым</mark>, требующие оплаты - <mark style="color:red;">красным</mark>.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -78,7 +78,7 @@ hidden: true
 
 Доступна оплата на 30, 90, 180 и 360 дней.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -86,7 +86,7 @@ hidden: true
 
 Для раскрытия подробного списка оплачиваемых линий нажмите "Линии" при необходимости.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -100,7 +100,7 @@ hidden: true
 Для активации подписки в платежном поручении в назначении платежа должен быть обязательно указан номер счёта.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
