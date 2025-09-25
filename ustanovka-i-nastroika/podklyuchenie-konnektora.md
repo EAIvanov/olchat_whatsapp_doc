@@ -43,7 +43,11 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Перейти в настройки коннектора до сканирования QR-кода можно, нажав на <img src="../.gitbook/assets/image.png" alt="" data-size="line"> «Настройка коннектора».
+{% endhint %}
 
 Затем необходимо Привязать устройство с помощью приложения WhatsApp в телефоне.
 
@@ -69,11 +73,7 @@
 
 <figure><img src="../.gitbook/assets/Скриншот 08.06.25_15.30.16.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Перейти в настройки коннектора можно также до сканирования QR-кода. Для этого необходимо нажать на иконку «Настройка коннектора».
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Вы можете подключить виртуальный номер Битрикс24 к нашей системе. Для этого его необходимо подключить к WhatsApp на телефоне. Подключение происходит также как с обычным номером, но подтверждение номера производится не через sms, а по звонку. После этого подключаете нашу интеграцию через сканирование QR-кода.
