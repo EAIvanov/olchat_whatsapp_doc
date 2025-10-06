@@ -38,7 +38,7 @@
 
 <figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Установите условие срабатывания «после предыдущего робота», чтобы в текущий робот были корректно подставлены значения из дополнительных результатов роботов, содержащих ID диалога.
