@@ -42,7 +42,7 @@
 
 <figure><img src="../../.gitbook/assets/Скриншот 24.07.25_14.11.34.png" alt=""><figcaption></figcaption></figure>
 
-Для установки роботов и активити нажмите на кнопку **«**<img src="../../.gitbook/assets/image (1403).png" alt="" data-size="line"> **ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку, появится уведомление об успешной установке роботов, а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">.
+Для установки роботов и активити нажмите на кнопку **«**<img src="../../.gitbook/assets/image (1403).png" alt="" data-size="line"> **ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку, появится уведомление об успешной установке роботов, а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.55.02.png" alt=""><figcaption></figcaption></figure>
 

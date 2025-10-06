@@ -43,7 +43,7 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Перейти в настройки коннектора до сканирования QR-кода можно, нажав на <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> «Настройка коннектора».
