@@ -85,9 +85,9 @@
 
 ### Описание настроек групп
 
-Чтобы перейти в настройки конкретной группы, нажмите на значок ⚙ напротив группы. Развернётся меню с дополнительными настройками для данной группы.
+Чтобы перейти в настройки конкретной группы, нажмите на шестерню⚙ напротив группы. Откроется меню с дополнительными настройками для данной группы.
 
-<figure><img src="../.gitbook/assets/image (1383).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1423).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1387).png" alt=""><figcaption></figcaption></figure>
 
@@ -130,7 +130,7 @@
 {% step %}
 #### Отметьте желаемые для отключения группы, либо нажмите "Выбрать все".
 
-<figure><img src="../.gitbook/assets/Скриншот 11.07.25_07.27.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1424).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
