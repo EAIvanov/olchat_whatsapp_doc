@@ -25,7 +25,7 @@
 **Создавать чат при отправке через SMS провайдера** — влияет на отправку через SMS-провайдера в карточке.\
 **Создавать чат при отправке через SMS-рассылки** — при использовании рассылок через CRM-маркетинг.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Как полностью отключить создание исходящих сообщений в чате?
 
@@ -35,4 +35,4 @@
 
 Это глобальная настройка. Если она отключена, то сообщения от приложения не будут попадать в чат открытой линии, даже если в роботах стоит «Да» в настройке «Создавать сообщение в чате открытой линии?».
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

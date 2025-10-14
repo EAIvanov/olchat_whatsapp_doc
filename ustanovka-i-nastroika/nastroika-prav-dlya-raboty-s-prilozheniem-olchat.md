@@ -30,7 +30,7 @@
 Для корректной работы приложения рекомендуем оставлять поле пустым.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Права на открытые линии
 
