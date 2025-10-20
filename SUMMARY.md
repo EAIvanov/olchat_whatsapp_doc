@@ -12,6 +12,7 @@
   * [Вопросы по оплате](stoimost-i-oplata-prilozheniya/voprosy-po-oplate.md)
   * [Перенос оплаты и балансировка оплат между линиями](stoimost-i-oplata-prilozheniya/perenos-oplaty-i-balansirovka-oplat-mezhdu-liniyami.md)
 * [Что нового?](chto-novogo.md)
+* [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
 
 ## Установка и настройка
 
