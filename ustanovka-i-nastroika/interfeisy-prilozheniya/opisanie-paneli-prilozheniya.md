@@ -4,7 +4,7 @@
 
 Для перехода к настройкам панели приложения, в левом меню портала выберите приложение «OLChat»:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1428).png" alt=""><figcaption></figcaption></figure>
 
 ### Меню приложения
 
