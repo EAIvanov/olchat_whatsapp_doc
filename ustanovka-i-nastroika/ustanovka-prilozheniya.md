@@ -47,14 +47,8 @@
 3. Обновите данные и нажмите кнопку "Сохранить".
 
 <figure><img src="../.gitbook/assets/image (1440).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
 {% endstep %}
 {% endstepper %}
-
-Выполните установку приложения, нажав на кнопку «УСТАНОВИТЬ».
 
 {% hint style="info" %}
 Установить приложение OLChat без поиска в Маркетплейсе можно, перейдя по [ссылке](https://www.bitrix24.ru/apps/app/infocom.olchat/?p=132277).
