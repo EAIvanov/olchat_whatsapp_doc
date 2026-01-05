@@ -129,12 +129,12 @@
 
     Подробнее в статье [#opisanie-parametrov-bota](capabilities/bot-pomoshnik.md#opisanie-parametrov-bota "mention")
 5. Добавили волшебства в работу с товарами Битрикс24. Теперь клиенту отправляется товар в удобочитаемом виде без табличного форматирования. Подробнее в статье [rabota-s-tovarnymi-poziciyami.md](keisy/raznoe/rabota-s-tovarnymi-poziciyami.md "mention")
-6. &#x20;Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [Broken link](broken-reference "mention") и Активити: [Broken link](broken-reference "mention")
+6. &#x20;Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [Broken link](/broken/pages/VNYLVYWnbPWmvrkjynUv "mention") и Активити: [Broken link](/broken/pages/S0nSiROjWLd6gDNHm1s8 "mention")
 7. Сделали автоплатёж через Робокассу для тех, кто устал возиться с оплатой каждый месяц
 
 ### А что прокачали?
 
-1. В Роботе и Активити бизнес-процессов «Отправка контакта» теперь отправляется ФИО, номер телефона и название компании. Подробнее в статьях Робот: [otpravka-kontakta.md](roboty-i-aktiviti/roboty/otpravka-kontakta.md "mention") и Активити: [Broken link](broken-reference "mention")
+1. В Роботе и Активити бизнес-процессов «Отправка контакта» теперь отправляется ФИО, номер телефона и название компании. Подробнее в статьях Робот: [otpravka-kontakta.md](roboty-i-aktiviti/roboty/otpravka-kontakta.md "mention") и Активити: [Broken link](/broken/pages/-MGaRlIO1wAN0fWZq7II "mention")
 2. В настройке прав добавили возможность показывать страницу с линиями только администратору, чтобы никто не подглядывал. Подробнее в статье [#pravo-na-prosmotr-stranicy-prilozheniya](ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#pravo-na-prosmotr-stranicy-prilozheniya "mention")
 3. Все телефоны в одном виджете. Если у вас к сущности CRM прикреплено несколько контактов или компаний, в виджет OLChat подтянутся телефоны из всех карточек (до 10 телефонов).
 4. Теперь в деле о пропущенном звонке отображается дата и время звонка.
@@ -164,12 +164,12 @@
 
 ### Новые возможности
 
-* Поддержка версии WhatsApp для нескольких устройств (мультидевайс). [Подробнее](broken-reference)
+* Поддержка версии WhatsApp для нескольких устройств (мультидевайс). [Подробнее](/broken/pages/paiChyT9BqcBi19fbrhQ)
 * Статусы сообщений (галочки) в чатах открытых линий. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/)
 * Удаление сообщений в чатах WhatsApp при удалении чатов из открытой линии. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/)
 * Страница отправки сообщений из мобильного приложения Битрикс24. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
 * Страница просмотра статусов рассылок CRM-маркетинга. [Подробнее](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
-* Шорткоды. [Подробнее](broken-reference)
+* Шорткоды. [Подробнее](/broken/pages/4hxgKff8JOoRKRB0Ypok)
 * Бот-помощник. [Подробнее](capabilities/bot-pomoshnik.md)
 * Добавление приложения в карточку CRM «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
 * Автоответчик. Сообщение клиенту при пропущенном звонке. [Подробнее](capabilities/avtootvetchik.md)
@@ -177,7 +177,7 @@
 
 ### Новые настройки
 
-* Ссылка на QR-код. Теперь можно делиться ссылкой и сканировать код, даже, если нет доступа к порталу. [Подробнее](broken-reference)
+* Ссылка на QR-код. Теперь можно делиться ссылкой и сканировать код, даже, если нет доступа к порталу. [Подробнее](/broken/pages/-LfEV5Ty-MLwY0H_L67p)
 * Права доступа к коннектору: Добавлены права на группы и отделы. [Подробнее](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#prava-na-konnektor-linii)
 * Установка прав администратора в приложении (полезно, если поменялся администратор). [Подробнее](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#ustanovka-prav-administratora-v-prilozhenii)
 
@@ -195,12 +195,12 @@
 * Робот отправки файлов теперь поддерживает отправку файлов по прямой ссылке, из Диска, из поля CRM. [Подробнее](roboty-i-aktiviti/roboty/otpravka-faila.md)
 * Робот отправки геометки. [Подробнее](roboty-i-aktiviti/roboty/otpravka-geometki.md)
 * Робот отправки голосовых сообщений. [Подробнее](roboty-i-aktiviti/roboty/otpravka-golosovogo-soobsheniya.md)
-* Робот отправки ссылки на YouTube. [Подробнее](broken-reference)
+* Робот отправки ссылки на YouTube. [Подробнее](/broken/pages/-MlJO6pGJBNLBNdMi3Df)
 
 #### Обновления роботов
 
 * Возможность добавления описаний для изображений и видео в роботе отправки файлов. [Подробнее](roboty-i-aktiviti/roboty/otpravka-faila.md)
-* Робот отправки ссылки. Добавлено автоматическое прикрепление описания, если не заполнены поля: превью, название и описание. [Подробнее](broken-reference)
+* Робот отправки ссылки. Добавлено автоматическое прикрепление описания, если не заполнены поля: превью, название и описание. [Подробнее](/broken/pages/-MGkcW5yt4TvI5jz0wHG)
 
 #### Роботы групп. [Подробнее](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/)
 
