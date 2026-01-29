@@ -23,12 +23,12 @@
 Код кнопки WhatsApp из приведённого выше примера может выглядеть следующим образом:
 
 ```markup
-<a class="whatsapp_overplan" href="https://api.whatsapp.com/send?phone=79000000000&text=Обязательно отправьте это сообщение и дождитесь ответа! Ваш номер:{visit_id}" rel="noopener noreferrer">
+<a class="whatsapp_olchat" href="https://api.whatsapp.com/send?phone=79000000000&amp;text=Обязательно отправьте это сообщение и дождитесь ответа! Ваш номер:{visit_id}" rel="noopener noreferrer">
   <div class="whatsapp-button"><i class="fa fa-whatsapp"></i></div>
 </a>
 ```
 
-```css
+```
 .whatsapp-button {
     position: fixed;
     right: 13px;
@@ -98,8 +98,8 @@
 ```javascript
 <script>
 
-	const wabutton = setInterval(() => {
-        const l = document.querySelector('.whatsapp_overplan');
+const wabutton = setInterval(() => {
+        const l = document.querySelector('.whatsapp_olchat');
         if (l !== null) {
             const sessionId = window.ct('calltracking_params', 'mod_id')[0].sessionId;
             if (sessionId) {
