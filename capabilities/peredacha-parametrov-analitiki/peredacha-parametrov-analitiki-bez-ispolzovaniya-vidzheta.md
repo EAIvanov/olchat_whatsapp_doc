@@ -7,7 +7,8 @@
 {% endhint %}
 
 {% hint style="info" %}
-Для того, чтобы параметры аналитики были верно отработаны, вам необходимо в [Настройках коннектора](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora) приложения OLChat настроить [Бот-помощник](https://docs.olchat.io/bot-pomoshnik), а также [Виджет на сайт](https://docs.olchat.io/vidzhet-dlya-saita).
+Для того, чтобы параметры аналитики были верно отработаны, вам необходимо в [Настройках коннектора](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora) приложения OLChat настроить [Бот-помощник](https://docs.olchat.io/bot-pomoshnik), а также [Виджет на сайт](https://docs.olchat.io/vidzhet-dlya-saita).\
+Сообщение в виджете на сайт необходимо прописать такое же, как вы указали на сайте. Это необходимо для верной обработки параметра аналитики и записи его в нужное пользовательское поле.
 {% endhint %}
 
 ### Настройка кнопки WhatsApp
