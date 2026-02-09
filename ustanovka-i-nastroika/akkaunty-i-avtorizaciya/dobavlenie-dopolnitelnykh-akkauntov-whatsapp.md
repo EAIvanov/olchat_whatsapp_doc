@@ -18,20 +18,6 @@ OLChat позволяет подключить несколько аккаунт
 
 Чтобы подключить новый аккаунт WhatsApp, перейдите в приложение OLChat (в меню портала Битрикс24 слева) и выберите пункт «WhatsApp».
 
-{% stepper %}
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-{% endstepper %}
-
 <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
@@ -42,20 +28,20 @@ OLChat позволяет подключить несколько аккаунт
 
 ### Подключение коннектора
 
-После подключения открытой линии можно перейти к подключению коннектора. Для этого напротив подключаемого коннектора нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»
+После подключения открытой линии можно перейти к подключению коннектора. Для этого напротив подключаемого коннектора нажмите на значок меню «•••» и выберите пункт «Настройки коннектора».
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.27.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-Также, к сканированию QR-кода можно перейти из списка аккаунтов не заходя в Настройки коннектора, нажав на иконку «Отсканировать QR-код» напротив подключаемого коннектора:
+Также к сканированию QR-кода можно перейти из списка аккаунтов, не заходя в «Настройки коннектора», нажав на иконку «Отсканировать QR-код» напротив подключаемого коннектора:
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.29.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
 <figure><img src="../../.gitbook/assets/image (1372).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Подробнее о подключении коннектора и предварительных настройках телефона можно узнать из статьи [podklyuchenie-konnektora.md](../podklyuchenie-konnektora.md "mention")<a href="dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md#podklyuchenie-konnektora" class="button primary">New button</a>
+Подробнее о подключении коннектора и предварительных настройках телефона можно узнать из статьи [podklyuchenie-konnektora.md](../podklyuchenie-konnektora.md "mention").
 
 Информацию по настройке Открытой линии вы можете найти в статье [nastroika-otkrytoi-linii.md](../nastroika-otkrytoi-linii.md "mention").
 {% endhint %}
