@@ -97,7 +97,7 @@
 
 ### Вебхук
 
-В данном разделе настроек можно создать Вебхук для работы с WhatsApp через REST API. Подробнее в статье [rest-api-dlya-raboty-s-whatsapp.md](../../ispolzovanie/rest-api-dlya-raboty-s-whatsapp.md "mention")
+В данном разделе настроек можно создать Вебхук для работы с WhatsApp через REST API. Подробнее в статье [Broken link](/broken/pages/4bthxdy3lyyqzgrtWgoM "mention")
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.54.54.png" alt=""><figcaption></figcaption></figure>
 
