@@ -23,7 +23,7 @@
 \
 7\. Возвращение, которого многие ждали: [Робот с кнопками](https://docs.olchat.io/roboty-i-aktiviti/roboty/otpravka-soobshenii-s-shablonnymi-knopkami). Всё верно, снова можно отправлять такие сообщения через обычный WhatsApp, а это значит, что реализовывать кучу классных сценариев для работы с клиентами стало проще!\
 \
-8\. Ну, и для самых прокаченных, сделали возможность добавлять [подпись к файлу](https://docs.olchat.io/ispolzovanie/rest-api-dlya-raboty-s-whatsapp#kak-dobavit-podpis-k-failu-otpravlennomu-cherez-rest-api) при отправке через REST API (программный интерфейс).\
+8\. Ну, и для самых прокаченных, сделали возможность добавлять [подпись к файлу](https://docs.olchat.io/ispolzovanie/rest-api-dlya-raboty-s-whatsapp#kak-dobavit-podpis-k-failu-otpravlennomu-cherez-rest-api) при отправке через REST API (программный интерфейс взаимодействия с сервером).\
 \
 Как вам такой релиз Олчат WhatsApp?\
 С нетерпением ждём вашей обратной связи в комментариях!\
@@ -35,8 +35,8 @@
 
 Мы рады сообщить о релизе нового виджета Олчат WhatsApp и обновленном приложении в мобильной версии Битрикс24. Теперь взаимодействие с клиентами станет ещё проще и удобнее!
 
-1. Мгновенно делитесь файлами и голосовыми сообщениями в виджете, не переходя в основное приложение. Используйте шаблоны с автоматической подстановкой переменных прямо в виджете [vidzhet-statusy-i-chaty.md](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention")
-2. Попробуйте улучшенный интерфейс и функционал Олчат в мобильном приложении Битрикс24: выбирайте получателя прямо из ваших контактов CRM (системы управления взаимоотношениями с клиентами), используйте шаблоны, прикрепляйте файлы к сообщениям и отправляйте голосовые [otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md "mention")
+1. Мгновенно делитесь файлами и голосовыми сообщениями в виджете, не переходя в основное приложение. Используйте шаблоны с автоматической подстановкой переменных прямо в виджете [vidzhet-statusy-i-chaty.md](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention").
+2. Попробуйте улучшенный интерфейс и функционал Олчат в мобильном приложении Битрикс24: выбирайте получателя прямо из ваших контактов CRM (системы управления взаимоотношениями с клиентами), используйте шаблоны, прикрепляйте файлы к сообщениям и отправляйте голосовые [otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md "mention").
 
 ## 🥳 Обновление тарифов на Олчат WhatsApp (02.09.2024)
 
@@ -168,7 +168,7 @@
 * Статусы сообщений (галочки) в чатах открытых линий. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/).
 * Удаление сообщений в чатах WhatsApp при удалении чатов из открытой линии. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/).
 * Страница отправки сообщений из мобильного приложения Битрикс24. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md).
-* Страница просмотра статусов рассылок CRM-маркетинга. [Подробнее](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md).
+* Страница просмотра статусов рассылок. [Подробнее](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md).
 * Короткие кожы. [Подробнее](/broken/pages/4hxgKff8JOoRKRB0Ypok).
 * Бот-помощник. [Подробнее](capabilities/bot-pomoshnik.md).
 * Добавление приложения в карточку система управления взаимоотношениями с клиентами «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md).
