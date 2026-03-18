@@ -58,7 +58,7 @@
   * [Как для рассылки загрузить контакты с Excel?](capabilities/rassylka-soobshenii/kak-dlya-rassylki-zagruzit-kontakty-s-excel.md)
 * [Рандомизатор сообщений](capabilities/randomizator.md)
 * [Передача параметров аналитики](capabilities/peredacha-parametrov-analitiki/README.md)
-  * [OLChat Link Modifier — автоматическая подстановка ID посетителя в ссылки мессенджеров](capabilities/peredacha-parametrov-analitiki/olchat-link-modifier-avtomaticheskaya-podstanovka-id-posetitelya-v-ssylki-messendzherov.md)
+  * [Олчат Link Modifier — автоматическая подстановка ID посетителя в ссылки мессенджеров](capabilities/peredacha-parametrov-analitiki/olchat-link-modifier-avtomaticheskaya-podstanovka-id-posetitelya-v-ssylki-messendzherov.md)
   * [Яндекс.Метрика ClientID](capabilities/peredacha-parametrov-analitiki/yandeks.metrika-clientid.md)
   * [Roistat](capabilities/peredacha-parametrov-analitiki/roistat.md)
   * [Calltouch](capabilities/peredacha-parametrov-analitiki/calltouch.md)
