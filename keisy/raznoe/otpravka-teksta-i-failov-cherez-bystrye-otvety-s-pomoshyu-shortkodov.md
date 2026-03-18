@@ -40,7 +40,7 @@
 
 <figure><img src="../../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
 
-Нажмите кнопку «Создать»
+Нажмите кнопку «Создать».
 
 ### Использование быстрых ответов
 

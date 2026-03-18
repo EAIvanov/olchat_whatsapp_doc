@@ -22,7 +22,7 @@
 
 <figure><img src="../../.gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
 
-Далее на стадию **«Новая»** добавим робота **«\[OLChat — Чаты и Группы WhatsApp] WhatsApp - Отправка сообщения».** Обязательно укажем, что робот должен сработать после предыдущего.
+Далее на стадию **«Новая»** добавим робота **«\[Олчат — Чаты и Группы WhatsApp] WhatsApp - Отправка сообщения».** Обязательно укажем, что робот должен сработать после предыдущего.
 
 <figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 

@@ -26,7 +26,7 @@
 
 <figure><img src="../../.gitbook/assets/image (635).png" alt=""><figcaption></figcaption></figure>
 
-Последним добавим робота **«\[OLChat — Чаты и Группы WhatsApp] WhatsApp - Отправка сообщения».** Обязательно укажем, что робот должен сработать после предыдущего.
+Последним добавим робота **«\[Олчат — Чаты и Группы WhatsApp] WhatsApp - Отправка сообщения».** Обязательно укажем, что робот должен сработать после предыдущего.
 
 <figure><img src="../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@
 
 <figure><img src="../../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
 
-В текст сообщения пропишем информацию по задаче, так же воспользовавшись функционалом вставка значения:
+В текст сообщения пропишем информацию по задаче, также воспользовавшись функционалом вставка значения:
 
 <figure><img src="../../.gitbook/assets/image (543).png" alt=""><figcaption></figcaption></figure>
 
