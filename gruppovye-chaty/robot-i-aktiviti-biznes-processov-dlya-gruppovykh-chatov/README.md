@@ -18,13 +18,13 @@
 
 {% stepper %}
 {% step %}
-#### В приложении OLChat нажмите "Настройки приложения".
+В приложении Олчат нажмите «Настройки приложения».
 
 <figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.44.39.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Из меню слева выберите "Роботы".
+Из меню слева выберите «Роботы».
 
 <figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.46.32.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
