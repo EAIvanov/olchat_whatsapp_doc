@@ -18,18 +18,18 @@
 
 В качестве переменного значения могут выступать следующие данные:
 
-* Параметры шаблона
-* Переменные
-* Константы
-* Поля документа
-* Дополнительные результаты
-* Пользователи
-* Категории пользователей
+* Параметры шаблона.
+* Переменные.
+* Константы.
+* Поля документа.
+* Дополнительные результаты.
+* Пользователи.
+* Категории пользователей.
 
 {% hint style="info" %}
 Более подробная информация о форме «Вставка значения» и описание переменных значений содержится в статье от Битрикс24 [Вставка значения](https://helpdesk.bitrix24.ru/open/5426411/)
 {% endhint %}
 
 {% hint style="info" %}
-Примеры настройки роботов OLChat с использованием переменных значений содержатся во всех статьях из раздела Роботы и Действия бизнес-процессов а также в кейсе[avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md](../keisy/klienty/avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md "mention")&#x20;
+Примеры настройки роботов Олчат с использованием переменных значений содержатся во всех статьях из раздела Роботы и Действия бизнес-процессов а также в кейсе[avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md](../keisy/klienty/avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md "mention")&#x20;
 {% endhint %}

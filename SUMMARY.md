@@ -72,7 +72,7 @@
   * [Создание чата ОЛ](roboty-i-aktiviti/roboty/sozdanie-chata-ol.md)
   * [Ожидание сообщения](roboty-i-aktiviti/roboty/ozhidanie-soobsheniya.md)
   * [Отправка сообщения](roboty-i-aktiviti/roboty/otpravka-soobsheniya.md)
-  * [Отправка сообщения с помощью роботов (SMS)](roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-pomoshyu-robotov-sms.md)
+  * [Отправка сообщения с помощью роботов (СМС)](roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-pomoshyu-robotov-sms.md)
   * [Отправка файла](roboty-i-aktiviti/roboty/otpravka-faila.md)
   * [Отправка контакта](roboty-i-aktiviti/roboty/otpravka-kontakta.md)
   * [Отправка ссылки](roboty-i-aktiviti/roboty/otpravka-ssylki.md)
