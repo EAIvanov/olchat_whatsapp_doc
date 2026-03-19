@@ -14,22 +14,22 @@
 
 {% stepper %}
 {% step %}
-#### **Нажмите "**<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LcuJc7XlLhpPyLWZz1s%2Fuploads%2FywfutpmvDqtp5RZmHHmG%2Fimage.png?alt=media&#x26;token=3a3301de-d3c6-40e7-a191-462e39b6a56a" alt="" data-size="line">**" на строке выбранной Открытой линии.**
+Нажмите «<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LcuJc7XlLhpPyLWZz1s%2Fuploads%2FywfutpmvDqtp5RZmHHmG%2Fimage.png?alt=media&#x26;token=3a3301de-d3c6-40e7-a191-462e39b6a56a" alt="" data-size="line">» на строке выбранной Открытой линии.
 
 <figure><img src="../../.gitbook/assets/Скриншот 14.07.25_11.54.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### **Выберите "Настройки линии".**
+Выберите «Настройки линии».
 {% endstep %}
 
 {% step %}
-#### **Из меню слева выберите "Прочее".**
+Из меню слева выберите «Прочее».
 
 <figure><img src="../../.gitbook/assets/Скриншот 14.07.25_11.56.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### **Нажмите "Удалить".**
+Нажмите «Удалить».
 {% endstep %}
 {% endstepper %}
