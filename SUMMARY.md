@@ -178,7 +178,6 @@
   * [Почему после закрытия чата и удаления Лида/Сделки не открылся новый чат и не создалась сущность?](voprosy-i-otvety/interfeisy-bitriks24/pochemu-posle-zakrytiya-chata-i-udaleniya-lida-sdelki-ne-otkrylsya-novyi-chat-i-ne-sozdalas-sushnost.md)
   * [Установили приложение, но при попытке открыть - пустая страница](voprosy-i-otvety/interfeisy-bitriks24/ustanovili-prilozhenie-no-pri-popytke-otkryt-pustaya-stranica.md)
   * [Интеграция не работает. Появляется страница «Доступно по подписке Битрикс24.Маркет Плюс»](voprosy-i-otvety/interfeisy-bitriks24/integraciya-ne-rabotaet.-poyavlyaetsya-stranica-dostupno-po-podpiske-bitriks24.market-plyus.md)
-  * [Приложение раньше было установлено по подписке, но подписку не буду продлевать. Что делать?](voprosy-i-otvety/interfeisy-bitriks24/prilozhenie-ranshe-bylo-ustanovleno-po-podpiske-no-podpisku-ne-budu-prodlevat.-chto-delat.md)
   * [Что за уведомление «До конца оплаченного периода использования приложения осталось \_ дней»?](voprosy-i-otvety/interfeisy-bitriks24/chto-za-uvedomlenie-do-konca-oplachennogo-perioda-ispolzovaniya-prilozheniya-ostalos-_-dnei.md)
   * [Где указан ID сотрудника?](voprosy-i-otvety/interfeisy-bitriks24/gde-ukazan-id-sotrudnika.md)
   * [Функция « Использовать CRM-форму для запроса контактной информации в онлайн-чате» не работает](voprosy-i-otvety/interfeisy-bitriks24/funkciya-ispolzovat-crm-formu-dlya-zaprosa-kontaktnoi-informacii-v-onlain-chate-ne-rabotaet.md)
