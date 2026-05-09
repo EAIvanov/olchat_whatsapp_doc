@@ -1,7 +1,7 @@
 # Пример работы активити приложения
 
 {% file src="../.gitbook/assets/OLChat (1).rar" %}
-Скачать шаблон бизнес-процесса OLChat
+Скачать шаблон бизнес-процесса Олчат
 {% endfile %}
 
 {% hint style="warning" %}

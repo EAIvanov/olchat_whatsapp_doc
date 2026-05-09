@@ -26,7 +26,7 @@
 
 {% stepper %}
 {% step %}
-В приложении OLChat нажмите «Настройки приложения».
+В приложении Олчат нажмите «Настройки приложения».
 
 <figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.44.39.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

@@ -59,4 +59,4 @@
 [Тарифы на шаблонные сообщения](https://developers.facebook.com/docs/whatsapp/pricing/conversationpricing/?locale=ru_RU)
 {% endhint %}
 
-### Хотите подключить OLChat WABA или у вас есть вопросы по официальной интеграции, напишите нам в [чат поддержки.](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9)
+### Хотите подключить Олчат WABA или у вас есть вопросы по официальной интеграции, напишите нам в [чат поддержки.](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9)
