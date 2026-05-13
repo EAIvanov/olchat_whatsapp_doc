@@ -4,7 +4,7 @@
 
 Работой с клиентом на разных этапах взаимодействия могут заниматься разные сотрудники, поэтому иногда появляется необходимость переводить чат открытой линии с одного сотрудника на другого в момент перехода сделки из воронки «Предпродажа» в воронку «Продажа».
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 Выполним настройку данного сценария.
 
@@ -20,7 +20,7 @@
 
 Следом добавим робота [perevesti-dialog-na-drugogo-operatora-liniyu.md](../../roboty-i-aktiviti/roboty/perevesti-dialog-na-drugogo-operatora-liniyu.md "mention")и выполним его настройку как показано на скриншоте ниже:
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 3. Обязательно укажите, что робот должен сработать после предыдущего.
 4. В качестве «ID чата» используйте дополнительные результаты работы предыдущего робота.

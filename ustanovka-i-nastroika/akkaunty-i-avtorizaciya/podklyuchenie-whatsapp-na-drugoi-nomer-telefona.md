@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_16.09.20.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 Дождитесь появления QR-кода и отсканируете его из приложения WhatsApp на телефоне. При необходимости выполните настройку подключенной Открытой линии.
 

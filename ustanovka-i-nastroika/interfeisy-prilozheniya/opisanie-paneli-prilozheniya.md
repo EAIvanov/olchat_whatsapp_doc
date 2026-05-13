@@ -14,49 +14,49 @@
 
 Позволяет добавлять дополнительные аккаунты WhatsApp в ваш Битрикс24. Подробнее в статье [dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md](../akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md "mention").
 
-* Пункт меню «Telegram аккаунт».&#x20;
+* Пункт меню «Telegram аккаунт».
 
 Позволяет перейти к приложению Олчат Telegram для подключения аккаунта Telegram в Битрикс24. Если приложение не установлено на портале, осуществится переход в Битрикс24.Маркет для установки приложения. Подробнее в документации [Олчат: Telegram — чат Telegram для открытых линий Битрикс24](https://tg.docs.olchat.io/).
 
-* Пункт меню «WhatsApp Business API» (программный интерфейс WhatsApp Business)**.**&#x20;
+* Пункт меню «WhatsApp Business API» (программный интерфейс WhatsApp Business)**.**
 
 Если вы хотите узнать подробности подключения официального, [свяжитесь с нами](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) для получения консультации.
 
-* Пункт меню «Рассылки».&#x20;
+* Пункт меню «Рассылки».
 
 Открывает страницу просмотра статусов рассылок CRM-маркетинга. Подробнее в статье [stranica-prosmotra-statusov-rassylok-crm-marketinga.md](../../capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md "mention").
 
-* Пункт меню «Список диалогов».&#x20;
+* Пункт меню «Список диалогов».
 
 Открывает страницу просмотра Списка диалогов. Подробнее в статье Битрикс24 [Список диалогов: как найти чаты открытых линий](https://helpdesk.bitrix24.ru/open/18077662/).
 
-* Пункт меню «Настройки групп».&#x20;
+* Пункт меню «Настройки групп».
 
 Открывает окно настроек для управления группами. Подробнее в статье [gruppy.md](../../gruppovye-chaty/gruppy.md "mention").
 
-* Пункт меню «Настройки шаблонов».&#x20;
+* Пункт меню «Настройки шаблонов».
 
 Открывает окно для управления шаблонами. Подробнее в статье [shablony-soobshenii.md](../../capabilities/shablony-soobshenii.md "mention").
 
-* Пункт меню «Настройки приложения».&#x20;
+* Пункт меню «Настройки приложения».
 
 Подробнее в статье [opisanie-nastroek-prilozheniya.md](opisanie-nastroek-prilozheniya.md "mention").
 
-* Пункт меню «Ваш партнёр».&#x20;
+* Пункт меню «Ваш партнёр».
 
 Если вы подключались к приложению через партнёра, будет указано название партнёра и данные для связи с ним.
 
-* Пункт меню «Документация».&#x20;
+* Пункт меню «Документация».
 
 Ссылка на данную документацию
 
-* Пункт меню «Написать в поддержку».&#x20;
+* Пункт меню «Написать в поддержку».
 
 Открывает чат поддержки пользователей приложения Олчат в вашем Битрикс24.
 
-* Пункт меню «Подписаться на новости».&#x20;
+* Пункт меню «Подписаться на новости».
 
-Ссылка на наш телеграмм-канал с  [Олчат — Что нового?](https://t.me/olchat_news)
+Ссылка на наш телеграмм-канал с [Олчат — Что нового?](https://t.me/olchat_news)
 
 ### Список аккаунтов
 
@@ -86,9 +86,7 @@
     ![](<../../.gitbook/assets/image (61).png>)
 
     * Оплатить. Открывает окно для оплаты тарифа групп. Подробнее в статье [oplata-grupp-whatsapp.md](../../stoimost-i-oplata-prilozheniya/oplata-grupp-whatsapp.md "mention").
-    *   Настройки групп. Окно для управления настройками подключенных групп. Подробнее в статье [Broken link](/broken/pages/-MXVrYxQeDKO6_xAMMzT "mention").
-
-
+    * Настройки групп. Окно для управления настройками подключенных групп. Подробнее в статье [Broken link](/broken/pages/-MXVrYxQeDKO6_xAMMzT "mention").
 
     В столбцах меню, в которых присутствуют стрелочки «↑↓», доступна возможность сортировки. Для этого необходимо нажать на иконку со стрелочками «↑↓». Также существует множественная сортировка по нескольким столбцам. Для этого необходимо зажать «Ctrl» и выбрать нужные столбцы.
 
@@ -98,6 +96,6 @@
 
 <figure><img src="../../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
 
-Более подробно про подозрение на спам [здесь](../../blokirovka-nomera/podozrenie-na-spam.md).&#x20;
+Более подробно про подозрение на спам [здесь](../../blokirovka-nomera/podozrenie-na-spam.md).

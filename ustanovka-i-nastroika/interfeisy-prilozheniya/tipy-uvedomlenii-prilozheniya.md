@@ -26,7 +26,7 @@
 {% endstep %}
 
 {% step %}
-Нажмите на гиперссылку  <img src="https://tg.docs.olchat.io/~gitbook/image?url=https%3A%2F%2F2065239246-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FRMTOPu2XofX4vERECjya%252Fuploads%252FFQ1waeeHgSb1o52PrwMh%252Fimage.png%3Falt%3Dmedia%26token%3D635c5350-1f61-4024-9111-1800caf7b6bf&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=37824830&#x26;sv=2" alt="" data-size="line"> , чтобы перейти в чат, в котором публикуются уведомления от приложения.
+Нажмите на гиперссылку <img src="https://tg.docs.olchat.io/~gitbook/image?url=https%3A%2F%2F2065239246-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FRMTOPu2XofX4vERECjya%252Fuploads%252FFQ1waeeHgSb1o52PrwMh%252Fimage.png%3Falt%3Dmedia%26token%3D635c5350-1f61-4024-9111-1800caf7b6bf&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=37824830&#x26;sv=2" alt="" data-size="line"> , чтобы перейти в чат, в котором публикуются уведомления от приложения.
 
 <figure><img src="../../.gitbook/assets/image (1432).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -37,8 +37,6 @@
 <figure><img src="../../.gitbook/assets/image (1433).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 ## Типы уведомлений в чате
 
@@ -90,6 +88,6 @@
 
 Если WhatsApp обнаружил спам-активность на вашем номере, работа аккаунта на время приостанавливается. Уведомление о аккаунта будет отображаться в основном интерфейсе приложения, в настройках коннектора и в чате уведомлений:
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>

@@ -2,13 +2,13 @@
 
 Для перехода к настройкам коннектора, в левом меню портала выберите приложение Олчат:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне приложения выберите нужный коннектор, нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»:
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.27.11.png" alt=""><figcaption></figcaption></figure>
 
-Перейти к настройкам коннектора можно также на стадии сканирования QR-кода до подключения аккаунта WhatsApp. Для этого нажмите на <img src="../../.gitbook/assets/image (1404).png" alt="" data-size="line"> в окне авторизации:
+Перейти к настройкам коннектора можно также на стадии сканирования QR-кода до подключения аккаунта WhatsApp. Для этого нажмите на <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> в окне авторизации:
 
 <figure><img src="../../.gitbook/assets/Скриншот 28.07.25_09.50.00.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@
 
 Если коннектор не подключен, вы увидите QR-код, которой необходимо отсканировать из приложения WhatsApp на смартфоне. Подробнее в статье [#podklyuchenie-konnektora](../podklyuchenie-konnektora.md#podklyuchenie-konnektora "mention").
 
-<figure><img src="../../.gitbook/assets/image (1357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1356).png" alt=""><figcaption></figcaption></figure>
 
 К сканированию QR-кода можно перейти в том числе и из настроек коннектора. Для этого нажмите на <img src="../../.gitbook/assets/image (1405).png" alt="" data-size="line"> «Отсканировать QR-код»:
 
@@ -50,7 +50,7 @@
 
 #### Чат
 
-* «Публиковать в чат исходящие сообщения с телефона».&#x20;
+* «Публиковать в чат исходящие сообщения с телефона».
 
 При включении функции все сообщения, отправляемые с телефона, будут опубликованы в чат открытой линии. Это глобальная настройка. Если она отключена, то сообщения от приложения не будут попадать в чат открытой линии, даже если в роботах стоит «Да» в настройке «Создавать сообщение в чате открытой линии?».
 
@@ -105,7 +105,7 @@
 
 ### **Доступ к коннектору**
 
-Подробнее  о настройке прав в статье [#prava-na-konnektor-linii](../nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-konnektor-linii "mention").
+Подробнее о настройке прав в статье [#prava-na-konnektor-linii](../nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-konnektor-linii "mention").
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.44.27.png" alt=""><figcaption></figcaption></figure>
 

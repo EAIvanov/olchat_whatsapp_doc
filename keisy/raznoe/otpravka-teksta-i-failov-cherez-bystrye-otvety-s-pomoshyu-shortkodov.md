@@ -54,7 +54,7 @@
 
 После отправки клиент получит в WhatsApp текстовое сообщение и файл:
 
-<figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
 
 ### Дополнительные настройки и список быстрых ответов
 
