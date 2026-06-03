@@ -9,7 +9,7 @@
 \
 Итак, встречайте:\
 \
-1\. Интерфейс основных настроек [приложения ](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya)и [групп ](https://docs.olchat.io/gruppovye-chaty/gruppy)сделали более современным и адаптивным, а еще расширили возможности настроек для больших сценариев работы. В настройках групповых чатов появилась возможность [отключения сразу нескольких групп](https://docs.olchat.io/gruppovye-chaty/gruppy#otklyuchenie-neskolkikh-grupp) от Битрикс24. \
+1\. Интерфейс основных настроек [приложения ](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya)и [групп ](https://docs.olchat.io/gruppovye-chaty/gruppy)сделали более современным и адаптивным, а еще расширили возможности настроек для больших сценариев работы. В настройках групповых чатов появилась возможность [отключения сразу нескольких групп](https://docs.olchat.io/gruppovye-chaty/gruppy#otklyuchenie-neskolkikh-grupp) от Битрикс24.\
 \
 2\. Сделали [сортировку шаблонов](https://docs.olchat.io/capabilities/shablony-soobshenii#opisanie-nastroek-shablonov-soobshenii) более удобной: в настройках добавления шаблонов они идут по алфавиту, а в Открытых линиях, при использовании шаблонов, вы видите 5 последних использованных шаблонов. Остальные никуда не пропали, а находятся ниже. Теперь по умолчанию выбрана последняя использованная категория шаблонов для вашего удобства.\
 \
@@ -42,19 +42,19 @@
 
 Мы рады сообщить вам о важных изменениях в наших тарифах на подключение групп в Олчат WhatsApp. Мы сделали наши тарифы **ещё более выгодными и доступными** для всех пользователей!
 
-✅ Изменение тарифов для всех клиентов:&#x20;
+✅ Изменение тарифов для всех клиентов:
 
-• теперь целых 50 групп доступно **бесплатно**;&#x20;
+• теперь целых 50 групп доступно **бесплатно**;
 
-• 150 групп — 3000 рублей;&#x20;
+• 150 групп — 3000 рублей;
 
 • безлимит — 5000 рублей.
 
-✅ Расширение тарифов для тех клиентов, у кого на данный момент оплачены группы:&#x20;
+✅ Расширение тарифов для тех клиентов, у кого на данный момент оплачены группы:
 
-• 10 групп — повышен лимит до 50 групп;&#x20;
+• 10 групп — повышен лимит до 50 групп;
 
-• 35 и 50 групп — повышен лимит до 150 групп;&#x20;
+• 35 и 50 групп — повышен лимит до 150 групп;
 
 • 100 групп и более — безлимит.
 
@@ -68,7 +68,7 @@
 2. Появились новые настройки шаблонов. Вы можете задавать параметры в шаблонах, переменные из сущностей CRM (системы управления взаимоотношениями с клиентами) будут подставляться автоматически. Можно сортировать шаблоны по категориям и гибко настраивать права доступа для сотрудников [shablony-soobshenii.md](capabilities/shablony-soobshenii.md "mention").
 3. В карточках дела «Чат» и «Пропущенный звонок WhatsApp» отображаются в новом виде, содержат больше данных и добавлены в мобильное приложение Битрикс24. Появилась возможность из дела открыть чат [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention") .
 4. Добавлена новая настройка в роботе [otpravka-soobsheniya.md](roboty-i-aktiviti/roboty/otpravka-soobsheniya.md "mention") – «Выбор очереди отправки». Эта опция позволяет направлять сообщения от роботов в специальную очередь, для которой устанавливается отдельный интервал между отправками сообщений. Это снижает риск блокировки и не задерживает остальные сообщения [#intervaly-otpravki-soobshenii](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#intervaly-otpravki-soobshenii "mention").
-5. Добавлены новые роботы [sozdanie-gruppy.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/sozdanie-gruppy.md "mention") WhatsApp и [poluchenie-ssylki-na-gruppu.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/poluchenie-ssylki-na-gruppu.md "mention"). Теперь вы можете на нужной стадии настроить автоматическое создание групповых чатов, получение и отправку ссылки на группы клиентам.
+5. Добавлены новые роботы [Broken link](/broken/pages/ieq04Uoj0EnsU6mGP2xn "mention") WhatsApp и [poluchenie-ssylki-na-gruppu.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/poluchenie-ssylki-na-gruppu.md "mention"). Теперь вы можете на нужной стадии настроить автоматическое создание групповых чатов, получение и отправку ссылки на группы клиентам.
 
 ## 09.04.2024
 
@@ -129,7 +129,7 @@
 
     Подробнее в статье [#opisanie-parametrov-bota](capabilities/bot-pomoshnik.md#opisanie-parametrov-bota "mention").
 5. Добавили волшебства в работу с товарами Битрикс24. Теперь клиенту отправляется товар в удобочитаемом виде без табличного форматирования. Подробнее в статье [rabota-s-tovarnymi-poziciyami.md](keisy/raznoe/rabota-s-tovarnymi-poziciyami.md "mention").
-6. &#x20;Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [Broken link](/broken/pages/VNYLVYWnbPWmvrkjynUv "mention") и Активити: [Broken link](/broken/pages/S0nSiROjWLd6gDNHm1s8 "mention").
+6. Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [Broken link](/broken/pages/VNYLVYWnbPWmvrkjynUv "mention") и Активити: [Broken link](/broken/pages/S0nSiROjWLd6gDNHm1s8 "mention").
 7. Сделали автоплатёж через Робокассу для тех, кто устал возиться с оплатой каждый месяц.
 
 ### А что прокачали?
