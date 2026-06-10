@@ -36,7 +36,7 @@
 
 * Пункт меню «Настройки шаблонов».
 
-Открывает окно для управления шаблонами. Подробнее в статье [shablony-soobshenii.md](../../capabilities/shablony-soobshenii.md "mention").
+Открывает окно для управления шаблонами. Подробнее в статье [Broken link](/broken/pages/-MGBG8SXp08ITHgRv8xB "mention").
 
 * Пункт меню «Настройки приложения».
 
