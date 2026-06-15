@@ -150,6 +150,7 @@
   * [При смене номера чаты сохранятся?](voprosy-i-otvety/rabota-s-chatami/pri-smene-nomera-chaty-sokhranyatsya.md)
   * [Как включить или отключить публикацию сообщений в чат?](voprosy-i-otvety/rabota-s-chatami/kak-vklyuchit-ili-otklyuchit-publikaciyu-soobshenii-v-chat.md)
   * [Как дать ссылку на конкретный чат?](voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat.md)
+  * [Copy of Как дать ссылку на конкретный чат?](voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat-1.md)
   * [Как долго хранятся файлы в чате?](voprosy-i-otvety/rabota-s-chatami/kak-dolgo-khranyatsya-faily-v-chate.md)
   * [Как сделать рассылку картинки вместе с текстом ?](voprosy-i-otvety/rabota-s-chatami/kak-sdelat-rassylku-kartinki-vmeste-s-tekstom.md)
   * [Какой максимальный размер для отправки файла?](voprosy-i-otvety/rabota-s-chatami/kakoi-maksimalnyi-razmer-dlya-otpravki-faila.md)
