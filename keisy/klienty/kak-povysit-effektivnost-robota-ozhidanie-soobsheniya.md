@@ -95,7 +95,7 @@
 <figure><img src="../../.gitbook/assets/image (1132).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Подробнее о том, как создать ссылку на чат, описано в статье[kak-dat-ssylku-na-konkretnyi-chat.md](../../voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat.md "mention").
+Подробнее о том, как создать ссылку на чат, описано в статье[Broken link](/broken/pages/de04tMuz1UoA68ECvxRp "mention").
 {% endhint %}
 
 #### Схема процесса, примеры общения в чате
