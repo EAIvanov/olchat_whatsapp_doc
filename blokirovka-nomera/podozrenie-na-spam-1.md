@@ -18,7 +18,7 @@ WhatsApp может временно ограничить работу акка�
 
 В списке аккаунтов появляется предупреждение **Подозрение на спам:**
 
-<figure><img src="../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
 
