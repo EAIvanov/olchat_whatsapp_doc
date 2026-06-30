@@ -98,4 +98,4 @@
 
 <figure><img src="../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
 
-Более подробно про подозрение на спам [здесь](../../blokirovka-nomera/podozrenie-na-spam.md).
+Более подробно про подозрение на спам [здесь](/broken/pages/KTdyoqzMqC5kwLz37u3s).

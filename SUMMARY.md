@@ -4,7 +4,6 @@
 * [Важная информация](vazhnaya-informaciya.md)
 * [Блокировка номера](blokirovka-nomera/README.md)
   * [Подозрение на спам](blokirovka-nomera/podozrenie-na-spam.md)
-  * [Copy of Подозрение на спам](blokirovka-nomera/podozrenie-na-spam-1.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
   * [New Оплата групп](stoimost-i-oplata-prilozheniya/new-oplata-grupp.md)
