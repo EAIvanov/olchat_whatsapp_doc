@@ -23,6 +23,7 @@
 * [Интерфейсы приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/README.md)
   * [Описание панели приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-paneli-prilozheniya.md)
   * [Описание настроек коннектора](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md)
+  * [Copy of Описание настроек коннектора](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora-1.md)
   * [Описание настроек приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya.md)
   * [Типы уведомлений приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/tipy-uvedomlenii-prilozheniya.md)
 * [Аккаунты и авторизация](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/README.md)
