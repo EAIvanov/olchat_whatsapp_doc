@@ -16,7 +16,7 @@ WhatsApp может временно ограничить работу акка�
 
 <figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/localhost_5173_ (6).png" alt=""><figcaption></figcaption></figure>
 
 #### WhatsApp
 
