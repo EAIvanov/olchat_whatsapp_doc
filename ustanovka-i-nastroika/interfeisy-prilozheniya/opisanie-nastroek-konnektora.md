@@ -28,7 +28,7 @@
 
 К сканированию QR-кода можно перейти в том числе и из настроек коннектора. Для этого нажмите на <img src="../../.gitbook/assets/image (1405).png" alt="" data-size="line"> «Отсканировать QR-код»:
 
-<figure><img src="../../.gitbook/assets/Скриншот 28.07.25_09.55.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Если к коннектору ранее уже был подключен номер, он отобразится под статусом подключения.
