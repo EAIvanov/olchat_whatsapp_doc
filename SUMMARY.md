@@ -8,6 +8,7 @@
   * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
   * [New Оплата групп](stoimost-i-oplata-prilozheniya/new-oplata-grupp.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
+  * [Copy of Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora-1.md)
   * [Оплата групп WhatsApp](stoimost-i-oplata-prilozheniya/oplata-grupp-whatsapp.md)
   * [Вопросы по оплате](stoimost-i-oplata-prilozheniya/voprosy-po-oplate.md)
   * [Перенос оплаты и балансировка оплат между линиями](stoimost-i-oplata-prilozheniya/perenos-oplaty-i-balansirovka-oplat-mezhdu-liniyami.md)
