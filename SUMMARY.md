@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Олчат — чат WhatsApp для открытых линий Битрикс24](README.md)
+* [Знакомство с Олчат WhatsApp](README.md)
 * [Важная информация](vazhnaya-informaciya.md)
 * [Блокировка номера](blokirovka-nomera/README.md)
   * [Подозрение на спам](blokirovka-nomera/podozrenie-na-spam.md)
