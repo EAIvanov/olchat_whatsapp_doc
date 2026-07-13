@@ -190,6 +190,7 @@
   * [Ошибка WhatsApp «Ожидание сообщения»](voprosy-i-otvety/interfeisy-whatsapp/oshibka-whatsapp-ozhidanie-soobsheniya.md)
   * [Уведомление в WhatsApp «Не удалось подтвердить ваш код безопасности...»](voprosy-i-otvety/interfeisy-whatsapp/uvedomlenie-v-whatsapp-ne-udalos-podtverdit-vash-kod-bezopasnosti....md)
   * [Уведомление «Не удалось привязать/связать устройство»](voprosy-i-otvety/interfeisy-whatsapp/uvedomlenie-ne-udalos-privyazat-svyazat-ustroistvo.md)
+  * [Copy of Уведомление «Не удалось привязать/связать устройство»](voprosy-i-otvety/interfeisy-whatsapp/uvedomlenie-ne-udalos-privyazat-svyazat-ustroistvo-1.md)
   * [После разблокировки WhatsApp не приходит код для подтверждения номера. Что делать?](voprosy-i-otvety/interfeisy-whatsapp/posle-razblokirovki-whatsapp-ne-prikhodit-kod-dlya-podtverzhdeniya-nomera.-chto-delat.md)
 * [WhatsApp Business API (WABA)](voprosy-i-otvety/whatsapp-business-api-waba/README.md)
   * [Сравнение неофициальной интеграции WhatsApp и официальной WhatsApp Business API с Битрикс24](voprosy-i-otvety/whatsapp-business-api-waba/sravnenie-neoficialnoj-integracii-whatsapp-i-oficialnogo-whatsapp-business-api.md)
