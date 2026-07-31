@@ -140,7 +140,6 @@
 
 ## Вопросы и ответы
 
-* [Какое приложение Олчат установить для WhatsApp, Telegram и МАКС?](voprosy-i-otvety/kakoe-prilozhenie-olchat-ustanovit-dlya-whatsapp-telegram-i-maks.md)
 * [Работа с чатами](voprosy-i-otvety/rabota-s-chatami/README.md)
   * [Почему не создался чат открытой линии?](voprosy-i-otvety/rabota-s-chatami/pochemu-ne-sozdalsya-chat-otkrytoi-linii.md)
   * [Почему сообщение ушло не на того менеджера?](voprosy-i-otvety/rabota-s-chatami/pochemu-soobshenie-ushlo-ne-na-togo-menedzhera.md)
