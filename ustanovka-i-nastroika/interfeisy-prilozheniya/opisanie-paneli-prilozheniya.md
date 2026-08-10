@@ -36,7 +36,7 @@
 
 * Пункт меню «Настройки шаблонов».
 
-Открывает окно для управления шаблонами. Подробнее в статье [Broken link](/broken/pages/-MGBG8SXp08ITHgRv8xB "mention").
+Открывает окно для управления шаблонами. Подробнее в статье [shablony-soobshenii.md](../../capabilities/shablony-soobshenii.md "mention").
 
 * Пункт меню «Настройки приложения».
 
@@ -78,7 +78,7 @@
     ![](<../../.gitbook/assets/image (60).png>)<br>
 
     * Оплатить. Открывает окно для оплаты выбранного коннектора. Подробнее в статье [oplata-konnektora.md](../../stoimost-i-oplata-prilozheniya/oplata-konnektora.md "mention").
-    * Настройки коннектора. Открывает окно настроек коннектора. Подробнее в статье [Broken link](/broken/pages/-MXVZVnBGVIblHBKthyO "mention").
+    * Настройки коннектора. Открывает окно настроек коннектора. Подробнее в статье [opisanie-nastroek-konnektora.md](opisanie-nastroek-konnektora.md "mention").
     * Настройки линии. Позволяет перейти в настройки открытой линии для данного коннектора. Подробнее в статье [nastroika-otkrytoi-linii.md](../nastroika-otkrytoi-linii.md "mention").
     * Скрыть. Позволяет скрыть выбранный коннектор из списка и убрать его упоминание в действиях бизнес-процессов. Скрыть можно только отключенный коннектор или коннектор с закончившимся пробным периодом.
 
@@ -98,4 +98,4 @@
 
 <figure><img src="../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
 
-Более подробно про подозрение на спам [здесь](/broken/pages/KTdyoqzMqC5kwLz37u3s).
+Более подробно про подозрение на спам [здесь](../../blokirovka-nomera/podozrenie-na-spam.md).
