@@ -49,5 +49,5 @@
 {% endstepper %}
 
 {% hint style="info" %}
-Установить приложение Олчат без поиска можно, перейдя по [ссылке](https://www.bitrix24.ru/apps/app/infocom.olchat/?p=132277).
+Установить приложение Олчат без поиска можно, перейдя по [ссылке](https://www.bitrix24.ru/apps/app/infocom.olchat/?p=132277&p1=docs).
 {% endhint %}
