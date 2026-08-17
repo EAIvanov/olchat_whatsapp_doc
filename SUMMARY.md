@@ -52,7 +52,6 @@
 
 * [Виджет для сайта](capabilities/vidzhet-dlya-saita.md)
 * [Шаблоны сообщений](capabilities/shablony-soobshenii.md)
-* [Copy of Шаблоны сообщений](capabilities/shablony-soobshenii-1.md)
 * [Автоответчик](capabilities/avtootvetchik.md)
 * [Бот-помощник](capabilities/bot-pomoshnik.md)
 * [Рассылка сообщений](capabilities/rassylka-soobshenii/README.md)
