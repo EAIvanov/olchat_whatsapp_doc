@@ -47,6 +47,7 @@
   * [Олчат — статусы и чаты](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md)
   * [Встройка в карточку звонка](ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md)
 * [REST API для работы с WhatsApp](ispolzovanie/rest-api-dlya-raboty-s-whatsapp.md)
+* [Copy of REST API для работы с WhatsApp](ispolzovanie/rest-api-dlya-raboty-s-whatsapp-1.md)
 
 ## Возможности <a href="#capabilities" id="capabilities"></a>
 
