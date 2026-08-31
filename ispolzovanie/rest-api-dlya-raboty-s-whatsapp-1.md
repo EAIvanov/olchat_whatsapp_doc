@@ -30,7 +30,7 @@ hidden: true
 
 ## Отправка сообщения
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/sendText`
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.text.send/`
 
 Позволяет отправить текстовое сообщение на указанный номер телефона в WhatsApp.
 
@@ -52,7 +52,7 @@ hidden: true
 
 ## Отправка файла
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/sendFile`
+<mark style="color:blue;">`GET`</mark>` ``https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.file.send/`
 
 Позволяет отправить файл на указанный номер телефона в WhatsApp. В качестве файла указывается прямая ссылка на файл. Подробнее в статье [#sozdanie-pryamoi-ssylki-na-fail](../roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail.md#sozdanie-pryamoi-ssylki-na-fail "mention").
 
@@ -75,7 +75,7 @@ hidden: true
 
 ## Проверка аккаунта на номере
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkPhone`
+<mark style="color:blue;">`GET`</mark>` ``https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/phone.check/`
 
 Позволяет проверить наличие на номере аккаунта WhatsApp.
 
@@ -97,7 +97,7 @@ hidden: true
 
 ## Проверка статуса линии
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkStatus`
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/line.status.get/`
 
 Позволяет проверить статус текущей линии.
 
@@ -105,7 +105,7 @@ hidden: true
 
 ## Проверка статуса сообщения
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkMessageStatus`
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.status.get/`
 
 Позволяет проверить статус сообщения.
 
@@ -174,13 +174,18 @@ response = requests.post(webhook_url, json=payload)
 
 <figure><img src="../.gitbook/assets/image (2106).png" alt=""><figcaption></figcaption></figure>
 
-## Получение последних входящих сообщений
+## Получение последних сообщений
 
 **Метод**: messages.history.list
 
-<mark style="color:blue;">`GET`</mark>`https://olchat.infocom.io/rest/webhook/wa/{{token}}/lastIncomingMessages`
+<mark style="color:blue;">`GET`</mark> <mark style="color:blue;">`https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.history.list/`</mark>
 
-Возвращает список недавних входящих и/или исходящих сообщений по линии.
+Возвращает список недавних входящих и/или исходящих сообщений по линии.&#x20;
+
+| Name            | Type    | Description                                                 |
+| --------------- | ------- | ----------------------------------------------------------- |
+| direction       | string  | Обязательный. `incoming`, `outgoing` или `all`              |
+| period\_minutes | integer | Период в минутах (от 1 до 10080). По умолчанию 1440 (сутки) |
 
 #### Особенности
 
@@ -192,9 +197,15 @@ response = requests.post(webhook_url, json=payload)
 
 **Метод**: chats.history.list
 
-<mark style="color:blue;">`GET`</mark>`https://olchat.infocom.io/rest/webhook/wa/{{token}}/lastOutgoingMessages`
+<mark style="color:blue;">`GET`</mark> <mark style="color:blue;">`https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/chats.history.list/`</mark>
 
 Возвращает историю сообщений указанного чата.
+
+| Name          | Type    | Description                                                                  |
+| ------------- | ------- | ---------------------------------------------------------------------------- |
+| phone\_number | string  | Номер телефона. Нужен ровно один из параметров: `phone_number` или `chat_id` |
+| chat\_id      | string  | Идентификатор чата WhatsApp (`@c.us` или `@g.us`)                            |
+| limit         | integer | Максимальное количество сообщений. По умолчанию 100                          |
 
 #### **Особенности**
 
