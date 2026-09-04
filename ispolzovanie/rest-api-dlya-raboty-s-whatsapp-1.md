@@ -38,11 +38,11 @@ hidden: true
 
 #### Параметры
 
-| Name                                             | Type | Description                                                  |
-| ------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| phone\_number<mark style="color:red;">\*</mark>  | str  | Номер телефона                                               |
-| body<mark style="color:red;">\*</mark>           | text | Тело сообщения                                               |
-| send\_to\_imol<mark style="color:red;">\*</mark> | Y\|N | Отправка в чат Открытой Линии. Может принимать значение Y\|N |
+| Name                                                      | Type    | Description                                                              |
+| --------------------------------------------------------- | ------- | ------------------------------------------------------------------------ |
+| phone\_number<mark style="color:red;">\*</mark>           | str     | Номер телефона                                                           |
+| text<mark style="color:red;">\*</mark>                    | text    | Тело сообщения                                                           |
+| publish\_to\_open\_line<mark style="color:red;">\*</mark> | boolean | Публиковать сообщение в Открытую линию. true / false, по умолчанию false |
 
 {% tabs %}
 {% tab title="200: OK " %}
@@ -60,12 +60,12 @@ hidden: true
 
 #### Параметры
 
-| Name                                             | Type | Description                                                  |
-| ------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| phone\_number<mark style="color:red;">\*</mark>  | str  | Номер телефона                                               |
-| body<mark style="color:red;">\*</mark>           | url  | Прямая ссылка на файл                                        |
-| send\_to\_imol<mark style="color:red;">\*</mark> | Y\|N | Отправка в чат Открытой Линии. Может принимать значение Y\|N |
-| caption                                          | str  | Текст подписи под картинкой                                  |
+| Name                                            | Type    | Description                                                              |
+| ----------------------------------------------- | ------- | ------------------------------------------------------------------------ |
+| phone\_number<mark style="color:red;">\*</mark> | str     | Номер телефона                                                           |
+| body<mark style="color:red;">\*</mark>          | url     | Прямая ссылка на файл                                                    |
+| publish\_to\_open\_line                         | boolean | Публиковать сообщение в Открытую линию. true / false, по умолчанию false |
+| caption                                         | str     | Текст подписи под картинкой                                              |
 
 {% tabs %}
 {% tab title="200: OK " %}
