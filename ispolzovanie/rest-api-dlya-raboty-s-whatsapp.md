@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# REST API для работы с WhatsApp
+# Copy of REST API для работы с WhatsApp
 
 Мы добавили в Олчат REST API (программный интерфейс взаимодействия с сервером) для работы с WhatsApp. Теперь вы можете сформировать вебхук и использовать его для вызовов методов REST в своих сценариях автоматизации и при интеграции различных сервисов.
 
@@ -30,7 +30,7 @@ hidden: true
 
 ## Отправка сообщения
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/sendText`
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.text.send/`
 
 Позволяет отправить текстовое сообщение на указанный номер телефона в WhatsApp.
 
@@ -38,11 +38,11 @@ hidden: true
 
 #### Параметры
 
-| Name                                             | Type | Description                                                  |
-| ------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| phone\_number<mark style="color:red;">\*</mark>  | str  | Номер телефона                                               |
-| body<mark style="color:red;">\*</mark>           | text | Тело сообщения                                               |
-| send\_to\_imol<mark style="color:red;">\*</mark> | Y\|N | Отправка в чат Открытой Линии. Может принимать значение Y\|N |
+| Name                                                      | Type    | Description                                                              |
+| --------------------------------------------------------- | ------- | ------------------------------------------------------------------------ |
+| phone\_number<mark style="color:red;">\*</mark>           | str     | Номер телефона                                                           |
+| text<mark style="color:red;">\*</mark>                    | text    | Тело сообщения                                                           |
+| publish\_to\_open\_line<mark style="color:red;">\*</mark> | boolean | Публиковать сообщение в Открытую линию. true / false, по умолчанию false |
 
 {% tabs %}
 {% tab title="200: OK " %}
@@ -52,7 +52,7 @@ hidden: true
 
 ## Отправка файла
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/sendFile`
+<mark style="color:blue;">`GET`</mark>` ``https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.file.send/`
 
 Позволяет отправить файл на указанный номер телефона в WhatsApp. В качестве файла указывается прямая ссылка на файл. Подробнее в статье [#sozdanie-pryamoi-ssylki-na-fail](../roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail.md#sozdanie-pryamoi-ssylki-na-fail "mention").
 
@@ -60,12 +60,12 @@ hidden: true
 
 #### Параметры
 
-| Name                                             | Type | Description                                                  |
-| ------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| phone\_number<mark style="color:red;">\*</mark>  | str  | Номер телефона                                               |
-| body<mark style="color:red;">\*</mark>           | url  | Прямая ссылка на файл                                        |
-| send\_to\_imol<mark style="color:red;">\*</mark> | Y\|N | Отправка в чат Открытой Линии. Может принимать значение Y\|N |
-| caption                                          | str  | Текст подписи под картинкой                                  |
+| Name                                            | Type    | Description                                                              |
+| ----------------------------------------------- | ------- | ------------------------------------------------------------------------ |
+| phone\_number<mark style="color:red;">\*</mark> | str     | Номер телефона                                                           |
+| text<mark style="color:red;">\*</mark>          | text    | Текст                                                                    |
+| publish\_to\_open\_line                         | boolean | Публиковать сообщение в Открытую линию. true / false, по умолчанию false |
+| caption                                         | str     | Текст подписи под картинкой                                              |
 
 {% tabs %}
 {% tab title="200: OK " %}
@@ -75,7 +75,7 @@ hidden: true
 
 ## Проверка аккаунта на номере
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkPhone`
+<mark style="color:blue;">`GET`</mark>` ``https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/phone.check/`
 
 Позволяет проверить наличие на номере аккаунта WhatsApp.
 
@@ -97,7 +97,7 @@ hidden: true
 
 ## Проверка статуса линии
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkStatus`
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/line.status.get/`
 
 Позволяет проверить статус текущей линии.
 
@@ -105,7 +105,7 @@ hidden: true
 
 ## Проверка статуса сообщения
 
-<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkMessageStatus`
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.status.get/`
 
 Позволяет проверить статус сообщения.
 
@@ -126,13 +126,13 @@ hidden: true
 
 ## Где можно использовать REST API
 
-Предположим, что у вас есть сайт или интернет-магазин, который не интегрирован с Битрикс24, но присутствует необходимость уведомить клиента, заполнившего форму WhatsApp, о том, что его заявка принята в работу или заказ оформлен.
+Предположим, что у вас есть сайт или интернет-магазин, который не интегрирован с Битрикс24, но нужно уведомить клиента, заполнившего форму WhatsApp, о том, что его заявка принята в работу или заказ оформлен.
 
-Вы можете привязаться к событию заполнения формы и отправить запрос, содержащий метод отправки сообщения: **https://olchat.infocom.io/rest/webhook/wa/\{{token\}}/sendText.**
+Вы можете привязаться к событию заполнения формы и отправить запрос, содержащий метод отправки сообщения: `https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.text.send/`.
 
 * В качестве **phone\_number** передайте в запрос номер телефона из формы.
-* В качестве **body** – ваш текст сообщения, например: «Мы получили вашу заявку, номер вашего заказа №00001».
-* В **send\_to\_imol** передайте Y или N.
+* В качестве **text** – ваш текст сообщения, например: «Мы получили вашу заявку, номер вашего заказа №00001».
+* В **publish\_to\_open\_line** передайте true или false
 
 Другие примеры использования REST API:
 
@@ -147,23 +147,23 @@ hidden: true
 ```
 import requests
 
-webhook_url = "https://olchat.infocom.io/rest/webhook/wa/{{ваш token}}/sendFile/"
+webhook_url = "https://olchat.infocom.io/rest/webhook/wa/{{ваш token}}/v2/messages.file.send/"
 
 payload = {
-   'phone_number': '7985...',
-   'body': 'https://drive.google.com/uc?export=dow...eezby';,
-   'send_to_imol': 'Y',
-   'caption': 'Ваша корзина ждет! Завершите покупку и получите подарок'
+    "phone_number": "7985...",
+    "text": "https://drive.google.com/uc?export=download&id=...",
+    "publish_to_open_line": True,
+    "caption": "Ваша корзина ждет! Завершите покупку и получите подарок"
 }
 
 response = requests.post(webhook_url, json=payload)
 ```
 
 {% hint style="info" %}
-Переменная '**send\_to\_imol**' может иметь значение:
+Параметр publish\_to\_open\_line может принимать значения:
 
-* '**Y**' - публиковать в чат Открытой линии.
-* '**N**' - не публиковать в чат Открытой линии.
+* true — публиковать в чат Открытой линии;
+* false — не публиковать в чат Открытой линии.
 {% endhint %}
 
 При выполнении этого скрипта в чате Открытой линии будет отображено следующее сообщение:
@@ -174,39 +174,41 @@ response = requests.post(webhook_url, json=payload)
 
 <figure><img src="../.gitbook/assets/image (2106).png" alt=""><figcaption></figcaption></figure>
 
-## Получение последних входящих сообщений
+## Получение последних сообщений
 
-<mark style="color:blue;">`GET`</mark>`https://olchat.infocom.io/rest/webhook/wa/{{token}}/lastIncomingMessages`
+**Метод**: messages.history.list
 
-Возвращает последние входящие сообщения из чата Открытой линии, привязанного к сущности CRM.
+<mark style="color:blue;">`GET`</mark> <mark style="color:blue;">`https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/messages.history.list/`</mark>
 
-Ограничени&#x435;**:** 5 запросов в 3 секунды.
+Возвращает список недавних входящих и/или исходящих сообщений по линии.&#x20;
 
-**Параметры запроса (передаются в query string):**
+| Name            | Type    | Description                                                 |
+| --------------- | ------- | ----------------------------------------------------------- |
+| direction       | string  | Обязательный. `incoming`, `outgoing` или `all`              |
+| period\_minutes | integer | Период в минутах (от 1 до 10080). По умолчанию 1440 (сутки) |
 
-* minutes — **int** — количество минут назад, за которые нужно получить сообщения.
+#### Особенности
 
-Это обязательный параметр со значением по умолчанию 1440 (сутки). Допустимый диапазон: от 1 до 10080 (7 суток).
+* Возвращается только текстовое содержимое (медиафайлы не включаются).
+* Максимальная глубина истории — 7 суток (10080 минут). Это ограничение платформы, увеличить его нельзя.
+* Метод предназначен для получения свежих сообщений и определения времени последнего контакта. Для получения истории конкретного чата используйте метод chats.history.list.
+* В ответе для каждого сообщения возвращается поле timestamp — Unix time в секундах.
 
-## Получение последних исходящих сообщений
+## Получение истории конкретного чата
 
-<mark style="color:blue;">`GET`</mark>`https://olchat.infocom.io/rest/webhook/wa/{{token}}/lastOutgoingMessages`
+**Метод**: chats.history.list
 
-Возвращает последние исходящие сообщения из чата Открытой линии, привязанного к сущности CRM (системы управления взаимоотношениями с клиентами).
+<mark style="color:blue;">`GET`</mark> <mark style="color:blue;">`https://olchat.infocom.io/rest/webhook/wa/{{token}}/v2/chats.history.list/`</mark>
 
-Ограничени&#x435;**:** 5 запросов в 3 секунды.
+Возвращает историю сообщений указанного чата.
 
-Параметры запроса (передаются в query string):
+| Name          | Type    | Description                                         |
+| ------------- | ------- | --------------------------------------------------- |
+| phone\_number | string  | Номер телефона                                      |
+| chat\_id      | string  | Идентификатор чата WhatsApp (`@c.us` или `@g.us`)   |
+| limit         | integer | Максимальное количество сообщений. По умолчанию 100 |
 
-* minutes — **int** — количество минут назад, за которые нужно получить сообщения.
+#### **Особенности**
 
-Это обязательный параметр со значением по умолчанию 1440 (сутки). Допустимый диапазон: от 1 до 10080 (7 суток).
-
-### **Особенности получения последних сообщений**
-
-* Возвращается только текст (медиафайлы — фото, видео, документы — не возвращаются).
-* В ответе присутствует поле timestamp с датой и временем каждого сообщения (в формате Unix timestamp или ISO 8601 — уточняется в реальном ответе).
-* Работает только для чатов, привязанных к контактам, компаниям или сделкам.
-* Максимальная глубина истории поиска — 7 дней (10080 минут). Это жёсткое ограничение Bitrix24, его нельзя увеличить.
-* Если требуется знать дату самого последнего сообщения за более длительный период — рекомендуется сохранять timestamp последнего сообщения в кастомное поле CRM при каждом новом входящем или исходящем сообщении (через вебхуки или обработчики событий).
-* Методы не предназначены для полной выгрузки истории чата. Они подходят только для получения свежих сообщений и определения времени последнего контакта.
+* По умолчанию возвращается 100 сообщений.
+* Необходимо указать хотя бы один из параметров: `phone_number` или `chat_id`. При указании обоих приоритет имеет `phone_number`.
