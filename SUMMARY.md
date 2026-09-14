@@ -39,6 +39,7 @@
 
 * [Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii/README.md)
   * [Отправка сообщений из приложения в карточке](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
+  * [Copy of Отправка сообщений из приложения в карточке](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke-1.md)
   * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
   * [Отправка сообщений через функционал СМС](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-sms.md)
   * [Отправка документов через функционал СМС](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-dokumentov-cherez-funkcional-sms.md)
