@@ -1,4 +1,8 @@
-# Форматирование текста сообщений
+---
+hidden: true
+---
+
+# Copy of Форматирование текста сообщений
 
 Наше приложение поддерживает все способы форматирования текста сообщений, которые предоставляет для использования WhatsApp. Для того чтобы текст был отформатирован тем или иным способом, необходимо размещать его между определёнными символами или добавлять эти символы перед текстом.
 
@@ -24,31 +28,31 @@
 
 Для этого разместите текст между символами **\`\`\` \`\`\`.**
 
-<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure>
 
 ### Маркированный список
 
 Для создания маркированного списка и обозначения каждого нового пункта используйте символ **-.**
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (553).png" alt=""><figcaption></figcaption></figure>
 
 ### Нумерованный список
 
 Для создания нумерованного списка используйте цифры с точками после цифры для каждого нового пункта:
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
 
 ### Оформление текста в виде цитаты
 
 Для этого перед нужным абзацем текста поместите символ **>.**
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
 
 ### Оформление текста в виде блока кода
 
 Для этого разместите текст между символами **\` \`.**
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
 
 ### Отображение сообщений в чате
 
