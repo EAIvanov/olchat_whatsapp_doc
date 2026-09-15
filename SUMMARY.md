@@ -45,6 +45,7 @@
   * [Отправка документов через функционал СМС](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-dokumentov-cherez-funkcional-sms.md)
   * [Форматирование текста сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii/formatirovanie-teksta-soobshenii.md)
   * [Copy of Форматирование текста сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii/formatirovanie-teksta-soobshenii-1.md)
+  * [Отправка голосовых сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-golosovykh-soobshenii.md)
 * [Виджеты в карточках CRM (системы управления взаимоотношениями с клиентами) и Смарт-процессах](ispolzovanie/vidzhety-v-kartochke-crm/README.md)
   * [Олчат — статусы и чаты](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md)
   * [Встройка в карточку звонка](ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md)
