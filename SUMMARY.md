@@ -58,6 +58,7 @@
 * [Бот-помощник](capabilities/bot-pomoshnik.md)
 * [Рассылка сообщений](capabilities/rassylka-soobshenii/README.md)
   * [Страница просмотра статусов рассылок CRM-маркетинга](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
+  * [Copy of Страница просмотра статусов рассылок CRM-маркетинга](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga-1.md)
   * [Как для рассылки загрузить контакты с Excel?](capabilities/rassylka-soobshenii/kak-dlya-rassylki-zagruzit-kontakty-s-excel.md)
 * [Рандомизатор сообщений](capabilities/randomizator.md)
 * [Передача параметров аналитики](capabilities/peredacha-parametrov-analitiki/README.md)
