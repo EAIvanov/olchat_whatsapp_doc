@@ -8,7 +8,7 @@
 
 > 188.120.230.209
 >
-> olchat.infocom.io
+> whatsapp.olchat.io&#x20;
 
 #### Сервера Битрикс24:
 
