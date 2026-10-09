@@ -11,6 +11,7 @@
   * [Copy of Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora-1.md)
   * [Оплата групп WhatsApp](stoimost-i-oplata-prilozheniya/oplata-grupp-whatsapp.md)
   * [Вопросы по оплате](stoimost-i-oplata-prilozheniya/voprosy-po-oplate.md)
+  * [Copy of Вопросы по оплате](stoimost-i-oplata-prilozheniya/voprosy-po-oplate-1.md)
   * [Перенос оплаты и балансировка оплат между линиями](stoimost-i-oplata-prilozheniya/perenos-oplaty-i-balansirovka-oplat-mezhdu-liniyami.md)
 * [Что нового?](chto-novogo.md)
 * [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
