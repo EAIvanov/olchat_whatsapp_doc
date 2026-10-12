@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Знакомство с Олчат WhatsApp](README.md)
-* [Copy of Знакомство с Олчат WhatsApp](readme-1.md)
 * [Важная информация](vazhnaya-informaciya.md)
 * [Блокировка номера](blokirovka-nomera/README.md)
   * [Подозрение на спам](blokirovka-nomera/podozrenie-na-spam.md)

@@ -60,7 +60,7 @@
 
 ### Как открыть чат поддержки из Битрикс24?
 
-![](.gitbook/assets/qileclaKmF.gif)
+{% file src=".gitbook/assets/Запись 2026-10-08 153915 (1).mp4" %}
 
 [Лицензионное соглашение](https://olchat.io/eula-ru)
 
