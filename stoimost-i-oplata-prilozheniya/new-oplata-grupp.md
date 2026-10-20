@@ -10,11 +10,11 @@ hidden: true
 {% step %}
 **Перейдите в приложение Олчат и выберите пункт "Новый платёж" из раздела "Оплаты и счета".**
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В случае, если планируете оплатить только один тариф групп, можно выбрать необходимый тариф из Списка аккаунтов на главной станице приложения, нажать на "<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">" в конце строки, затем выбрать "Оплатить".
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -52,7 +52,7 @@ hidden: true
 {% step %}
 **Выберите тип оплаты: Группы WhatsApp.**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 На данный момент нельзя провести оплату линий и групп в одном платеже. Наша команда уже работает над такой возможностью.
@@ -90,7 +90,7 @@ hidden: true
 Для активации подписки в платежном поручении в назначении платежа должен быть обязательно указан номер счёта.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

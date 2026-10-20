@@ -8,16 +8,16 @@
 {% step %}
 Перейти в раздел «Роботы» из списка лидов, либо карточки лида в CRM (в системе управления взаимоотношениями с клиентами).
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Добавьте робота.
 
-1. Нажмите «+ Создать».&#x20;
-2. Укажите стадию, на которой должен срабатывать робот.&#x20;
+1. Нажмите «+ Создать».
+2. Укажите стадию, на которой должен срабатывать робот.
 3. Из списка меню выберите «Другие роботы».
 4. Нажмите «Добавить» напротив «**\[Олчат] \[Группы] Отправить сообщение с кнопками**».
 
@@ -40,18 +40,16 @@
 {% step %}
 Настройка робота завершена.
 
-В чате открытой линии, связанной с  группой, отправленное роботом сообщение с кнопками будет выглядеть так:
+В чате открытой линии, связанной с группой, отправленное роботом сообщение с кнопками будет выглядеть так:
 
 <figure><img src="../../.gitbook/assets/Скриншот 28.08.25_23.44.19.png" alt=""><figcaption></figcaption></figure>
 
 В чате WhatsApp сообщение будет иметь следующий вид:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 При ответе клиента на сообщение путём нажатия на кнопку, в открытой линии такое сообщение будет иметь следующий вид:
 
 <figure><img src="../../.gitbook/assets/Скриншот 28.08.25_23.46.03.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 {% endstepper %}

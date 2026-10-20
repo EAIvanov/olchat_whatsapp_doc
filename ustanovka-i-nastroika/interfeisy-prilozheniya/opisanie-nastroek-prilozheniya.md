@@ -2,7 +2,7 @@
 
 Для перехода к настройкам коннектора, в левом меню портала выберите приложение Олчат:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне приложения выберите пункт меню «Настройки приложения»:
 

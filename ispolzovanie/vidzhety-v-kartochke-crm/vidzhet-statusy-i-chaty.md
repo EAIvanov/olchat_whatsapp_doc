@@ -2,7 +2,7 @@
 
 Виджет «Олчат — статусы и чаты» информирует о том, на каких номерах клиента установлен WhatsApp, показывает, в каком регионе зарегистрирован номер клиента, предоставляет информацию об операторе и времени клиента. Также виджет обеспечивает быстрый доступ из карточки любой сущности к выбору линии, созданию нового чата, переходу в уже созданный чат, к истории чата, позволяет отправить сообщение клиенту прямо из карточки, не переходя в основное приложение.
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 По умолчанию виджет «Статусы и чаты» при заходе в карточку сущности отображаются в скрытом виде с кнопкой «Написать в WhatsApp».
@@ -52,31 +52,31 @@
 
 * Отправить файл.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Отправить шаблонное сообщение.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Список шаблонов по умолчанию отсортирован в алфавитном порядке по возрастанию (А-Я).&#x20;
+Список шаблонов по умолчанию отсортирован в алфавитном порядке по возрастанию (А-Я).
 
 Первыми из выпадающего списка являются 5 недавно использовавшихся шаблонов.
 {% endhint %}
 
 * Записать голосовое сообщение.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Публиковать в чат
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="374"><figcaption></figcaption></figure>
 
 Также из виджета вы можете управлять тем, будет ли сообщение, отправленное через виджет, опубликовано в чате открытой линии. Если чек-бокс «Публиковать в чат» активирован, то сообщение не только зафиксируется в таймлайне карточки, но и появится в чате открытой линии.
 
 ### Показывать имя сотрудника
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="371"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="371"><figcaption></figcaption></figure>
 
 Настройка позволяет скрывать или отображать имя сотрудника, от которого было отправлено сообщение. По умолчанию данная функция выключена. Если чек-бокс «Показывать имя сотрудника» активирован, то в сообщение, отправленное через виджет, добавится заголовок с именем сотрудника. Данная настройка применяется индивидуально на каждого пользователя.
 
@@ -90,17 +90,17 @@
 
 ### Создавать Дело в таймлайне
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="373"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="373"><figcaption></figcaption></figure>
 
 Если чек-бокс «Создавать Дело в таймлайне» активирован, то в таймлайне карточки после отправки сообщения создастся дело с информацией и содержанием сообщения:
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="464"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="464"><figcaption></figcaption></figure>
 
 ### История чата с клиентом
 
 При клике на иконку «Открыть историю чата» открывается вся доступная для веб-версии WhatsApp переписка, даже если раньше у вас не была подключена интеграция WhatsApp с Битрикс24 или подключена другая интеграция (приложение):
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1299).png" alt=""><figcaption></figcaption></figure>
 
@@ -114,10 +114,10 @@
 
 Необходимо проверить [#prava-na-prilozhenie](../../ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-prilozhenie "mention")
 
-### Что делать при ошибке «Нет данных авторизации от Битрикс24»?&#x20;
+### Что делать при ошибке «Нет данных авторизации от Битрикс24»?
 
 <figure><img src="../../.gitbook/assets/image (1259).png" alt=""><figcaption></figcaption></figure>
 
 В данном случае возможны следующие причины:\
 1\. У сотрудника нет прав на приложение и поэтому виджет не видит авторизацию. Необходимо проверить [#prava-na-prilozhenie](../../ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-prilozhenie "mention")\
-2\. Есть проблемы с сервером авторизации Битрикс24. Нужно ждать решение от Битрикс24.&#x20;
+2\. Есть проблемы с сервером авторизации Битрикс24. Нужно ждать решение от Битрикс24.

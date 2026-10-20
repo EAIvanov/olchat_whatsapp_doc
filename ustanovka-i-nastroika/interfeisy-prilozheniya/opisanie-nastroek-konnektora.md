@@ -2,13 +2,13 @@
 
 Для перехода к настройкам коннектора, в левом меню портала выберите приложение Олчат:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне приложения выберите нужный коннектор, нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»:
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.27.11.png" alt=""><figcaption></figcaption></figure>
 
-Перейти к настройкам коннектора можно также на стадии сканирования QR-кода до подключения аккаунта WhatsApp. Для этого нажмите на <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> в окне авторизации:
+Перейти к настройкам коннектора можно также на стадии сканирования QR-кода до подключения аккаунта WhatsApp. Для этого нажмите на <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> в окне авторизации:
 
 <figure><img src="../../.gitbook/assets/Скриншот 28.07.25_09.50.00.png" alt=""><figcaption></figcaption></figure>
 
@@ -123,7 +123,7 @@
 
 Если линия удалена у клиента, в строке соответствующей линии появится предупреждающий символ в виде красного круга с крестом:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если линия отключена, в строке соответствующей линии появится предупреждающий символ в виде желтого треугольника с восклицательным знаком:
 

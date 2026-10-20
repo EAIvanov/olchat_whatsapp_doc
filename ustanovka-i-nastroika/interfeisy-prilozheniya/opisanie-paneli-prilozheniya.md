@@ -4,11 +4,11 @@
 
 Для перехода к настройкам панели приложения, в левом меню портала выберите приложение Олчат:
 
-<figure><img src="../../.gitbook/assets/image (1428).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (685).png" alt=""><figcaption></figcaption></figure>
 
 ### Меню приложения
 
-<figure><img src="../../.gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (704).png" alt=""><figcaption></figcaption></figure>
 
 * Пункт меню «WhatsApp».
 
@@ -96,6 +96,6 @@
 
 <figure><img src="../../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure>
 
 Более подробно про подозрение на спам [здесь](../../blokirovka-nomera/podozrenie-na-spam.md).

@@ -13,28 +13,26 @@
 
 {% step %}
 В поисковой строке введите «Олчат».
-
-<figure><img src="../.gitbook/assets/2024-12-12_17-39-36.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Выберите «Олчат — Чаты и Группы WhatsApp».
 
-<figure><img src="../.gitbook/assets/image (1438).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Выполните установку приложения на портал, нажав кнопку «Установить».
 
-<figure><img src="../.gitbook/assets/image (1434).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Установка завершена. Приложение Олчат появилось в меню слева на вашем портале Битрикс24.
 
-При первом запуске приложения и до момента заполнения данных в приложении будет открываться окно «Контактные данные»:
+При первом запуске приложения и до момента заполнения данных в приложении будет открываться окно «Контактные данные».
 
-<figure><img src="../.gitbook/assets/image (1439).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Заполните все поля, указав фамилию, имя и отчество, телефон и адрес электронной почты для связи с сотрудником, который отвечает за настройку приложения Олчат, а также подтвердите согласие на обработку персональных данных, проставив галочку в соответствующей строке.
 
@@ -44,10 +42,10 @@
 2. В меню настроек выберите пункт «Контакты и уведомления».
 3. Обновите данные и нажмите кнопку «Сохранить».
 
-<figure><img src="../.gitbook/assets/image (1440).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
-Установить приложение Олчат без поиска можно, перейдя по [ссылке](https://www.bitrix24.ru/apps/app/infocom.olchat/?p=132277&p1=docs).
+Установить приложение Олчат без поиска можно, перейдя по [ссылке](https://www.bitrix24.ru/apps/app/infocom.olchat/?p=132277\&p1=docs).
 {% endhint %}

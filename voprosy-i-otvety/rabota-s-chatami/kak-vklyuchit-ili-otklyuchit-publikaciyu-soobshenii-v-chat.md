@@ -35,4 +35,4 @@
 
 Это глобальная настройка. Если она отключена, то сообщения от приложения не будут попадать в чат открытой линии, даже если в роботах стоит «Да» в настройке «Создавать сообщение в чате открытой линии?».
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

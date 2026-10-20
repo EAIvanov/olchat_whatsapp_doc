@@ -17,7 +17,7 @@
 
 Также в поле Сообщение доступно:
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 * { } – Вставка шаблонов. Поскольку поиск идёт по контактам, необходимо использовать шаблоны с параметрами из контактов.
 * 📎 – Отправка файлов.
