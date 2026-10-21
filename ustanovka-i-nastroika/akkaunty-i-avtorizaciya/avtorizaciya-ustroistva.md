@@ -24,9 +24,9 @@
 
 6\. Отсканируйте QR-код.
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (898).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (924).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Если на экране в разделе «состояние устройства» добавилась новая сессия, значит, переавторизация прошла успешно.
@@ -57,4 +57,4 @@
 
 После подключения устройства, страница с настройками коннектора выглядит следующим образом:
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (927).png" alt=""><figcaption></figcaption></figure>
