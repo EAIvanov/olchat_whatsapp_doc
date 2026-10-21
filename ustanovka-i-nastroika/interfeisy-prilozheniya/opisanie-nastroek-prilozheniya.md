@@ -1,16 +1,16 @@
 # Описание настроек приложения
 
-Для перехода к настройкам коннектора, в левом меню портала выберите приложение Олчат:
+Для перехода к настройкам коннектора, в левом меню портала выберите приложение Олчат WhatsApp:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (808).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне приложения выберите пункт меню «Настройки приложения»:
 
-<figure><img src="../../.gitbook/assets/image (1264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
 
 Страница «Настройки приложения» содержит несколько вкладок с настройками:
 
-<figure><img src="../../.gitbook/assets/bfcf786d-ce34-4e7e-9f6f-8d4aa42a4574.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
 
 ### Общие
 
@@ -39,7 +39,7 @@
 
 ### Возможности
 
-<figure><img src="../../.gitbook/assets/6f13c457-3021-4df8-842a-d567332bdb9b.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (821).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В Настройках приложения вкладка «Возможности» доступна только пользователям, имеющим роль «Администратор». В случае отсутствия у пользователя соответствующих прав доступа, вкладка будет недоступна.
@@ -54,7 +54,7 @@
 3. Подробнее о виджете «Встройка в карточку звонка» в статье [vstroika-v-kartochku-zvonka.md](../../ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md "mention").
 4. Принудительно отображать виджет в карточке CRM (системы управления взаимоотношениями с клиентами). По умолчанию виджет «Статусы и чаты» при входе в карточку сущности отображаются в скрытом виде с кнопкой «Написать в WhatsApp»:
 
-<figure><img src="../../.gitbook/assets/image (1378).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
 
 Сделано это для снижения рисков блокировки номера, так как при каждом входе в карточку виджетом производится проверка номеров указанных в карточке на наличие аккаунта WhatsApp. Если вы не производите отправку сообщений посредством приложения, возрастает соотношение количества проверок номеров к количеству отправок, что может повлечь за собой блокировку вашего аккаунта WhatsApp.
 

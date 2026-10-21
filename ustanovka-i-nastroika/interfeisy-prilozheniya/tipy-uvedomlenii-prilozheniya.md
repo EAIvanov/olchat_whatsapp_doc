@@ -10,19 +10,19 @@
 {% step %}
 Откройте Олчат, выбрав приложение из меню слева на портале Битрикс24.
 
-<figure><img src="../../.gitbook/assets/image (1429).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (843).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 На главной странице Олчат выберите «Настройки приложения» в меню слева.
 
-<figure><img src="../../.gitbook/assets/image (1430).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Выберите «Контакты и уведомления» в меню настроек приложения.
 
-<figure><img src="../../.gitbook/assets/image (1431).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (864).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -90,4 +90,4 @@
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (865).png" alt=""><figcaption></figcaption></figure>

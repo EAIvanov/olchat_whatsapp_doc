@@ -1,8 +1,8 @@
 # Описание настроек коннектора
 
-Для перехода к настройкам коннектора, в левом меню портала выберите приложение Олчат:
+Для перехода к настройкам коннектора, в левом меню портала выберите приложение Олчат WhatsApp:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне приложения выберите нужный коннектор, нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»:
 
@@ -10,11 +10,11 @@
 
 Перейти к настройкам коннектора можно также на стадии сканирования QR-кода до подключения аккаунта WhatsApp. Для этого нажмите на <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> в окне авторизации:
 
-<figure><img src="../../.gitbook/assets/Скриншот 28.07.25_09.50.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
 
 Окно настроек коннектора содержит в себе несколько разделов меню и кнопок для управления сценариями работы подключенного аккаунта WhatsApp (коннектора).
 
-<figure><img src="../../.gitbook/assets/Скриншот 14.07.25_09.23.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (757).png" alt=""><figcaption></figcaption></figure>
 
 ### **Наименование коннектора**
 
@@ -24,11 +24,11 @@
 
 Если коннектор не подключен, вы увидите QR-код, которой необходимо отсканировать из приложения WhatsApp на смартфоне. Подробнее в статье [#podklyuchenie-konnektora](../podklyuchenie-konnektora.md#podklyuchenie-konnektora "mention").
 
-<figure><img src="../../.gitbook/assets/image (1356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (760).png" alt=""><figcaption></figcaption></figure>
 
 К сканированию QR-кода можно перейти в том числе и из настроек коннектора. Для этого нажмите на <img src="../../.gitbook/assets/image (1405).png" alt="" data-size="line"> «Отсканировать QR-код»:
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (761).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Если к коннектору ранее уже был подключен номер, он отобразится под статусом подключения.
@@ -36,7 +36,7 @@
 
 Если подключение выполнено, то на экране отобразится статус «Подключен» с указанием даты, до которой будет активно подключение, а так же номер, который подключен в настоящий момент.
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.38.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (763).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если линия не подключена и приложение Олчат требует отсканировать QR-код для её подключения, однако рядом с <img src="../../.gitbook/assets/image (1405).png" alt="" data-size="line"> указан номер телефона, этот номер является ранее подключенным к данной линии. Номер может быть изменен в случае, когда вы отсканируете QR-код с аккаунта WhatsApp, привязанного к другому номеру.
@@ -89,31 +89,31 @@
 
 Раздел управляет настройкой создания дела при пропущенных звонках, а также позволяет совершать автоматическую отправку ответа клиенту при пропущенном звонке или голосовом сообщении. Подробнее в статье [avtootvetchik.md](../../capabilities/avtootvetchik.md "mention").
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.52.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption></figcaption></figure>
 
 ### Бот-помощник
 
 Подробнее в статье [bot-pomoshnik.md](../../capabilities/bot-pomoshnik.md "mention").
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.42.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (773).png" alt=""><figcaption></figcaption></figure>
 
 ### **Виджет на сайт**
 
 Подробнее в статье [vidzhet-dlya-saita.md](../../capabilities/vidzhet-dlya-saita.md "mention").
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.53.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (779).png" alt=""><figcaption></figcaption></figure>
 
 ### **Доступ к коннектору**
 
 Подробнее о настройке прав в статье [#prava-na-konnektor-linii](../nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-konnektor-linii "mention").
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.44.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (798).png" alt=""><figcaption></figcaption></figure>
 
 ### Вебхук
 
-В данном разделе настроек можно создать Вебхук (запрос) для работы с WhatsApp через REST API (программный интерфейс взаимодействия с сервером). Подробнее в статье [Broken link](/broken/pages/C6iMfwt5oXRAhJSkFJRh "mention").
+В данном разделе настроек можно создать Вебхук (запрос) для работы с WhatsApp через REST API (программный интерфейс взаимодействия с сервером). Подробнее в [статье](../../ispolzovanie/rest-api-dlya-raboty-s-whatsapp.md).
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.54.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (792).png" alt=""><figcaption></figcaption></figure>
 
 ### Отключить аккаунт
 
