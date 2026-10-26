@@ -6,19 +6,19 @@
 {% step %}
 Откройте приложение Олчат.
 
-<figure><img src="../../.gitbook/assets/Скриншот 22.08.25_09.59.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Нажмите «<img src="../../.gitbook/assets/image (1406).png" alt="" data-size="line">» напротив коннектора, затем выберите «Настройки коннектора».
 
-<figure><img src="../../.gitbook/assets/Скриншот 22.08.25_10.01.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (943).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Нажмите «Отключить аккаунт» в левом нижнем углу.
 
-<figure><img src="../../.gitbook/assets/Скриншот 22.08.25_10.04.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{55E2E5F5-FE37-404A-82B1-A3DF03231C52}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -10,15 +10,15 @@
 
 Чтобы удалить приложение перейдите в «Маркет» вашего Битрикс24, нажмите на кнопку «Ещё» → «Установленные приложения»:
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{B0D6C7FC-36E4-4AAF-9B4B-44E5E6641357}.png" alt=""><figcaption></figcaption></figure>
 
 В списке установленных приложений найдите приложение «Олчат — Чаты и Группы WhatsApp» и перейдите в него:
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (969).png" alt=""><figcaption></figcaption></figure>
 
 В окне приложения нажмите на кнопку «УДАЛИТЬ». В появившемся подтверждении об удалении установите галочку «удалить настройки и данные приложения» и подтвердите удаление, нажав на кнопку «УДАЛИТЬ».
 
-<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure>
 
 Приложение «Олчат — Чаты и Группы WhatsApp» будет удалено с портала. После чего можно переходить к установке приложения.
 

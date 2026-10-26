@@ -14,7 +14,7 @@
 
 Чтобы подключить новый аккаунт WhatsApp, перейдите в приложение Олчат (в меню портала Битрикс24 слева) и выберите пункт «WhatsApp».
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{2898DEC3-8FFD-4553-96F9-84424F348978}.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если у вас несколько открытых линий, из выпадающего списка выберите Открытую линию, к которой собираетесь подключить коннектор, нажав на кнопку «Подключить». Если линий для подключения нет, вы можете создать новую, нажав на ссылку «Создать новую линию»
@@ -34,7 +34,7 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../../.gitbook/assets/image (1372).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Подробнее о подключении коннектора и предварительных настройках телефона можно узнать из статьи [podklyuchenie-konnektora.md](../podklyuchenie-konnektora.md "mention").

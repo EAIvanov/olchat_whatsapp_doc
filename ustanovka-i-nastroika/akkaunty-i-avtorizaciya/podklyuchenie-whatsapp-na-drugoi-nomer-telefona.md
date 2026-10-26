@@ -6,7 +6,7 @@
 
 В открывшемся окне в меню слева выберите пункт «Отключить аккаунт» и подтвердите отключение:
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_16.09.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{F5AC474F-AE87-4C09-860A-929058407761}.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,9 +22,9 @@
 Также для ускорения обновления данных в виджете рекомендуем выключать и включать виджет. Тогда кеш виджета обновляется быстрее и применяются новые настройки.
 {% endhint %}
 
-Для выключения и включения виджета перейдите в раздел «CRM» → «Интеграции» → «Виджет на сайт».
+Для выключения и включения виджета перейдите в раздел «CRM» → «Продажи» → «Виджет на сайт».
 
-<figure><img src="../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{2E4A222B-3C2B-4483-9689-2C2916DEBEDD}.png" alt=""><figcaption></figcaption></figure>
 
 Найдите нужный виджет и напротив него нажмите на кнопку «ВЫКЛЮЧИТЬ», а затем «ВКЛЮЧИТЬ».
 

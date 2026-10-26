@@ -47,7 +47,7 @@
 Ссылка на QR-код действительна 15 минут!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{A9568B5E-0761-4334-BBCF-602D1925C434}.png" alt=""><figcaption></figcaption></figure>
 
 Ссылка скопируется в буфер обмена. Вы можете отправить её человеку, выполняющему подключение и не имеющему доступа к порталу.
 
