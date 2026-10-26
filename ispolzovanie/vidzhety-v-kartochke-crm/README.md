@@ -15,7 +15,7 @@
 <figure><img src="../../.gitbook/assets/image (1179).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-После включения виджета «Статусы и чаты» в настройках, можно переходить к добавлению виджета в карточку. Виджет в разделе «Поставщики» пока не поддерживается. В Канбане виджет также не должен отображаться.&#x20;
+После включения виджета «Статусы и чаты» в настройках, можно переходить к добавлению виджета в карточку. Виджет в разделе «Поставщики» пока не поддерживается. В Канбане виджет также не должен отображаться.
 
 Виджет «Встройка в карточку звонка» в дополнительных настройках не нуждается.
 {% endhint %}
@@ -26,13 +26,13 @@
 
 <figure><img src="../../.gitbook/assets/image (1272).png" alt=""><figcaption></figcaption></figure>
 
-В открывшемся списке полей установите галочку напротив «Олчат — статусы и чаты» и нажмите на кнопку «ВЫБРАТЬ»:
+В открывшемся списке полей установите галочку напротив «Олчат WhatsApp— статусы и чаты» и нажмите на кнопку «ВЫБРАТЬ»:
 
-<figure><img src="../../.gitbook/assets/image (1273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1039).png" alt=""><figcaption></figcaption></figure>
 
 Нажмите на кнопку «Написать в WhatsApp»**.** Виджет отобразится и будет готов к работе.
 
-<figure><img src="../../.gitbook/assets/image (1277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{281B2323-647F-4C2F-B19C-5C292D405A47}.png" alt=""><figcaption></figcaption></figure>
 
 ### Как показать виджет «Статусы и чаты» в карточке Смарт-процесса
 
@@ -42,7 +42,7 @@
 
 Для этого нажмите на кнопку **Создать поле ‒ Дополнительные поля...**
 
-<figure><img src="../../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{581CE363-5BA6-4B34-8C23-8BC0B89A5526}.png" alt=""><figcaption></figcaption></figure>
 
 В выпадающем списке **«Тип данных»** выберете тип **Олчат WhatsApp — статусы и чаты.** В поле **«Название»** укажите название поля и нажмите на кнопку **«СОХРАНИТЬ».**
 
@@ -50,13 +50,13 @@
 
 #### 2. Войдите в режим редактирования карточки и установите виджет
 
-Для входа в режим редактирования карточки нажмите на кнопку **изменить**
+Для входа в режим редактирования карточки нажмите на кнопку И**зменить.**
 
-<figure><img src="../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{A6A6E124-7E5E-42A5-941C-4B6B6A88BB65}.png" alt=""><figcaption></figcaption></figure>
 
 При первой загрузке (до установки виджета в карточку Смарт-процесса), вы увидите надпись **«Вы в режиме редактирования»,** кнопку: **«ВКЛ. ВСТРОЙКУ Олчат ДЛЯ СМАРТ-ПРОЦЕССА»** и иконку **«Обновить данные виджета».**
 
-<figure><img src="../../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1019).png" alt=""><figcaption></figcaption></figure>
 
 Нажмите на кнопку **«ВКЛ. ВСТРОЙКУ Олчат ДЛЯ СМАРТ-ПРОЦЕССА»** для завершения процесса установки виджета в карточку Смарт-процесса.
 
@@ -64,7 +64,7 @@
 
 Виджет **«Олчат WhatsApp — статусы и чаты»** установлен.
 
-<figure><img src="../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{E891BD7E-A5D5-45FC-B00F-9057ECC44D5C}.png" alt=""><figcaption></figcaption></figure>
 
 При повторных загрузках карточки в режиме редактирования, в виджете останется только надпись **«Вы в режиме редактирования»** и иконка **«Обновить данные виджета».**
 
@@ -85,5 +85,3 @@
 
 Подробнее о работе с приложением в карточке в статье [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](../poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention")
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (1076).png" alt=""><figcaption></figcaption></figure>

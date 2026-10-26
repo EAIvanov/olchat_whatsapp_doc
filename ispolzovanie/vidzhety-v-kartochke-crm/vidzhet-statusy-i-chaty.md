@@ -10,7 +10,7 @@
 Это необходимо, чтобы снизить риск блокировки номера, так как при каждом заходе в карточку, виджетом производится проверка номеров указанных в карточке на наличие аккаунта WhatsApp. При этом, если вы не производите отправку сообщений посредством приложения, возрастает соотношение количества проверок номеров к количеству отправок, что может повлечь за собой блокировку вашего аккаунта WhatsApp.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1062).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Подробнее о том, как включить и показать виджет в карточке ознакомьтесь в статье [#kak-vklyuchit-i-vyklyuchit-vidzhety](./#kak-vklyuchit-i-vyklyuchit-vidzhety "mention")
@@ -22,7 +22,7 @@
 
 Если вы подключили несколько коннекторов линий, то вы можете выбрать, с какой именно линии начать диалог с клиентом:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1063).png" alt=""><figcaption></figcaption></figure>
 
 Если к сущности прикреплено несколько контактов или компаний, в виджет подтянутся телефоны на которых установлен WhatsApp из всех прикреплённых контактов и компаний. Однако в виджете отобразится только 5 номеров телефонов. Чтобы увидеть все номера, нажмите на кнопку «Показать больше».
 
@@ -115,8 +115,6 @@
 Необходимо проверить [#prava-na-prilozhenie](../../ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-prilozhenie "mention")
 
 ### Что делать при ошибке «Нет данных авторизации от Битрикс24»?
-
-<figure><img src="../../.gitbook/assets/image (1259).png" alt=""><figcaption></figcaption></figure>
 
 В данном случае возможны следующие причины:\
 1\. У сотрудника нет прав на приложение и поэтому виджет не видит авторизацию. Необходимо проверить [#prava-na-prilozhenie](../../ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-prilozhenie "mention")\

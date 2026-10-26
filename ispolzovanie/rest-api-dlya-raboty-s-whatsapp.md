@@ -6,11 +6,11 @@
 
 Создать вебхук можно в приложении Олчат — «•••» (меню вызова настроек коннектора) — Настройки коннектора — Вебхук — Сгенерировать новый:
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1065).png" alt=""><figcaption></figcaption></figure>
 
 После создания его можно скопировать в буфер, нажав на кнопку «Скопировать вебхук». При необходимости вебхук можно изменить, нажав на кнопку «Сгенерировать новый»:
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1079).png" alt=""><figcaption></figcaption></figure>
 
 ## Описание методов
 

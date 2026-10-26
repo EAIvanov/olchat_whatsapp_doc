@@ -2,7 +2,7 @@
 
 Чтобы писать первыми, мы разработали специальное приложение в карточке.
 
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1224).png" alt=""><figcaption></figcaption></figure>
 
