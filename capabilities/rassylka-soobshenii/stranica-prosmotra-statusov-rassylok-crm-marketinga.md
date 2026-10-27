@@ -2,7 +2,7 @@
 
 Чтобы зайти на страницу просмотра статусов рассылок CRM-маркетинга, в левом меню портала перейдите в приложение Олча&#x442;**.** В открывшемся окне выберите пункт меню «Рассылки».
 
-<figure><img src="../../.gitbook/assets/image (1186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{727D1409-FD5C-4CEC-B806-F5CCC2A72310}.png" alt=""><figcaption></figcaption></figure>
 
 ## Возможности страницы просмотра статусов
 

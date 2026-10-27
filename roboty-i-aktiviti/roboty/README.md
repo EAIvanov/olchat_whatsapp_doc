@@ -22,27 +22,25 @@
 
 ### Установка роботов и активити
 
-Включить роботов и активити можно в настройках приложения:&#x20;
+Включить роботов и активити можно в настройках приложения:
 
 {% stepper %}
 {% step %}
 В приложении Олчат нажмите «Настройки приложения».
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.44.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{034AE48D-8891-4681-A01A-90995B5AEE38}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Из меню слева выберите «Роботы».
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.46.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{F469EF41-17C5-48E4-BC08-F6D66053F0B1}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_14.11.34.png" alt=""><figcaption></figcaption></figure>
-
 Для установки роботов и активити нажмите на кнопку **«**<img src="../../.gitbook/assets/image (1403).png" alt="" data-size="line"> **ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку, появится уведомление об успешной установке роботов, а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.55.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{320FECBC-B731-436E-A3FB-FC6645B3F101}.png" alt=""><figcaption></figcaption></figure>
 
 ### Описание роботов и активити
 

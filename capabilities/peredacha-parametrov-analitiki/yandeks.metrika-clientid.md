@@ -16,7 +16,7 @@ description: Передача параметра ClientID Яндекс.Метр�
 
 Для начала необходимо установить бот-помощник на линию.
 
-<figure><img src="../../.gitbook/assets/image (1346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1144).png" alt=""><figcaption></figcaption></figure>
 
 Затем необходимо выбрать поле для настройки «Привязать параметр аналитики к полю CRM».
 
@@ -33,7 +33,7 @@ description: Передача параметра ClientID Яндекс.Метр�
 1. Зайдите в настройки коннектора.
 2. В разделе «Настройка виджета на сайт» добавьте параметр **{visit\_id}** в текст приветственного сообщения.
 
-<figure><img src="../../.gitbook/assets/image (1187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{C39D0F3E-073F-4271-B3F1-C16997473F92}.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обратите внимание, что если клиент удалит параметр **{visit\_id}** из первого отправляемого сообщения, данные аналитики вы получить не сможете.

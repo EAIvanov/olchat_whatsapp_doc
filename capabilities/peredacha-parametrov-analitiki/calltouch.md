@@ -12,7 +12,7 @@
 
 Для начала необходимо установить бот-помощник на линию.
 
-<figure><img src="../../.gitbook/assets/image (1346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1191).png" alt=""><figcaption></figcaption></figure>
 
 Затем необходимо выбрать поле для настройки «Привязать параметр аналитики к полю CRM».
 
@@ -29,7 +29,7 @@
 1. Зайдите в настройки коннектора.
 2. В разделе «Настройка виджета на сайт» добавьте параметр **{visit\_id}** в текст приветственного сообщения.
 
-<figure><img src="../../.gitbook/assets/image (1353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1190).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обратите внимание, что, если клиент удалит параметр **{visit\_id}** из первого отправляемого сообщения, данные аналитики вы получить не сможете.
