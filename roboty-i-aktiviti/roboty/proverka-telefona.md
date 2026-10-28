@@ -30,17 +30,17 @@
 
 Рассмотрим пример настройки робота с выведением результата проверки в уведомление и записью в пользовательское поле. Добавьте робота «\[Олчат — Чаты и Группы WhatsApp] WhatsApp Проверка WhatsApp на номере». Для этого перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] Проверить WhatsApp ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1200).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота. Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота. Укажите номер телефона, который хотите проверить на существование WhatsApp. Нажмите на кнопку «СОХРАНИТЬ».
 
-![](<../../.gitbook/assets/image (1024).png>)
+<figure><img src="../../.gitbook/assets/{A3909095-C9D0-4324-95EF-0D19FC83B748}.png" alt=""><figcaption></figcaption></figure>
 
 ### Вывод результата проверки в уведомление
 
 Выведем результат проверки в уведомление. Для этого необходимо нажать **Создать ‒ Выбор стадии ‒ Информирование сотрудников ‒ Добавить уведомление ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{875E846A-AE9C-494E-95A5-DC9AF1F2DABF}.png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота.
 
@@ -49,13 +49,13 @@
    В поле «Текст сообщения» добавится результат выполненной проверки.
 3. Нажмите на кнопку «СОХРАНИТЬ».
 
-<figure><img src="../../.gitbook/assets/Роботы проверка номера.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{B49202D8-4565-41D8-AE71-18AD35954C4B}.png" alt=""><figcaption></figcaption></figure>
 
 ### Сохранение результата проверки в пользовательское поле
 
 Сохраним результат проверки в пользовательское поле. Для этого необходимо нажать **Создать ‒ Выбор стадии ‒ Управление элементом ‒ Изменить элемент ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{4C03056C-9378-4036-B819-41790E9B10D4}.png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота.
 
@@ -74,21 +74,21 @@
 
 Рассмотрим пример простого бизнес-процесса с участием активити **«Проверка WhatsApp на номере».**
 
-![](<../../.gitbook/assets/image (407).png>)
+<figure><img src="../../.gitbook/assets/image (1202).png" alt=""><figcaption></figcaption></figure>
 
 Добавьте в [действие Итератор](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57\&LESSON_ID=10481) активити проверки номера.
 
 Выберите и установите из дополнительных результатов Итератора номер телефона:
 
-![](<../../.gitbook/assets/image (538).png>)
+<figure><img src="../../.gitbook/assets/{53B800CE-CE92-4E69-82AE-3C6A15E3C4BF}.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (957).png>)
+<figure><img src="../../.gitbook/assets/{5EF29749-59D7-4CF5-8063-BC67BE16996D}.png" alt=""><figcaption></figcaption></figure>
 
 Для примера выведем результат проверки в виде сообщения. Для этого получим дополнительный результат из активити проверки:
 
-![](<../../.gitbook/assets/image (710).png>)
+<figure><img src="../../.gitbook/assets/image (1203).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (909).png>)
+<figure><img src="../../.gitbook/assets/{38058D28-3187-44DB-8336-FEE370BA3CBD}.png" alt=""><figcaption></figcaption></figure>
 
 В результате выполнения бизнес-процесса мы получим значение, которое можем далее проверять в условиях:
 

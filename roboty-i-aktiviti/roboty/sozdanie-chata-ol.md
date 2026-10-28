@@ -4,14 +4,14 @@
 
 Для добавления робота перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] Создать чат ОЛ ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1331).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота. Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
 1. Укажите **Линию WhatsApp,** для которой производится создание чата Открытой линии.
 2. Введите **Номер телефона**, для которого будет создан чат.
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{5AFB9844-9864-401E-8E51-61E5CC14602D}.png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 
@@ -21,4 +21,4 @@
 В дополнительных результатах робота содержится различная информация, которую можно использовать в дальнейших сценариях автоматизации:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{28F73D88-BDD3-4DB9-B214-5BDD1A8E0AE4}.png" alt=""><figcaption></figcaption></figure>

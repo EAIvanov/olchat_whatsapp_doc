@@ -10,7 +10,7 @@
 
 Для отправки сообщения добавьте робота «\[Олчат — Чаты и Группы WhatsApp] WhatsApp Отправка сообщения». Для этого перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] Отправить сообщение ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1246).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робот&#x430;**.** Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
@@ -30,15 +30,15 @@ _**Важно:**_ убедитесь, что в роботе выбрано ко
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 
-<figure><img src="../../.gitbook/assets/image (1254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1261).png" alt=""><figcaption></figcaption></figure>
 
 Результат работы робота «\[Олчат — Чаты и Группы WhatsApp] WhatsApp - Отправка сообщени&#x44F;**»** можно вывести в уведомления или использовать в условиях для выстраивания различных сценариев автоматизации.
 
-![](<../../.gitbook/assets/image (680).png>)
+<figure><img src="../../.gitbook/assets/{9F568E31-96D9-4300-82D3-25CBA6133D8A}.png" alt=""><figcaption></figcaption></figure>
 
 ### Настройка активити (действия) бизнес-процесса
 
-<figure><img src="../../.gitbook/assets/image (1139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{AA82204A-1912-42A0-8429-21704A2E06C7}.png" alt=""><figcaption></figcaption></figure>
 
 Для отправки сообщения из бизнес-процесса добавьте действие «Отправка сообщения». Выполните настройку параметров действия:
 
@@ -58,11 +58,11 @@ _**Важно:**_ убедитесь, что в роботе выбрано ко
 
 Остальные настройки можно оставить по умолчанию.
 
-<figure><img src="../../.gitbook/assets/image (1256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{9929C4B2-9F35-40D1-825F-341CD103F01A}.png" alt=""><figcaption></figcaption></figure>
 
 Результат работы активити **«\[Олчат] WhatsApp - Отправка сообщения»** можно вывести в уведомления или использовать в условиях для выстраивания различных сценариев автоматизации.
 
-<figure><img src="../../.gitbook/assets/image (1141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1268).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Значение **«Y»**, возвращаемое роботом или активити, значит, что сообщение успешно отправлено.
