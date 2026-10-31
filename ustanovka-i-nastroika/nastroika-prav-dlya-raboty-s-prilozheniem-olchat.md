@@ -8,7 +8,7 @@
 
 Чтобы выдать права на использование коннектора сотруднику или отделу, перейдите в приложение Олчат — «•••» → «Настройки коннектора» → «Доступ к коннектору» → «+добавить».
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выберите из структуры компании нужный отдел или пользователя. Нажмите кнопку «ВЫБРАТЬ».
 
@@ -30,7 +30,7 @@
 Для корректной работы приложения рекомендуем оставлять поле пустым.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Права на открытые линии
 

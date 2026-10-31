@@ -38,7 +38,7 @@
 {% endstep %}
 {% endstepper %}
 
-Для установки роботов и активити нажмите на кнопку **«**<img src="../../.gitbook/assets/image (1403).png" alt="" data-size="line"> **ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку, появится уведомление об успешной установке роботов, а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">.
+Для установки роботов и активити нажмите на кнопку **«**<img src="../../.gitbook/assets/image (1403).png" alt="" data-size="line"> **ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку, появится уведомление об успешной установке роботов, а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/{320FECBC-B731-436E-A3FB-FC6645B3F101}.png" alt=""><figcaption></figcaption></figure>
 

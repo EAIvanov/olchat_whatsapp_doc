@@ -4,9 +4,7 @@
 
 Чтобы отправить карту с местоположением, заданным координатами широты и долготы, добавьте робота «\[Олчат — Чаты и Группы WhatsApp] WhatsApp Отправка геометки». Для этого перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] Отправить геометку ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1337).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота. Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
@@ -18,17 +16,17 @@
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 
-![](<../../.gitbook/assets/image (574).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Настройка активити (действия) бизнес-процесса
 
 Активити «Отправка геометки» позволяет отправить карту с местоположением, заданным координатами широты и долготы.
 
-![](<../../.gitbook/assets/image (1034).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Для отправки местоположения из бизнес-процесса добавьте действие «Отправка геометки». Выполните настройку параметров действия.
 
-<figure><img src="../../.gitbook/assets/image (1156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{1812B21A-1B1F-4355-8EC8-DFEA9240E128}.png" alt=""><figcaption></figcaption></figure>
 
 1. Укажите **Линию WhatsApp,** через которую планируете сделать отправку.
 2. Введите **Номер телефона**, на который необходимо отправить геометку.

@@ -4,13 +4,13 @@
 
 Для этого перейдите в приложение Олчат в левом меню портала и напротив нужного коннектора нажмите на значок меню •••. Затем выберите пункт «Настройки линии»:
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Очередь
 
 Сначала нужно добавить сотрудников в очередь и выбрать тип распределения диалогов. Рекомендуем ставить «Одновременно всем», если у вас нет специфического сценария работы.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Дальше настраивается информация об операторах и правила автоматического создания сущностей при создании диалогов. Снимите галочку с настройки «Включить чат трекер».
 
@@ -65,7 +65,7 @@ WhatsApp может обнаружить, что данные сообщения
 
 {% stepper %}
 {% step %}
-Нажмите «<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">» на строке выбранной Открытой линии.
+Нажмите «<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">» на строке выбранной Открытой линии.
 
 <figure><img src="../.gitbook/assets/Скриншот 14.07.25_11.54.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

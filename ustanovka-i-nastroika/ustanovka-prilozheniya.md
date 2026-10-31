@@ -18,13 +18,13 @@
 {% step %}
 Выберите «Олчат — Чаты и Группы WhatsApp».
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Выполните установку приложения на портал, нажав кнопку «Установить».
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -32,7 +32,7 @@
 
 При первом запуске приложения и до момента заполнения данных в приложении будет открываться окно «Контактные данные».
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Заполните все поля, указав фамилию, имя и отчество, телефон и адрес электронной почты для связи с сотрудником, который отвечает за настройку приложения Олчат, а также подтвердите согласие на обработку персональных данных, проставив галочку в соответствующей строке.
 
@@ -42,7 +42,7 @@
 2. В меню настроек выберите пункт «Контакты и уведомления».
 3. Обновите данные и нажмите кнопку «Сохранить».
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

@@ -2,7 +2,7 @@
 
 После установки перейдите в приложение Олчат в левом меню портала:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Подключение открытой линии <a href="#podklyuchenie-otkrytoi-linii" id="podklyuchenie-otkrytoi-linii"></a>
 
@@ -12,7 +12,7 @@
 Если у вас несколько открытых линий, из выпадающего списка выберите Открытую линию к которой собираетесь подключить коннектор, нажав на кнопку «ПОДКЛЮЧИТЬ». Если линий для подключения нет, вы можете создать новую, нажав на ссылку «СОЗДАТЬ НОВУЮ ЛИНИЮ»
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Помните: одна линия = один коннектор = один номер.\
@@ -41,10 +41,10 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Перейти в настройки коннектора до сканирования QR-кода можно, нажав на <img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> «Настройка коннектора».
+Перейти в настройки коннектора до сканирования QR-кода можно, нажав на <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> «Настройка коннектора».
 {% endhint %}
 
 Затем необходимо привязать устройство с помощью приложения WhatsApp в телефоне.
@@ -67,7 +67,7 @@
 
 После подключения коннектора в левом меню настроек коннектора, а также на главной странице со списком всех аккаунтов в столбце «Статус» вы увидите статус подключения и подключенный номер:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Скриншот 08.06.25_15.30.16.png" alt=""><figcaption></figcaption></figure>
 

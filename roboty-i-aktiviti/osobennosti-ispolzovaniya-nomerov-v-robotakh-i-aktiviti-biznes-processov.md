@@ -29,7 +29,7 @@
 
 При настройке робота или активити используйте один из вариантов переменной, подставляя её в поле **Номер телефона (кому отправляем).**
 
-<figure><img src="../.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{23E54BEA-7D67-4355-9521-5AF3CB003C8F}.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 

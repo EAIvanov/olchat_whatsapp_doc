@@ -4,14 +4,14 @@
 
 Для добавления робота перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] \[ОЛ] Получить информацию о чате из WhatsApp ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1300).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота. Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
 1. Укажите **Линию,** для которой осуществляется получение информации.
 2. Введите **Номер телефона**, для которого осуществляется получение информации.
 
-<figure><img src="../../.gitbook/assets/image (682).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{2675FCC1-E81F-44CE-8913-16986E45987B}.png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 
@@ -19,4 +19,4 @@
 Вся информация о чате, которую можно использовать в дальнейших сценариях автоматизации, будет содержаться в дополнительных результатах робота:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{3D5A17C1-9FAC-4053-9971-46D5795547F8}.png" alt=""><figcaption></figcaption></figure>

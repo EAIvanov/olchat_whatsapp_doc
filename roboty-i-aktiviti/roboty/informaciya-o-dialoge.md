@@ -18,14 +18,14 @@
 
 Для добавления робота перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] \[ОЛ] Информация о диалоге ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота. Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
 1. Укажите **Тип идентификатора.**
-2. Введите **Значение идентификатора.**
+2. Введите **Значение идентификатора.\\**
 
-<figure><img src="../../.gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{59B4575E-6C84-4C84-B412-04BC7B0ACDE4}.png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 
@@ -33,11 +33,11 @@
 
 Для настройки активити в бизнес-процессе добавьте действие «\[Олчат] \[ОЛ] Информация о диалоге».
 
-<figure><img src="../../.gitbook/assets/image (1157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{46B7637D-0615-493C-B3D2-FD14330C880B}.png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку параметров действия:
 
-<figure><img src="../../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{2F92A2DF-D0CA-4DD4-8351-43C97501BFD8}.png" alt=""><figcaption></figcaption></figure>
 
 1. Укажите **Тип идентификатора.**
 2. Введите **Значение идентификатора.**
@@ -48,6 +48,4 @@
 Вся информация о диалоге, которую можно использовать в дальнейших сценариях автоматизации, будет содержаться в дополнительных результатах робота или активити:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1136).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{A9906572-A5D2-4F3B-A9FA-819583C3CAC7}.png" alt=""><figcaption></figcaption></figure>

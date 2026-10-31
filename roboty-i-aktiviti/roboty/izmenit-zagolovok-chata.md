@@ -8,7 +8,7 @@
 
 Для добавления робота перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] \[ОЛ] Изменить заголовок чата ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1316).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота. Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
@@ -18,7 +18,7 @@
    * [poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention").
 2. Укажите новый **Заголовок чата.**
 
-<figure><img src="../../.gitbook/assets/image (1105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{2DECA191-4B67-42E5-8E44-34CA4BA9EED5}.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Установите условие срабатывания «после предыдущего робота», чтобы в текущий робот были корректно подставлены значения из дополнительных результатов роботов, содержащих ID чата.

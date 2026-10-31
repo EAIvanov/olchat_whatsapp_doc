@@ -4,7 +4,7 @@
 
 Чтобы отправить ссылку добавьте робота «\[Олчат — Чаты и Группы WhatsApp] - Отправка ссылки». Для этого перейдите в **Роботы ‒ добавить ‒ Свои роботы ‒ \[Олчат] - Отправить ссылку.** Робот позволяет сформировать и отправить ссылку с превью.
 
-<figure><img src="../../.gitbook/assets/image (1335).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота:
 
@@ -12,7 +12,7 @@
 2. Введите **Номер телефона**, на который необходимо отправить сообщение.
 3. Укажите **Ссылку** на ресурс.
 
-<figure><img src="../../.gitbook/assets/image (711).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{33EA2691-89CA-4D6E-B2C6-6977A8994649}.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 В данный момент настройка типа Короткая ссылка не работает.
@@ -24,11 +24,11 @@
 
 Активити «Отправка ссылки» позволяет отправить ссылку с превью.
 
-<figure><img src="../../.gitbook/assets/image (1154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{9412FF23-A4E9-4564-806D-D25D33004E44}.png" alt=""><figcaption></figcaption></figure>
 
 Для отправки ссылки из бизнес-процесса добавьте действие «Отправка ссылки». Выполните настройку параметров действия.
 
-<figure><img src="../../.gitbook/assets/image (1155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{92CFD465-8EA3-46A4-AB93-47E287AD1F24}.png" alt=""><figcaption></figcaption></figure>
 
 1. Укажите **Линию WhatsApp,** через которую планируете сделать отправку.
 2. Введите **Номер телефона**, на который необходимо отправить ссылку.

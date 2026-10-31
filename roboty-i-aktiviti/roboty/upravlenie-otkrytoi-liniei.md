@@ -26,19 +26,22 @@
 
 Для добавления робота перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] \[ОЛ] Управление открытой линией ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота. Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
 1. Из выпадающего списка **Выберите действие для текущего оператора.**
-2. Укажите **ID диалога.** Получить ID диалога можно из дополнительных результатов следующих роботов:
-   * [sozdanie-chata-ol.md](sozdanie-chata-ol.md "mention").
-   * [informaciya-o-dialoge.md](informaciya-o-dialoge.md "mention").
-   * [poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention").
+2.  Укажите **ID диалога.** Получить ID диалога можно из дополнительных результатов следующих роботов:
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+    * [sozdanie-chata-ol.md](sozdanie-chata-ol.md "mention").
+    * [informaciya-o-dialoge.md](informaciya-o-dialoge.md "mention").
+    * [poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention").
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+
+
+    <figure><img src="../../.gitbook/assets/image (1284).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Установите условие срабатывания «после предыдущего робота», чтобы в текущий робот были корректно подставлены значения из дополнительных результатов роботов, содержащих ID диалога.
