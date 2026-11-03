@@ -24,7 +24,7 @@
 
 * Пункт меню «Рассылки».
 
-Открывает страницу просмотра статусов рассылок CRM-маркетинга. Подробнее в статье [stranica-prosmotra-statusov-rassylok-crm-marketinga.md](../../capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md "mention").
+Открывает страницу просмотра статусов рассылок CRM-маркетинга. Подробнее в статье [Broken link](/broken/pages/CM89ehzaKC5zYjZOkEey "mention").
 
 * Пункт меню «Список диалогов».
 

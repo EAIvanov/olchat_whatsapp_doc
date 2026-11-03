@@ -92,7 +92,7 @@
 3. Мы заботимся о наших клиентах и понимаем, что в череде бесконечных дел, не всегда получается оплатить наш сервис заранее. Теперь, если не оплатили вовремя, коннектор не будет отключен и продолжит работать до конца дня по Москве. Вы сможете оставаться на связи с клиентами, пока производите оплату.
 4. В настройках коннектора добавили возможность устанавливать интервалы между отправкой сообщений в WhatsApp [Broken link](/broken/pages/-MXVZVnBGVIblHBKthyO#5-nastroiki-chata "mention").
 5. Мы ценим ваше время, больше не нужно вручную отключать нежелательные сообщения клиентам в настройках Открытой линии. Теперь при первом подключении коннектора Автоматическое приветствие и Оценка качества по умолчанию выключены. Снизили риск блокировок.
-6. При создании WhatsApp-рассылки через CRM-Маркетинг, теперь можно не только просмотреть отчёт в нашем приложении, но и выгрузить его в Excel, чтобы рассчитать конверсию [stranica-prosmotra-statusov-rassylok-crm-marketinga.md](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md "mention").
+6. При создании WhatsApp-рассылки через CRM-Маркетинг, теперь можно не только просмотреть отчёт в нашем приложении, но и выгрузить его в Excel, чтобы рассчитать конверсию [Broken link](/broken/pages/CM89ehzaKC5zYjZOkEey "mention").
 7. Обновили робота «Отправка оформленной ссылки». Теперь отправляет с предпросмотром ссылки [otpravka-ssylki.md](roboty-i-aktiviti/roboty/otpravka-ssylki.md "mention").
 
 ### Исправления
@@ -168,7 +168,7 @@
 * Статусы сообщений (галочки) в чатах открытых линий. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/).
 * Удаление сообщений в чатах WhatsApp при удалении чатов из открытой линии. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/).
 * Страница отправки сообщений из мобильного приложения Битрикс24. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md).
-* Страница просмотра статусов рассылок. [Подробнее](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md).
+* Страница просмотра статусов рассылок. [Подробнее](/broken/pages/CM89ehzaKC5zYjZOkEey).
 * Короткие кожы. [Подробнее](/broken/pages/4hxgKff8JOoRKRB0Ypok).
 * Бот-помощник. [Подробнее](capabilities/bot-pomoshnik.md).
 * Добавление приложения в карточку система управления взаимоотношениями с клиентами «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md).
