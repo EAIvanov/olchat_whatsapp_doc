@@ -66,7 +66,7 @@
 
 1. Работать с шаблонами сообщений стало еще удобнее! Теперь вы можете отправлять шаблоны напрямую из Открытых линий, что делает быстрые ответы в чатах доступными на всех тарифах Битрикс24 [Broken link](/broken/pages/-MGBG8SXp08ITHgRv8xB#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii "mention").
 2. Появились новые настройки шаблонов. Вы можете задавать параметры в шаблонах, переменные из сущностей CRM (системы управления взаимоотношениями с клиентами) будут подставляться автоматически. Можно сортировать шаблоны по категориям и гибко настраивать права доступа для сотрудников [Broken link](/broken/pages/-MGBG8SXp08ITHgRv8xB "mention").
-3. В карточках дела «Чат» и «Пропущенный звонок WhatsApp» отображаются в новом виде, содержат больше данных и добавлены в мобильное приложение Битрикс24. Появилась возможность из дела открыть чат [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention") .
+3. В карточках дела «Чат» и «Пропущенный звонок WhatsApp» отображаются в новом виде, содержат больше данных и добавлены в мобильное приложение Битрикс24. Появилась возможность из дела открыть чат [Broken link](/broken/pages/-Lv9kEJHvHXi95tOwY2Q "mention") .
 4. Добавлена новая настройка в роботе [otpravka-soobsheniya.md](roboty-i-aktiviti/roboty/otpravka-soobsheniya.md "mention") – «Выбор очереди отправки». Эта опция позволяет направлять сообщения от роботов в специальную очередь, для которой устанавливается отдельный интервал между отправками сообщений. Это снижает риск блокировки и не задерживает остальные сообщения [Broken link](/broken/pages/-MXVZVnBGVIblHBKthyO#intervaly-otpravki-soobshenii "mention").
 5. Добавлены новые роботы [Broken link](/broken/pages/ieq04Uoj0EnsU6mGP2xn "mention") WhatsApp и [poluchenie-ssylki-na-gruppu.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/poluchenie-ssylki-na-gruppu.md "mention"). Теперь вы можете на нужной стадии настроить автоматическое создание групповых чатов, получение и отправку ссылки на группы клиентам.
 
@@ -77,7 +77,7 @@
 3. Автоматическое преобразование голосовых сообщений в текст теперь длительностью до 5 минут. Кроме того, мы добавили отображение эмоциональной окраски и краткое содержание голосового сообщения, чтобы ваши менеджеры экономили время и лучше понимали клиента [#rasshifrovka-golosovykh-soobshenii](ispolzovanie/poluchenie-i-otpravka-soobshenii/#rasshifrovka-golosovykh-soobshenii "mention").
 4. Звонки в WhatsApp под контролем. Фиксирование входящих звонков в WhatsApp с определением типа — пропущенный, отвеченный и сброшенный [avtootvetchik.md](capabilities/avtootvetchik.md "mention").
 5. Теперь вы можете управлять отдельными интервалами для отправки всех сообщений и для отправки сообщений через функционал Маркетинга. Это позволяет снизить риск блокировки и не требует изменения настроек во время рассылки через Маркетинг [Broken link](/broken/pages/-MXVZVnBGVIblHBKthyO#intervaly-otpravki-soobshenii "mention").
-6. При создании чата из нашего приложения в карточке чат сразу распределяется на его создателя, а не в общую очередь Открытой линии или на ответственного сотрудника [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention").
+6. При создании чата из нашего приложения в карточке чат сразу распределяется на его создателя, а не в общую очередь Открытой линии или на ответственного сотрудника [Broken link](/broken/pages/-Lv9kEJHvHXi95tOwY2Q "mention").
 7. В настройках приложения добавили возможность выбора постоянно отображать наш виджет в карточках CRM (системы управления взаимоотношениями с клиентами). Но мы не рекомендуем включать эту настройку. Помните, что вы это делаете на свой страх и риск, это сильно увеличивает риск блокировки номера [#vozmozhnosti](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya.md#vozmozhnosti "mention").
 8. Оптимизировали работу приложения для снижения риска блокировки. Увеличили время кеширования запросов для аватарок и контактных данных.
 9. Добавили новое уведомление «Подозрение на спам», сообщающее о том, что WhatsApp обнаружил спам-активность, и работа аккаунта на время приостановлена. Статус аккаунта будет отображаться в основном интерфейсе приложения, настройках коннектора и в чате уведомлений [#uvedomlenie-podozrenie-na-spam](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-paneli-prilozheniya.md#uvedomlenie-podozrenie-na-spam "mention")
@@ -106,7 +106,7 @@
 
 1. В виджете Олчат теперь отображается информация о том, в каком регионе зарегистрирован номер клиента, информация об операторе и времени клиента [vidzhet-statusy-i-chaty.md](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention").
 2. Теперь можно увидеть всю доступную для веб-версии WhatsApp переписку, даже если раньше у вас не была подключена интеграция WhatsApp с Битрикс24 или подключена другая интеграция (приложение) [#istoriya-chata-s-klientom](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md#istoriya-chata-s-klientom "mention").
-3. Можно записывать и отправлять голосовые сообщения клиентам в WhatsApp прямо из вашего Битрикс24 с помощью приложения Олчат [#otpravka-soobshenii](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md#otpravka-soobshenii "mention").
+3. Можно записывать и отправлять голосовые сообщения клиентам в WhatsApp прямо из вашего Битрикс24 с помощью приложения Олчат [Broken link](/broken/pages/-Lv9kEJHvHXi95tOwY2Q#otpravka-soobshenii "mention").
 4. Если у вас подключена телефония, в карточку звонка подгружается чат с клиентом. При звонке удобно отслеживать, о чём была речь в переписке [vstroika-v-kartochku-zvonka.md](ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md "mention")
 5. Добавили нового робота «Ожидание сообщения». С его помощью можно создавать различные сценарии автоматизации и настраивать, что должно происходить при получении того или иного ответа от клиента [ozhidanie-soobsheniya.md](roboty-i-aktiviti/roboty/ozhidanie-soobsheniya.md "mention").
 6. Добавили новых роботов для групповых чатов. Теперь вы можете автоматизировать отправку сообщений, файлов, ссылок, контактов в группу и многое другое [robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/ "mention").
@@ -171,7 +171,7 @@
 * Страница просмотра статусов рассылок. [Подробнее](/broken/pages/CM89ehzaKC5zYjZOkEey).
 * Короткие кожы. [Подробнее](/broken/pages/4hxgKff8JOoRKRB0Ypok).
 * Бот-помощник. [Подробнее](capabilities/bot-pomoshnik.md).
-* Добавление приложения в карточку система управления взаимоотношениями с клиентами «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md).
+* Добавление приложения в карточку система управления взаимоотношениями с клиентами «Заказы». [Подробнее](/broken/pages/-Lv9kEJHvHXi95tOwY2Q).
 * Автоответчик. Сообщение клиенту при пропущенном звонке. [Подробнее](capabilities/avtootvetchik.md).
 * Автоответчик. Сообщение клиенту при голосовом сообщении. [Подробнее](capabilities/avtootvetchik.md).
 
@@ -215,4 +215,4 @@
 
 * В деле приложения доработан заголовок: \[{Статус отправки}]\[{Название коннектора}]{тип сообщения}. [Подробнее](https://docs.olchat.io/ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke#otpravka-soobshenii).
 * В деле добавлено поле коннектора, с которого пришло событие. [Подробнее](https://docs.olchat.io/ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke#otpravka-soobshenii).
-* Появилась возможность создавать чаты [из приложения в карточке](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md) и [из виджетов](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md).
+* Появилась возможность создавать чаты [из приложения в карточке](/broken/pages/-Lv9kEJHvHXi95tOwY2Q) и [из виджетов](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md).

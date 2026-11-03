@@ -32,7 +32,7 @@
 
 ![](<../../.gitbook/assets/image (1069).png>)
 
-Отправили сообщение через приложение в карточке. Подробнее с статье[kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](../../ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention").
+Отправили сообщение через приложение в карточке. Подробнее с статье[Broken link](/broken/pages/-Lv9kEJHvHXi95tOwY2Q "mention").
 
 Создался чат
 

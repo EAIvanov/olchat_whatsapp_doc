@@ -83,5 +83,5 @@
 {% hint style="success" %}
 Кроме добавления виджета в карточку смарт-процесса, с помощью описанных выше действий в меню карточки в таймлайне добавляется ссылка на приложение Олчат, при клике на которую открывается окно приложения для отправки сообщений из карточки.
 
-Подробнее о работе с приложением в карточке в статье [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](../poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention")
+Подробнее о работе с приложением в карточке в статье [Broken link](/broken/pages/-Lv9kEJHvHXi95tOwY2Q "mention")
 {% endhint %}
