@@ -36,9 +36,9 @@
 {% endstep %}
 
 {% step %}
-Нажмите кнопку «+ Создать», укажите стадию, на которой должен срабатывать робот, далее из списка меню выберите «Другие роботы», затем «\[Олчат] Отправить файл».
+Нажмите кнопку «+ Создать», укажите стадию, на которой должен срабатывать робот, далее из списка меню выберите «Другие роботы», затем «\[Олчат WhatsApp] Отправить файл».
 
-<figure><img src="../.gitbook/assets/Скриншот 21.08.25_12.02.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1317).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -51,7 +51,7 @@
 5. Введите текст сообщения (при необходимости) в поле «Подпись»;
 6. Нажмите «Сохранить».
 
-<figure><img src="../.gitbook/assets/Скриншот 21.08.25_12.09.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{8E522A17-81F6-4FC8-AFAC-7B335A51F4B2}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

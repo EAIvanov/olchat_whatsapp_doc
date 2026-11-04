@@ -11,21 +11,21 @@
 
 Для начала добавим робота **«\[Олчат] Отправка сообщения»** и выполним его настройку.
 
-<figure><img src="../../.gitbook/assets/image (896).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1322).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{006AE592-A21A-4663-8AAE-448336299191}.png" alt=""><figcaption></figcaption></figure>
 
 Выведем результат работы робота в комментарий в таймлайне элемента. Для этого добавим стандартного робота Битрикс24 **«Добавить комментарий в элемент».**
 
-<figure><img src="../../.gitbook/assets/image (672).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{5BA2EF0D-D43E-418B-BBC1-43235699F6D3}.png" alt=""><figcaption></figcaption></figure>
 
 Выполним настройку робота. Результат выполнения предыдущего робота **«\[Олчат] Отправка сообщения»** содержится в дополнительных результатах отработанного робота в разделе Роботы — \[Олчат] Отправка сообщения. Добавим значения **«Сообщение отправлено?»** и **«Описание ошибки».**
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{999137B2-1310-4777-AA7D-4B05E4BB014E}.png" alt=""><figcaption></figcaption></figure>
 
 Вывод можно оформить следующим образом, как показано на скриншоте ниже:
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1336).png" alt=""><figcaption></figcaption></figure>
 
 Установите галочку срабатывания «после предыдущего робота» и нажмите кнопку «СОХРАНИТЬ».
 
