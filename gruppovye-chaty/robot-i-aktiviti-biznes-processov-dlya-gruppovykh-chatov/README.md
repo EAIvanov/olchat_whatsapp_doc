@@ -20,13 +20,13 @@
 {% step %}
 В приложении Олчат нажмите «Настройки приложения».
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.44.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{EA575317-0B54-43FF-95B7-66ED3D7B626F}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Из меню слева выберите «Роботы».
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_13.46.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{C9DBC82A-94B9-455E-BA9D-8B62CB585C7F}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

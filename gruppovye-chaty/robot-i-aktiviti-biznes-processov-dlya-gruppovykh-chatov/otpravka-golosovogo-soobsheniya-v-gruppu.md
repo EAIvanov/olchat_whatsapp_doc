@@ -28,7 +28,7 @@
 {% step %}
 Нажмите «+ Создать»; укажите стадию, на которой должен срабатывать робот; из списка меню выберите «Другие роботы» и нажмите «Добавить» напротив «\[Олчат] \[Группы] Отправить голосовое сообщение».
 
-<figure><img src="../../.gitbook/assets/Скриншот 27.08.25_20.52.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{B67C9011-5932-4877-BF14-5FD0F0AA6140}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -47,7 +47,7 @@ ID файла указан в соответствующем столбце ст
 
 <figure><img src="../../.gitbook/assets/Скриншот 27.08.25_21.03.38.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Скриншот 27.08.25_20.56.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{E868B0D3-0560-4AAB-A585-A04345BA4228}.png" alt=""><figcaption></figcaption></figure>
 
 Сохраните настройки робота.
 {% endstep %}

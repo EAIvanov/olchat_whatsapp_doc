@@ -16,17 +16,17 @@
 Игнорирование данной рекомендации может привести к блокировке вашего аккаунта WhatsApp.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{989D6B27-4AF4-4011-9BD6-1C711D27F5C1}.png" alt=""><figcaption></figcaption></figure>
 
 ### Подключение групп
 
 Чтобы подключить группы WhatsApp, в левом меню на портале зайдите в приложение Олча&#x442;**.** Затем перейдите в «Настройки групп» в меню приложения или в списке аккаунтов напротив «Группы WhatsApp» нажмите на **«•••»** – значок вызова настроек подключенных групп:
 
-<figure><img src="../.gitbook/assets/Screenshot_4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{0520AB3A-8AD6-4B77-96E1-E9B966B2A1A4}.png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне нажмите на иконку **Меню** — **«Подключить группу»**, выберите активный коннектор, затем группу, которую хотите подключить, и нажмите на кнопку «Подключить». Группа подключена, и вы можете перейти в создавшийся чат.
 
-<figure><img src="../.gitbook/assets/image (1417).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{C5C490DC-33F8-44E8-8E01-E7A8DBF411ED}.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1380).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@
 
 Кроме подключения групп, в которых вы состоите, можно создавать новые группы и добавлять в них участников. Для этого нажмите на кнопку **Меню** — **«Новая группа WA».**
 
-<figure><img src="../.gitbook/assets/image (1418).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{C3E3CA61-019B-4F28-AD82-251C99A0C024}.png" alt=""><figcaption></figcaption></figure>
 
 Внесите данные создаваемой группы:
 
@@ -101,7 +101,7 @@
 8. Пытаться получать имена из CRM. В группе WhatsApp не всегда есть контакты и имена. При включении этой опции производится попытка получить имена из базы CRM.
 9.  Связь с CRM. К сущности CRM можно прикрепить ссылку на групповой чат. Она появится в виджете [vidzhet-statusy-i-chaty.md](../ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention") в карточке CRM.<br>
 
-    <figure><img src="../.gitbook/assets/image (1388).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1441).png" alt=""><figcaption></figcaption></figure>
 10. Сотрудники в чате — выводит список сотрудников портала, присутствующих в чате группы. Чтобы добавить сотрудников в чат группы, необходимо нажать на кнопку «ДОБАВИТЬ СОТРУДНИКОВ» и выбрать его из структуры компании. Чтобы удалить сотрудника из чата, нажмите на значок «✖» крестик напротив ФИО сотрудника.
 11. Кнопка «Отключить» – отключает данную группу от портала Битрикс24.
 
@@ -123,13 +123,13 @@
 {% step %}
 Перейдите в «Настройки групп» из основного меню приложения Олчат.
 
-<figure><img src="../.gitbook/assets/Скриншот 11.07.25_07.31.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{5CBBD608-743B-4522-8DA1-3F2D6858A337}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Отметьте желаемые для отключения группы, либо нажмите «Выбрать все».
 
-<figure><img src="../.gitbook/assets/image (1424).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1436).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

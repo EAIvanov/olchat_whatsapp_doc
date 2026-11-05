@@ -21,7 +21,7 @@
 3. Из списка меню выберите «Другие роботы».
 4. Нажмите «Добавить» напротив «**\[Олчат] \[Группы] Отправить сообщение с кнопками**».
 
-<figure><img src="../../.gitbook/assets/Скриншот 28.08.25_23.34.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{242294EF-3D30-45B4-BA1A-23B85F0212C1}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -34,7 +34,7 @@
 5. Введите содержание кнопок. В данном поле содержится ограничение в 25 символов для каждой кнопки, также с одним сообщением могут быть отправлены максимум 3 кнопки.
 6. Сохраните настройки.
 
-<figure><img src="../../.gitbook/assets/Скриншот 28.08.25_23.36.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{9B8625AE-2E10-419C-A75E-345CDDE59218}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
