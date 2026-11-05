@@ -32,7 +32,7 @@
 
 С помощью функционала вставки значения, добавим номер телефона ответственного из результатов работы робота:
 
-<figure><img src="../../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{947244A4-63D5-4E13-A5C3-1FACD615BB4B}.png" alt=""><figcaption></figcaption></figure>
 
 В текст сообщения пропишем информацию по задаче, также воспользовавшись функционалом вставка значения:
 
@@ -43,4 +43,3 @@
 В результате сработавших роботов, Ответственный по сделке получит уведомление в WhatsApp такого вида:
 
 <figure><img src="../../.gitbook/assets/image (785).png" alt=""><figcaption></figcaption></figure>
-

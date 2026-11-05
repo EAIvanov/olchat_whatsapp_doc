@@ -22,7 +22,7 @@
 
 Затем добавьте робота **«\[Олчат] WhatsApp - Отправка файла»** и выполните его настройку.
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{4D3A05E2-2D45-4150-AE5E-E845D4336F94}.png" alt=""><figcaption></figcaption></figure>
 
 1. Установите галочку **«после предыдущего робота»**.
 2. Укажите **Линию WhatsApp**, через которую планируете сделать отправку.
@@ -52,7 +52,7 @@
 
 6. В поле **Подпись** можно написать текст, который будет показан под QR-кодом.
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{71B5817E-30CF-44DC-838F-5562FC36D147}.png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 

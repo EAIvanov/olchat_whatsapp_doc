@@ -4,26 +4,24 @@
 
 Для получения ссылки на группу добавьте робота «\[Олчат] Получить ссылку на группу». Для этого перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[Олчат] Получить ссылку на группу ‒ Добавить.**
 
-<figure><img src="../../.gitbook/assets/image (1212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{289D8F66-5181-4A14-B4C7-49AA6BCE6D40}.png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робот&#x430;**.** Для этого на добавленном роботе нажмите на кнопку «изменить», чтобы открыть интерфейс редактирования робота:
 
 1. Укажите **Линию WhatsApp,** через которую планируете получить ссылку на группу.
 2. Укажите **ID (идентификатор) группы.** Получить ID группы можно из дополнительных результатов робота [Broken link](/broken/pages/ieq04Uoj0EnsU6mGP2xn "mention").
 
-<figure><img src="../../.gitbook/assets/image (1213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{A3CCAC4D-326A-4C87-8B43-A5BBDB484ADC}.png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 
 ## Настройка активити (действия) бизнес-процесса
-
-<figure><img src="../../.gitbook/assets/image (1215).png" alt=""><figcaption></figcaption></figure>
 
 Для получения ссылки на группу из бизнес-процесса добавьте действие «\[Олчат] Получить ссылку на группу». Выполните настройку параметров действия:
 
 1. Укажите **Линию WhatsApp,** через которую планируете получить ссылку на группу.
 2. Укажите **ID группы.** Получить ID группы можно из дополнительных результатов робота [Broken link](/broken/pages/ieq04Uoj0EnsU6mGP2xn "mention").
 
-<figure><img src="../../.gitbook/assets/image (1214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{5F450147-F955-4331-9CE8-548BC53BCFCF}.png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «Сохранить».

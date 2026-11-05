@@ -22,8 +22,6 @@
 
 ## Настройка активити (действия) бизнес-процесса
 
-<figure><img src="../../.gitbook/assets/image (1209).png" alt=""><figcaption></figcaption></figure>
-
 Для создания группы из бизнес-процесса добавьте действие «\[Олчат] Создать группу». Выполните настройку параметров действия:
 
 1. Укажите **Линию WhatsApp,** через которую будет создана группу.
@@ -33,10 +31,8 @@
 5. В поле **Сотрудники Битрикс24** можно указать тех, которых добавить в созданный чат группы. По умолчанию в чате только инициатор активити.
 6. Нажмите на кнопку **СОХРАНИТЬ**.
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{C3F149C9-4619-44F7-9DE9-5825ED7D9A1E}.png" alt=""><figcaption></figcaption></figure>
 
 Результат работы робота или активити «\[Олчат] Создать группу» можно вывести в уведомления или использовать в условиях для выстраивания различных сценариев автоматизации. Например, ID (идентификатор) группы, полученный из дополнительных результатов может быть использован в роботе и активити [poluchenie-ssylki-na-gruppu.md](poluchenie-ssylki-na-gruppu.md "mention").
 
-<figure><img src="../../.gitbook/assets/image (1208).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (1211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{EC55750E-B432-4F6F-8421-609CBD0F3D9A}.png" alt=""><figcaption></figcaption></figure>
