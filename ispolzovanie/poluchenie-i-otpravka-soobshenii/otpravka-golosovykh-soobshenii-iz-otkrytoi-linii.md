@@ -4,21 +4,21 @@
 
 ### Как отправить голосовое сообщение
 
-1. Откройте нужный чат WhatsApp в Открытой линии.
+1. Откройте нужный чат WhatsApp в Открытой линии. Откройте панель приложений.
 2.  В поле отправки сообщения нажмите на значок **Олчат - отправка голосовых сообщений**.
 
-    <figure><img src="../../.gitbook/assets/{C78C2C61-9BDB-494E-A649-8AC3022AFD5B}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot_12.jpg" alt=""><figcaption></figcaption></figure>
 3.  Нажмите **Записать голосовое сообщение**.<br>
 
-    <figure><img src="../../.gitbook/assets/{6A79ACCA-EE61-4602-96A5-6B87CC756A01}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot_1.jpg" alt=""><figcaption></figcaption></figure>
 4.  После нажатия начнётся запись голосового сообщения. Во время записи отображается её длительность.<br>
 
-    <figure><img src="../../.gitbook/assets/{735BCE3E-EB5E-4B03-AF6A-3B54AF6DAC6D}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot_2.jpg" alt=""><figcaption></figcaption></figure>
 5.  Когда закончите запись, нажмите **Готово**.
 
     Если запись нужно отменить, нажмите на значок **корзины**.<br>
 
-    <figure><img src="../../.gitbook/assets/{2B20855E-931A-40B5-BEB9-CB7A423B3A08}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot_3.jpg" alt=""><figcaption></figcaption></figure>
 6. Нажмите **Отправить**.
 
 Голосовое сообщение будет отправлено клиенту в WhatsApp.
