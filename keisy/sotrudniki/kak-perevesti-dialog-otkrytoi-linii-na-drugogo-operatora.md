@@ -10,7 +10,7 @@
 
 Для начала в воронке «Предпродажа» на стадию «Сделка успешна» добавим робота [informaciya-o-dialoge.md](../../roboty-i-aktiviti/roboty/informaciya-o-dialoge.md "mention") и выполним его настройку как показано на скриншоте ниже:
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{54ACD046-E2FF-4BD1-A2ED-50A0F7A6A231}.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В качестве «Типа идентификатора» вы можете использовать также ID чата или ID диалога, которые можно получить из дополнительных результатов робота [poluchit-informaciyu-o-chate-iz-whatsapp.md](../../roboty-i-aktiviti/roboty/poluchit-informaciyu-o-chate-iz-whatsapp.md "mention").
@@ -20,7 +20,7 @@
 
 Следом добавим робота [perevesti-dialog-na-drugogo-operatora-liniyu.md](../../roboty-i-aktiviti/roboty/perevesti-dialog-na-drugogo-operatora-liniyu.md "mention")и выполним его настройку как показано на скриншоте ниже:
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{53678215-23AD-42FA-A449-106733EC72BE}.png" alt=""><figcaption></figcaption></figure>
 
 3. Обязательно укажите, что робот должен сработать после предыдущего.
 4. В качестве «ID чата» используйте дополнительные результаты работы предыдущего робота.
@@ -29,7 +29,7 @@
 
 Последним добавьте стандартного робота Битрикс24 «Сменить воронку» и выполните его настройку:
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{BACD8A8D-A8EC-4F09-8AA8-15C76FA3A0B3}.png" alt=""><figcaption></figcaption></figure>
 
 1. Укажите, что робот должен сработать после предыдущего.
 2. Укажите воронку, в которую необходимо перенести сделку.

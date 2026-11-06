@@ -1,6 +1,6 @@
 # Ошибка «Ошибка получения токена авторизации»
 
-<figure><img src="../../.gitbook/assets/image (1199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1453).png" alt=""><figcaption></figcaption></figure>
 
 Если у вас облачная версия, то эта ошибка обозначает какой-то сбой на стороне сервера авторизации Битрикс24.
 

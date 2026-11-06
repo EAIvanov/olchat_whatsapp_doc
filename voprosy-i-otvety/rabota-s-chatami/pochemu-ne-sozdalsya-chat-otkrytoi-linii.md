@@ -12,9 +12,9 @@
 
 Если отправка производится с помощью действия бизнес-процесса или робота, в настройках действия или робота проверьте параметр **«Создавать сообщение в чате открытой линии».** Он также должен быть активен.
 
-<figure><img src="../../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1448).png" alt=""><figcaption></figcaption></figure>
 
-![Настройка параметров робота](../../.gitbook/assets/51.png)
+<figure><img src="../../.gitbook/assets/{F0847CDB-B346-4B9C-A571-888F32A9D3B9}.png" alt=""><figcaption></figcaption></figure>
 
 ### Отключено автосоздание лидов в настройках открытой линии
 

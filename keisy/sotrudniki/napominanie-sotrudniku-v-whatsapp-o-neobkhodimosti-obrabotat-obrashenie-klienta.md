@@ -24,15 +24,15 @@
 
 Далее на стадию **«Новая»** добавим робота **«\[Олчат — Чаты и Группы WhatsApp] WhatsApp - Отправка сообщения».** Обязательно укажем, что робот должен сработать после предыдущего.
 
-<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{00484B9B-3525-4BFC-AA58-F61CB9FFEAAD} (1).png" alt=""><figcaption></figcaption></figure>
 
 С помощью функционала вставки значения, добавим номер телефона ответственного из результатов работы робота:
 
-<figure><img src="../../.gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{9F85AD5C-2246-4309-9AAC-BE3761757292}.png" alt=""><figcaption></figcaption></figure>
 
 Пропишем текст сообщения:
 
-<figure><img src="../../.gitbook/assets/image (781).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{CC24CE74-92E9-48B2-B169-846337187AC8}.png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ».
 
@@ -55,5 +55,3 @@
 Нажмите на кнопку «СОХРАНИТЬ».
 
 Таким образом, выстраивается следующая схема работы роботов и триггеров: если сотрудник успевает обработать чат и ответить клиенту в течение 30 минут после поступления обращения от клиента, сделка с помощью триггера перейдёт в статус **«Обработана»** и роботы настроенные на стадии **«Новая»** не сработают. Если же прошло более 30 минут и сотрудник не успел обработать чат, робот пришлёт уведомление сотруднику в WhatsApp и добавит к сделке наблюдателя (руководителя сотрудника).
-
-<figure><img src="../../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>

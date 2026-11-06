@@ -6,13 +6,11 @@
 
 Чтобы увидеть историю чатов, за кем они закреплены и их статус, зайдите в **CRM — Клиенты — Контакт-центр — Список диалогов.**
 
-<figure><img src="../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1450).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (930).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1449).png" alt=""><figcaption></figcaption></figure>
 
 В колонке «Сотрудник» отображаются все ответственные для данного диалога. В колонке «Статус» — текущее состояние активности диалога. Вы можете перейти в чат и в начале диалога увидеть, по какому правилу было произведено распределение.
-
-<figure><img src="../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
 
 ### Ответственный сотрудник не доступен
 
