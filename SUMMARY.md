@@ -157,6 +157,7 @@
   * [Как долго хранятся файлы в чате?](voprosy-i-otvety/rabota-s-chatami/kak-dolgo-khranyatsya-faily-v-chate.md)
   * [Как сделать рассылку картинки вместе с текстом ?](voprosy-i-otvety/rabota-s-chatami/kak-sdelat-rassylku-kartinki-vmeste-s-tekstom.md)
   * [Какой максимальный размер для отправки файла?](voprosy-i-otvety/rabota-s-chatami/kakoi-maksimalnyi-razmer-dlya-otpravki-faila.md)
+  * [Copy of Какой максимальный размер для отправки файла?](voprosy-i-otvety/rabota-s-chatami/kakoi-maksimalnyi-razmer-dlya-otpravki-faila-1.md)
   * [Ошибка «Канал коммуникации не настроен»](voprosy-i-otvety/rabota-s-chatami/oshibka-kanal-kommunikacii-ne-nastroen-1.md)
   * [Ошибка «Отсутствует временная папка»](voprosy-i-otvety/rabota-s-chatami/oshibka-otsutstvuet-vremennaya-papka.md)
   * [Ошибка «Этот файл был удален»](voprosy-i-otvety/rabota-s-chatami/oshibka-etot-fail-byl-udalen.md)
