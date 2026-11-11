@@ -24,7 +24,7 @@
 
 Далее на стадию **«Новая»** добавим робота **«\[Олчат — Чаты и Группы WhatsApp] WhatsApp - Отправка сообщения».** Обязательно укажем, что робот должен сработать после предыдущего.
 
-<figure><img src="../../.gitbook/assets/{00484B9B-3525-4BFC-AA58-F61CB9FFEAAD} (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{00484B9B-3525-4BFC-AA58-F61CB9FFEAAD}.png" alt=""><figcaption></figcaption></figure>
 
 С помощью функционала вставки значения, добавим номер телефона ответственного из результатов работы робота:
 

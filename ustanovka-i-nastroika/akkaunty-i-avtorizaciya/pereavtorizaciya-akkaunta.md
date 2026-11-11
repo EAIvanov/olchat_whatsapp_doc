@@ -6,7 +6,7 @@
 {% step %}
 Откройте приложение Олчат.
 
-<figure><img src="../../.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

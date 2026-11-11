@@ -12,7 +12,7 @@
 
 Для начала необходимо установить бот-помощник на линию.
 
-<figure><img src="../../.gitbook/assets/image (1145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1144).png" alt=""><figcaption></figcaption></figure>
 
 Затем необходимо выбрать поле для настройки «Привязать параметр аналитики к полю CRM».
 

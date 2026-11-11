@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/шаблоны сообщений.png" alt=""><figcaption></figcaption></figure>
 
-[Описание настроек шаблонов сообщений](https://app.gitbook.com/o/QLoEn3VhAt7A4TTVVD1a/s/-LcuJc7XlLhpPyLWZz1s/~/edit/~/changes/1412/capabilities/shablony-soobshenii#opisanie-nastroek-shablonov-soobshenii)Окно настройки шаблонов сообщений содержит в себе меню для управления шаблонами и несколько столбцов:
+[Описание настроек шаблонов сообщений](shablony-soobshenii.md#opisanie-nastroek-shablonov-soobshenii)Окно настройки шаблонов сообщений содержит в себе меню для управления шаблонами и несколько столбцов:
 
 1. **Поиск**. Возможность поиска шаблонов по ключевым словам.
 2. **Категория**. Фильтрация шаблонов по принадлежности к категориям.

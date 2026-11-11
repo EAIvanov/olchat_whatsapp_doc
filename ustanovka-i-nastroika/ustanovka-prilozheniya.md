@@ -18,7 +18,7 @@
 {% step %}
 Выберите «Олчат — Чаты и Группы WhatsApp».
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -24,7 +24,7 @@
 
 6\. Отсканируйте QR-код.
 
-<figure><img src="../../.gitbook/assets/image (898).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (888).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (924).png" alt=""><figcaption></figcaption></figure>
 

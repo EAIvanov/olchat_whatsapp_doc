@@ -10,7 +10,7 @@
 {% step %}
 Откройте Олчат, выбрав приложение из меню слева на портале Битрикс24.
 
-<figure><img src="../../.gitbook/assets/image (843).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -66,7 +66,7 @@
 
 В стадии **«Оповещение за 7 дней»** добавим робота **«\[Олчат — Чаты и Группы WhatsApp] Отправка сообщения»,** с помощью которого напомним клиенту о предстоящем мероприятии.
 
-<figure><img src="../../.gitbook/assets/{FB4DDEE4-4D1D-4680-A7FC-377F8F7AFB59} (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{FB4DDEE4-4D1D-4680-A7FC-377F8F7AFB59}.png" alt=""><figcaption></figcaption></figure>
 
 В текст сообщения добавим информацию из полей карточки сделки через функционал вставки значения:
 

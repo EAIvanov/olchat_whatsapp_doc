@@ -80,7 +80,7 @@
 * **Назначить администратором** — предоставить участнику права администратора группы.
 * **Убрать права администратора** — отозвать права администратора у выбранного участника.
 
-<figure><img src="../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 #### Группа
 
