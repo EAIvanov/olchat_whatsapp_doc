@@ -30,11 +30,9 @@
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_14.11.34.png" alt=""><figcaption></figcaption></figure>
-
 Для установки роботов и активити бизнес-процессов нажмите на кнопку **«**<img src="../../.gitbook/assets/image (1403).png" alt="" data-size="line"> **ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с <img src="../../.gitbook/assets/image (1401).png" alt="" data-size="line"> на <img src="https://docs.olchat.io/~gitbook/image?url=https%3A%2F%2F2213176759-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-LcuJc7XlLhpPyLWZz1s%252Fuploads%252FwRXagoebJAMYyGbgYDZX%252Fimage.png%3Falt%3Dmedia%26token%3D311763fb-ec84-4501-966d-a70398240d33&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=7103a126&#x26;sv=2" alt="" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/Скриншот 24.07.25_14.49.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_10.jpg" alt=""><figcaption></figcaption></figure>
 
 [\[Группы\] Отправить сообщение](otpravka-soobsheniya-v-gruppu.md) — робот для отправки сообщений в группу.
 
@@ -42,7 +40,7 @@
 
 [\[Группы\] Отправить контакт](otpravka-kontakta-v-gruppu.md) — отправляет карточку контакта в группу.
 
-[\[Группы\] Отправить оформленную ссылку](poluchenie-ssylki-na-gruppu.md) — робот формирует и отправляет в группу ссылку с превью и описанием.
+\[Группы] Отправить ссылку — робот отправляет в группу ссылку с превью и описанием.
 
 [\[Группы\] Отправить геометку](otpravka-geometki-v-gruppu.md) — отправляет в группу местоположение, заданное координатами широты и долготы.
 
