@@ -40,6 +40,7 @@
 
 * [Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii/README.md)
   * [Отправка сообщений из приложения в карточке](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
+  * [Отправка сообщений из приложения в карточке](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-prilozheniya-v-kartochke.md)
   * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
   * [Отправка голосовых сообщений из Открытой линии](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-golosovykh-soobshenii-iz-otkrytoi-linii.md)
   * [Отправка сообщений через функционал СМС](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-sms.md)
