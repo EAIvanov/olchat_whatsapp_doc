@@ -6,7 +6,7 @@
 * Изменение заголовков чатов по шаблону.
 * Привязка аналитики в поле CRM (системы управления взаимоотношениями с клиентами).
 * Установка бота, которому передаётся управление после бота Олчат.
-* [upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md](../gruppovye-chaty/upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md "mention").
+* [Broken link](/broken/pages/00S0Rmi7wK00tFElz8Kw "mention").
 
 ### Установка бота
 

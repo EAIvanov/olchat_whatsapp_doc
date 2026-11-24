@@ -154,7 +154,7 @@
     * /remove\_whatsapp\_user Номер пользователя – Добавляет номер в группу WhatsApp.
     * /add\_whatsapp\_user Номер пользователя – Удаляет номер из группы WhatsApp.
 
-    Подробнее в статье [upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md](gruppovye-chaty/upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md "mention").
+    Подробнее в статье [Broken link](/broken/pages/00S0Rmi7wK00tFElz8Kw "mention").
 
 ### Исправили:
 
